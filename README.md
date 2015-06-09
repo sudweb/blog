@@ -19,7 +19,7 @@ rbenv exec bundle install
 
 # Développer localement
 
-- ```bash
+```bash
 rbenv exec foreman start
 ```
 

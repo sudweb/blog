@@ -1,0 +1,14 @@
+<div id="post-">
+    <div class="sticky-header">
+        <h2 class="post-title entry-title">
+            <a href="{{ post.permalink | prepend: site.baseurl }}" rel="permalink">{{ post.title }}</a>
+        </h2>
+
+        <div class="byline">
+            <time class="published">{{ post.date | date_to_long_string }}</time>
+            &middot; par <span class="author vcard">{{ post.author }}</span>
+        </div>
+    </div>
+
+    <div class="entry-summary">{{ post.excerpt }}</div>
+</div>

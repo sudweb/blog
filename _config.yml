@@ -1,0 +1,14 @@
+url: http://sudweb.fr/blog
+name: Le blog de Sud Web
+description:
+baseurl: /blog
+permalink: /:year/:month/:title/
+paginate: 5
+paginate_path: "/page/:num/"
+timezone: Europe/Paris
+editions:
+  2015: Montpellier
+  2014: Toulouse
+  2013: Avignon
+  2012: Toulouse
+  2011: Nîmes

@@ -1,1 +1,17 @@
-{{ content }}
+{% include head.html %}
+
+<body class="wordpress ltr fr_FR parent-theme logged-out custom-header singular singular-page page-template-default">
+<div id="container">
+  <div class="wrap">
+
+    <div id="main">
+          {{ content }}
+    </div>
+
+    {% include sidebar.html %}
+    {% include footer.html %}
+
+  </div>
+</div>
+</body>
+</html>

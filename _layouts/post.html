@@ -1,1 +1,35 @@
-{{ content }}
+{% include head.html %}
+
+<body class="wordpress ltr fr_FR parent-theme y2015 m03 d19 h20 thursday custom-header singular singular-post">
+<div id="container">
+  <div class="wrap">
+    {% include header.html %}
+
+
+    <div id="main">
+      <div id="content">
+        <div id="post-" class="hentry post publish">
+            <div class="sticky-header">
+                <h2 class="post-title entry-title">
+                    {{ page.title }}
+                </h2>
+
+                <div class="byline">
+                    <time class="published">{{ page.date | date_to_long_string }}</time>
+                    &middot; par <span class="author vcard">{{ page.author }}</span>
+                </div>
+            </div>
+
+            <div class="entry-summary">{{ page.excerpt }}</div>
+        </div>
+        {{ content }}
+      </div>
+    </div>
+
+    {% include sidebar.html %}
+    {% include footer.html %}
+
+  </div>
+</div>
+</body>
+</html>

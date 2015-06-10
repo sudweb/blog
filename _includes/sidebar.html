@@ -1,0 +1,13 @@
+<div id="sidebar-primary" class="sidebar">
+    <section id="text-2" class="widget widget_text widget-widget_text">
+      <h3 class="widget-title">Nos éditions</h3>
+
+      <div class="textwidget">
+        <ul>
+          {% for edition in site.editions %}
+            <li><a href="{{ edition[0] | prepend: site.baseurl }}">{{ edition[0] }}, {{ edition[1] }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+  </section>
+</div>

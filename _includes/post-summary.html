@@ -7,6 +7,13 @@
         <div class="byline">
             <time class="published">{{ post.date | date_to_long_string }}</time>
             &middot; par <span class="author vcard">{{ post.author }}</span>
+
+            {% if post.categories %}
+              dans
+              {% for category in post.categories %}
+              <a href="{{ category | prepend: '/category/' | prepend: site.baseurl }}" rel="tag">{{ category }}</a>
+              {% endfor %}
+            {% endif %}
         </div>
     </div>
 

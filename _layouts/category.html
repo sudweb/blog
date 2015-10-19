@@ -1,0 +1,29 @@
+{% include head.html %}
+
+<body class="wordpress ltr fr_FR category category-{{ page.category }} blog">
+<div id="container">
+  <div class="wrap">
+    {% include header.html %}
+
+
+    <div id="main">
+      <div id="content">
+        <h1>{{ page.title }}</h1>
+
+        <div class="hfeed">
+        {% assign category = page.category | downcase %}
+
+        {% for post in site.categories[category] %}
+          {% include post-summary.html post=post %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    {% include sidebar.html %}
+    {% include footer.html %}
+
+  </div>
+</div>
+</body>
+</html>

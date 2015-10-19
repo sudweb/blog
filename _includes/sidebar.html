@@ -5,7 +5,7 @@
       <div class="textwidget">
         <ul>
           {% for edition in site.editions %}
-            <li><a href="{{ edition[0] | prepend: site.baseurl }}">{{ edition[0] }}, {{ edition[1] }}</a></li>
+            <li><a href="http://sudweb.fr/{{ edition[0] }}/">{{ edition[0] }}&nbsp;:&nbsp;{{ edition[1] }}</a></li>
           {% endfor %}
         </ul>
       </div>

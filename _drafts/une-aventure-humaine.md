@@ -12,11 +12,15 @@ categories:
 
 L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au moment où, soutenus par les copains, [Loïc est monté sur scène lors de Paris-Web 2010](http://sudweb.fr/intervention-parisweb2010.mp4). Les bonnes volontés se sont vite manifestées, une première équipe s’est rapidement constituée avec pour objectif d’organiser une journée de conférences à Nîmes, six mois plus tard.
 
-Nous avons accueilli plus d’une quinzaine de personnes dans l’équipe de départ. Nous ne nous connaissions pas forcément tous, et nous n’avions très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite. Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de **Loïc**, **Marie**, **Thibault** nous avons réussi notre pari. L’association était née, nous avions un premier président désigné d’office et nous avons réuni près d’une centaine de personnes lors de notre première édition, et pas des moindres, puisqu’outre les fidèles de Paris-Web, nous avons eu l’honneur d’accueillir  entre autres des gens comme Bert Bos, co-auteur de la spécification CSS pour le W3C. La rêve était devenu réalité.
+Nous avons accueilli plus d’une quinzaine de personnes dans l’équipe de départ. Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite. 
+
+Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de **Loïc**, **Marie**, **Thibault** nous avons réussi notre pari. 
+
+L’association était née, nous avions un premier président désigné d’office et nous avons réuni près d’une centaine de personnes lors de notre première édition, et pas des moindres, puisqu’outre les fidèles de Paris-Web, nous avons eu l’honneur d’accueillir  entre autres des gens comme Bert Bos, co-auteur de la spécification CSS pour le W3C. La rêve était devenu réalité.
 
 Quelques années plus tard, certains de nos premiers orateurs  travaillent maintenant pour des sociétés comme Twitter ou des organismes comme Mozilla, d’autres ont monté leur propre structure, et beaucoup ont continué de donner des conférences, ce qui n’était pas forcément le cas avant ce premier Sud Web.
 
-Après le succès de cette première édition, nous avons naturellement poursuivi sur notre lancée, perdant au passage d’autres membres en route. Nous avons décidé de ne pas les remplacer car nous savions qu’il était presque contre-productif d’être quinze pour ce type d’organisation.
+Après le succès de cette première édition, nous avons naturellement poursuivi sur notre lancée, perdant au passage quelques membres, assommés par les nombreux échanges par mail. Nous avons décidé de ne pas les remplacer car nous savions qu’il était presque contre-productif d’être quinze pour ce type d’organisation. Nous avons d’ailleurs opté pour Basecamp pour nous aider à mieux gérer le projet et nous sommes promis de plus nous parler via Skype pour mieux nous synchroniser.
 
 ## Une grande équipe
 
@@ -34,7 +38,11 @@ Après une première tentative avortée à Bordeaux, pour la quatrième édition
 
 Après quatre années de bons et loyaux services, certains membres ont préféré se consacrer à d’autres projets, il ne restait quasiment plus alors que quatre membres, qui formaient une équipe réduite à son strict minimum. Sans nous en rendre compte, nous formions désormais une famille.
 
-Grâce à la confiance qui nous unissait, nous avons pu mener encore une fois notre mission à bien, tout en continuant à expérimenter. Thomas, fraichement émigré à Londres, a fait de belles rencontres et a pu élaboré un beau programme. Jamais une édition ne nous a paru plus simple à organiser, chacun savait ce qu’il avait à faire et n’avait plus besoin de demander de permission pour avancer. Chacun pouvait expérimenter en toute liberté et s’organiser comme bon lui semble. Nous avions bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce sujet fut d’ailleurs abordé par le *team builder* de chez Spotify, Kevin Goldsmith dans [sa conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais cette semaine passée en compagnie de la formidable Eva-Lotta Lamm.
+Grâce à la confiance qui nous unissait, nous avons pu mener encore une fois notre mission à bien, tout en continuant à expérimenter. Au revoir Skype, Basecamp et Wordpress, bonjour Hangouts, Trello et Github.
+
+Thomas, fraichement émigré à Londres, a fait de belles rencontres et a pu élaboré un beau programme. Jamais une édition ne nous a paru plus simple à organiser, chacun savait ce qu’il avait à faire et n’avait plus besoin de demander de permission pour avancer. Chacun pouvait expérimenter en toute liberté et s’organiser comme bon lui semble. 
+
+Nous avions bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce sujet fut d’ailleurs abordé par le *team builder* de chez Spotify, Kevin Goldsmith dans [sa conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais cette semaine passée en compagnie de la formidable Eva-Lotta Lamm.
 
 ## La relève
 
@@ -52,7 +60,7 @@ Après avoir annoncé que nous mettions le cap sur Bordeaux pour 2016, **Matthie
 
 Après cinq ans, nous nous sommes dit qu’il fallait commencer à passer la main pour que Sud Web puisse exister sans ses fondateurs. Avec cinq nouvelles recrues en deux éditions, il était temps de réélire le bureau. Les choix se sont imposés d’eux-mêmes, encore une fois sans besoin d’avoir à débattre.
 
-Le vote fut unanime et Amanda, qui avait fait preuve de beaucoup de détermination l’année précédente était toute désignée pour prendre la relève de Loïc, notre président à la barbe majestueuse, qui allait pouvoir goûter sereinement aux joies de la paternité. Nathalie, fort de son expérience au Parti Pirate, est la plus à même pour nous aider à remettre de l’ordre dans nos comptes, et au besoin Bertand, qui est déjà impliqué dans Codeurs en Seine pourra l’y aider. Ce nouvel élan nous permettra nous l’espérons de vous proposer une magnifique sixième édition à Bordeaux.
+Le vote fut unanime et Amanda, qui avait fait preuve de beaucoup de détermination l’année précédente était toute désignée pour prendre la relève de Loïc, notre président à la barbe majestueuse, qui allait pouvoir goûter sereinement aux joies de la paternité. Nathalie, fort de son expérience au Parti Pirate, est la plus à même pour nous aider à remettre de l’ordre dans nos comptes, et au besoin Bertrand, qui est déjà impliqué dans Codeurs en Seine pourra l’y aider. Ce nouvel élan nous permettra nous l’espérons de vous proposer une magnifique sixième édition à Bordeaux.
 
 Ce week-end fut l’occasion de découvrir une très belle ville, et d’apprendre à mieux connaître nos nouveaux camarades en partageant des moments de complicité, qui sont terriblement importants quand vous travaillez à distance tout l’année chacun de votre côté.
 

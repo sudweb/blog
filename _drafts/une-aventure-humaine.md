@@ -14,19 +14,19 @@ L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au mo
 
 Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite. 
 
-Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de **Loïc**, **Marie** ou **Thibault**, nous avons réussi notre pari. 
+Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de [**Loïc**](https://twitter.com/loicmathaud "Loïc Mathaud"), [**Marie**](https://twitter.com/marie_alhomme "Marie Alhomme") ou **Thibault**, nous avons réussi notre pari. 
 
 L’association était née, nous avions un premier président désigné d’office et nous avons réuni près d’une centaine de personnes lors de notre première édition, et pas des moindres, puisqu’outre les fidèles de Paris-Web, nous avons eu l’honneur d’accueillir des gens comme Bert Bos, co-auteur de la spécification CSS pour le W3C. Le rêve était devenu réalité.
 
 D'ailleurs, certains de nos premiers orateurs  travaillent maintenant pour des entités comme Twitter ou Mozilla, d’autres ont monté leur propre structure, et beaucoup ont continué à donner des conférences, ce qui n’était pas forcément le cas avant ce premier Sud Web.
 
-Après le succès de cette première édition, nous avons naturellement poursuivi sur notre lancée, perdant au passage quelques membres. Nous avons décidé de ne pas les remplacer car au final, il est tout à fait possible d'organiser notre évènement avec une équipe bien plus réduite. Nous avons opté pour Basecamp pour nous aider à mieux gérer le projet et nous sommes promis de faire plus de visio conférences pour mieux nous synchroniser.
+Après le succès de cette première édition, nous avons naturellement poursuivi sur notre lancée, perdant au passage quelques membres. Nous avons décidé de ne pas les remplacer car au final, il est tout à fait possible d'organiser notre évènement avec une équipe bien plus réduite. Nous avons opté pour [Basecamp](https://basecamp.com/) pour nous aider à mieux gérer le projet et nous sommes promis de faire plus de visio conférences pour mieux nous synchroniser.
 
 ## Une grande équipe
 
-Nous avons changé de ville pour la deuxième édition, et sommes passés sur deux journées. **Nathalie** et **Frank**, les toulousains ont pris le relai sur la logistique locale, bien soutenus par le reste de l’équipe sur les autres tâches. Nous étions alors environ une dizaine et déjà nous nous marchions un peu moins sur les pieds, chacun trouvait sa place et prenait ses responsabilités. **Sébastien** pris en charge le design, **Goulven** l’intégration, **Rudy** les relations internationales, les traductions et l’animation, **Thomas** la préparation des orateurs, etc.
+Nous avons changé de ville pour la deuxième édition, et sommes passés sur deux journées. [**Nathalie**](https://twitter.com/nrosenberg "Nathalie Rosenberg") et [**Frank**](https://twitter.com/DirtyF "Frank Taillandier"), les toulousains ont pris le relai sur la logistique locale, bien soutenus par le reste de l’équipe sur les autres tâches. Nous étions alors environ une dizaine et déjà nous nous marchions un peu moins sur les pieds, chacun trouvait sa place et prenait ses responsabilités. **Sébastien** pris en charge le design, [**Goulven**](https://twitter.com/goulvench "Goulven Champenois") l’intégration, **Rudy** les relations internationales, les traductions et l’animation, [**Thomas**](https://twitter.com/oncletom "Thomas Parisot") la préparation des orateurs, etc.
 
-Grâce à l’expérience accumulée lors de la première année, cette deuxième édition fut encore une réussite, et nous étions ravis et fiers d’avoir pu accueillir des orateurs de renom comme Bruce Lawson ou Rachel Andrews, ainsi que des petits comiques comme Thibault Jouannic, Anthony Ricaud ou Nicolas Perriault. Nous avons eu de bons retours sur la deuxième journée que nous avons baptisée élaboratoires. Nous tenions le bon bout.
+Grâce à l’expérience accumulée lors de la première année, cette deuxième édition fut encore une réussite, et nous étions ravis et fiers d’avoir pu accueillir des orateurs de renom comme [Bruce Lawson](https://twitter.com/brucel) ou [Rachel Andrews](https://twitter.com/rachelandrew), ainsi que des petits comiques comme [Thibault Jouannic](https://twitter.com/thibaultj), [Anthony Ricaud](https://twitter.com/rik24d) ou Nicolas Perriault. Nous avons eu de bons retours sur la deuxième journée que nous avons baptisée élaboratoires. Nous tenions le bon bout.
 
 Il y eut peu de changements dans l’équipe quand il fallu se mettre en route pour le palais des Papes en Avignon. Tout le monde était content de faire partie de l’aventure. Certains ont néanmoins dû arrêter pour des raisons personnelles, la vie vous impose parfois de nouvelles priorités.
 
@@ -40,17 +40,17 @@ Après une première tentative avortée à Bordeaux, pour la quatrième édition
 
 Après quatre années de bons et loyaux services, certains membres ont préféré se consacrer à d’autres projets, comme Rudy qui s’envolait vers San Francisco. Il ne restait quasiment plus alors que quatre membres, qui formaient une équipe réduite à son strict minimum. Sans nous en rendre compte, nous formions désormais une famille.
 
-Grâce à la confiance qui nous unissait, nous avons pu mener encore une fois notre mission à bien, tout en continuant à expérimenter. Au revoir Skype, Basecamp et Wordpress, bonjour Hangouts, Trello et Github.
+Grâce à la confiance qui nous unissait, nous avons pu mener encore une fois notre mission à bien, tout en continuant à expérimenter. Au revoir Skype, Basecamp et Wordpress, bonjour [Hangouts](https://hangouts.google.com/), [Trello](https://trello.com/) et [Github](https://github.com/).
 
 Thomas, fraichement émigré à Londres, a fait de belles rencontres et a pu élaborer un beau programme. Jamais une édition ne nous a paru aussi simple à organiser, chacun savait ce qu’il avait à faire et n’avait plus besoin de demander la permission pour avancer. Chacun pouvait expérimenter en toute liberté et s’organiser comme bon lui semble.
 
-Nous avions bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce sujet fut d’ailleurs abordé par le *team builder* de chez Spotify, Kevin Goldsmith dans [sa conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais cette semaine passée en compagnie de la formidable Eva-Lotta Lamm.
+Nous avions bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce sujet fut d’ailleurs abordé par le *team builder* de chez Spotify, [Kevin Goldsmith](https://twitter.com/KevinGoldsmith) dans [sa conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais cette semaine passée en compagnie de la formidable [Eva-Lotta Lamm](https://twitter.com/evalottchen).
 
 ## La relève
 
 Notre volonté de continuer à nous déplacer de ville en ville, nous obligeait néanmoins à recruter des locaux, qui connaissent mieux que quiconque les meilleurs plans de leur ville et sont très précieux pour construire une expérience unique. Il est aussi préférable que ces personnes aient aussi vécu au moins un Sud Web en tant que participant, partagent nos valeurs et notre culture, afin que tout se fasse de manière naturelle.
 
-**Amanda**, encore étudiante lors de la première édition à Nîmes, répondait parfaitement à tous ces critères et son implication fut déterminante pour l’organisation de la cinquième édition à Montpellier. Elle y aura laissé tous ses R.T.T et pas mal d’énergie mais son arrivée nous a terriblement fait du bien, nous avons réalisé l’importance d’intégrer petit à petit du sang neuf.
+[**Amanda**](https://twitter.com/MartinezAmandaa "Amanda Martinez"), encore étudiante lors de la première édition à Nîmes, répondait parfaitement à tous ces critères et son implication fut déterminante pour l’organisation de la cinquième édition à Montpellier. Elle y aura laissé tous ses R.T.T et pas mal d’énergie mais son arrivée nous a terriblement fait du bien, nous avons réalisé l’importance d’intégrer petit à petit du sang neuf.
 
 En bonus cela ramenait de la parité dans l’équipe, ce qui n’était pas pour déplaire à Nathalie. Thomas pris également soin de son côté à prendre en compte cette parité dans la curation d’orateurs. Résultat, nous avons compté trois fois plus de femmes inscrites que l’année précédente et cela a indéniablement contribué à enrichir l’évènement. Anne-Sophie, Agnès, Béatrice, Lætitia, Lucile, Marie-Aline, Myriam, Stéphanie, et toutes les participantes : merci d’avoir répondu présentes.
 
@@ -58,7 +58,7 @@ En bonus cela ramenait de la parité dans l’équipe, ce qui n’était pas pou
 
 Nous savions que nous devions commencer à préparer la relève, d’assurer la transmission. C’est toujours difficile de lâcher son bébé, mais une fois qu’il arrive à marcher, il faut lui faire confiance pour aller de l’avant.
 
-Après avoir annoncé que nous mettions le cap sur Bordeaux pour 2016, **Matthieu** et **Enza**, enthousiastes, se sont de suite proposés de nous aider. Ils ne seront pas trop de deux pour parvenir à s’occuper de toute la logistique et de la communication sur place. **Anne-Sophie** et **Bertrand**, que nous avions aidé à répéter leurs sujets, ont également manifesté l’envie de mieux accompagner les futurs orateurs, et vu les retours positifs, nous avons pensé que c’était une bonne idée. Notre équipe s'est donc de nouveau agrandie, passant à neuf personnes cette année, mais entre temps notre mode de fonctionnement a évolué et Slack et FrontApp nous facilite la communication.
+Après avoir annoncé que nous mettions le cap sur Bordeaux pour 2016, [**Matthieu**](https://twitter.com/Twikito "Matthieu Bué") et [**Enza**](https://twitter.com/zizae "Enza Chaffron"), enthousiastes, se sont de suite proposés de nous aider. Ils ne seront pas trop de deux pour parvenir à s’occuper de toute la logistique et de la communication sur place. [**Anne-Sophie**](https://twitter.com/annso_ "Anne-sophie") et [**Bertrand**](https://twitter.com/bertrandkeller "Bertrand Keller"), que nous avions aidé à répéter leurs sujets, ont également manifesté l’envie de mieux accompagner les futurs orateurs, et vu les retours positifs, nous avons pensé que c’était une bonne idée. Notre équipe s'est donc de nouveau agrandie, passant à neuf personnes cette année, mais entre temps notre mode de fonctionnement a évolué et [Slack](https://slack.com/) et [FrontApp](https://frontapp.com/) nous facilite la communication.
 
 Après cinq ans, nous nous sommes dit qu’il fallait commencer à passer la main pour que Sud Web puisse exister sans ses fondateurs. Avec cinq nouvelles recrues en deux éditions, il était temps de réélire le bureau. Les choix se sont imposés d’eux-mêmes, encore une fois sans avoir à débattre.
 
@@ -68,4 +68,6 @@ Ce week-end fut l’occasion de découvrir une très belle ville, et d’apprend
 
 Après ces quelques jours passés ensemble, c’est vraiment confiants et sereins que nous poursuivons notre périple, chacun  à son rythme, à sa manière, mais tous unis par un même objectif : vous proposer un évènement toujours aussi enrichissant et revigorant chaque année. 
 
-Bon, c’est pas tout ça mais il y a encore du boulot pour réussir cette sixième édition à Bordeaux, on espère pouvoir vous annoncer de bonnes nouvelles très bientôt, restez à l’écoute.
+Bon, c’est pas tout ça mais il y a encore du boulot pour réussir cette sixième édition à Bordeaux, on espère pouvoir vous annoncer de bonnes nouvelles très bientôt.
+
+Restez à l’écoute.

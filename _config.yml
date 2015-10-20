@@ -1,4 +1,4 @@
-url: http://sudweb.github.io
+url: http://sudweb.fr/blog
 name: Le blog de Sud Web
 description: Les actualités liées à la conférence web itinérante du sud de la France.
 baseurl: /blog
@@ -18,3 +18,5 @@ gems:
 - jekyll-mentions
 - jekyll-sitemap
 - jekyll-feed
+feed:
+  path: /feed.xml

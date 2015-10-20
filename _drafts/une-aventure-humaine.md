@@ -53,6 +53,8 @@ Nous avions avant tout bâti une culture commune, qui nous permettait d’avance
 
 Notre volonté de continuer à nous déplacer de ville en ville, nous obligeait néanmoins à recruter des locaux, qui connaissent mieux que quiconque les meilleurs plans de leur ville et sont très précieux pour construire une expérience unique. Il est aussi préférable que ces personnes aient aussi vécu au moins un Sud Web en tant que participant, partagent nos valeurs et notre culture, afin que tout se fasse de manière naturelle.
 
+![Amanda à Sud Web 2011]({{ site.url }}/assets/images/2011-amanda.jpg)
+
 [**Amanda**](https://twitter.com/MartinezAmandaa "Amanda Martinez"), encore étudiante lors de la première édition à Nîmes, répondait parfaitement à tous ces critères et son implication fut déterminante pour l’organisation de la cinquième édition à Montpellier. Elle y aura laissé tous ses R.T.T et pas mal d’énergie mais son arrivée nous a terriblement fait du bien, nous avons réalisé l’importance d’intégrer petit à petit du sang neuf.
 
 En bonus cela ramenait de la parité dans l’équipe, ce qui n’était pas pour déplaire à Nathalie. Thomas pris également soin de son côté à prendre en compte cette parité dans la curation d’orateurs. Résultat, nous avons compté trois fois plus de femmes inscrites que l’année précédente et cela a indéniablement contribué à enrichir l’évènement. Anne-Sophie, Agnès, Béatrice, Lætitia, Lucile, Marie-Aline, Myriam, Stéphanie, et toutes les participantes : merci d’avoir répondu présentes.

@@ -12,9 +12,9 @@ categories:
 
 L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au moment où, soutenus par les copains, [Loïc est monté sur scène lors de Paris-Web 2010](http://sudweb.fr/intervention-parisweb2010.mp4). Les bonnes volontés se sont vite manifestées, une première équipe de 15 personnes s’est rapidement constituée avec pour objectif d’organiser une journée de conférences à Nîmes, six mois plus tard.
 
-Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite. 
+Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite.
 
-Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de [**Loïc**](http://loic.mathaud.fr/ "Loïc Mathaud"), [**Marie**](http://marie-alhomme.com/ "Marie Alhomme") ou **Thibault**, nous avons réussi notre pari. 
+Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement. Mais grâce à l’implication, parfois trop forte, de [**Loïc**](http://loic.mathaud.fr/ "Loïc Mathaud") et de [**Marie**](http://marie-alhomme.com/ "Marie Alhomme") nous avons quand même réussi notre pari en tant qu'équipe. Déjà, nous nous sommes interrogés sur notre organisation, sur la façon d'avancer ensemble et de prendre des décisions. Cette caractéristique n'allait plus nous quitter. Sans le savoir nous commencions à créer notre propre culture.
 
 L’association était née, nous avions un premier président désigné d’office et nous avons réuni près d’une centaine de personnes lors de notre première édition, et pas des moindres, puisqu’outre les fidèles de Paris-Web, nous avons eu l’honneur d’accueillir des gens comme Bert Bos, co-auteur de la spécification CSS pour le W3C. Le rêve était devenu réalité.
 
@@ -30,7 +30,7 @@ Grâce à l’expérience accumulée lors de la première année, cette deuxièm
 
 Il y eut peu de changements dans l’équipe quand il fallu se mettre en route pour le palais des Papes en Avignon. Tout le monde était content de faire partie de l’aventure. Certains ont néanmoins dû arrêter pour des raisons personnelles, la vie vous impose parfois de nouvelles priorités.
 
-Nous avons commencé à prendre confiance et même à nous lâcher sur la com’. C'est ainsi que, galvanisé par le lieu,  [Rudy décida d’enfiler sa tenue de Ménestrel](https://www.youtube.com/watch?v=igLQQI2zU4c) pour présenter les conférences pour le plus grand bonheur des participants. 
+Nous avons commencé à prendre confiance et même à nous lâcher sur la com’. C'est ainsi que, galvanisé par le lieu,  [Rudy décida d’enfiler sa tenue de Ménestrel](https://www.youtube.com/watch?v=igLQQI2zU4c) pour présenter les conférences pour le plus grand bonheur des participants.
 
 Il était manifeste que nous prenions beaucoup du plaisir à proposer un évènement toujours plus convivial chaque année. Aucune édition ne se ressemblait, en trois ans nous avions posé nos valises dans trois villes, avec un public toujours renouvelé, nos comptes n’étaient pas dans le rouge. Tout se passait à merveille.
 
@@ -66,7 +66,7 @@ Le vote fut unanime et Amanda, qui avait fait preuve de beaucoup de déterminati
 
 Ce week-end fut l’occasion de découvrir une très belle ville, et d’apprendre à mieux connaître nos nouveaux camarades en partageant des moments de complicité, qui sont terriblement importants quand vous travaillez à distance tout l’année chacun de votre côté.
 
-Après ces quelques jours passés ensemble, c’est vraiment confiants et sereins que nous poursuivons notre périple, chacun  à son rythme, à sa manière, mais tous unis par un même objectif : vous proposer un évènement toujours aussi enrichissant et revigorant chaque année. 
+Après ces quelques jours passés ensemble, c’est vraiment confiants et sereins que nous poursuivons notre périple, chacun  à son rythme, à sa manière, mais tous unis par un même objectif : vous proposer un évènement toujours aussi enrichissant et revigorant chaque année.
 
 Bon, c’est pas tout ça mais il y a encore du boulot pour réussir cette sixième édition à Bordeaux, on espère pouvoir vous annoncer de bonnes nouvelles très bientôt.
 

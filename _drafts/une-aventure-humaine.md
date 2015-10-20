@@ -46,6 +46,8 @@ Thomas, fraichement émigré à Londres, a fait de belles rencontres et a pu él
 
 Nous avions avant tout bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce n'est pas un hasard si nous avons invité le *team builder* de chez Spotify, [Kevin Goldsmith](https://twitter.com/KevinGoldsmith) à en parler dans [son excellente conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais la semaine passée en compagnie de la formidable [Eva-Lotta Lamm](https://twitter.com/evalottchen)
 
+![Les aventures d'Eva à Sud Web]({{ site.url }}/assets/images/2014-aventures-eva-sudweb.jpg)
+
 
 ## La relève
 

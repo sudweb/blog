@@ -14,7 +14,7 @@ L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au mo
 
 Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite. 
 
-Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de [**Loïc**](https://twitter.com/loicmathaud "Loïc Mathaud"), [**Marie**](https://twitter.com/marie_alhomme "Marie Alhomme") ou **Thibault**, nous avons réussi notre pari. 
+Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement, mais grâce à l’implication de [**Loïc**](http://loic.mathaud.fr/ "Loïc Mathaud"), [**Marie**](http://http://marie-alhomme.com/ "Marie Alhomme") ou **Thibault**, nous avons réussi notre pari. 
 
 L’association était née, nous avions un premier président désigné d’office et nous avons réuni près d’une centaine de personnes lors de notre première édition, et pas des moindres, puisqu’outre les fidèles de Paris-Web, nous avons eu l’honneur d’accueillir des gens comme Bert Bos, co-auteur de la spécification CSS pour le W3C. Le rêve était devenu réalité.
 

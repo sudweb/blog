@@ -5,4 +5,4 @@ branches:
   except:
     - master
 
-script: "mdlrc --config .mdlrc **/*.md"
+script: "bundle exec mdlrc --config .mdlrc **/*.md"

@@ -1,4 +1,8 @@
 language: ruby
 rvm: '2.1'
 
-script: mdlrc --config .mdlrc **/*.md
+branches:
+  except:
+    - master
+
+script: "mdlrc --config .mdlrc **/*.md"

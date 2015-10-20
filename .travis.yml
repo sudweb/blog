@@ -1,8 +1,9 @@
 language: ruby
 rvm: '2.1'
+cache: bundler
 
 branches:
   except:
     - master
 
-script: "mdlrc --config .mdlrc **/*.md"
+script: "bundle exec mdl --config .mdlrc **/*.md"

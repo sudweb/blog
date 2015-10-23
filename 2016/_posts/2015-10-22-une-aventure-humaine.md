@@ -12,11 +12,19 @@ categories:
 
 ## Un départ groupé
 
-L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au moment où, soutenus par les copains, [Loïc est monté sur scène lors de Paris-Web 2010](http://sudweb.fr/intervention-parisweb2010.mp4). Les bonnes volontés se sont vite manifestées, une première équipe de 15 personnes s’est rapidement constituée avec pour objectif d’organiser une journée de conférences à Nîmes, six mois plus tard.
+L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au moment
+où, soutenus par les copains, [Loïc est monté sur scène lors de Paris-Web 2010](http://sudweb.fr/intervention-parisweb2010.mp4).
+Les bonnes volontés se sont vite manifestées, une première équipe de quinze
+personnes s’est rapidement constituée avec pour objectif d’organiser une
+journée de conférences à Nîmes, six mois plus tard.
 
-Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il fallait aller vite.
+Nous ne nous connaissions pas forcément tous, et nous n’avions que très peu
+d’expérience dans l’organisation d’évènement. Il y avait beaucoup à faire et il
+fallait aller vite.
 
-Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de discussions alors que nous nous devions d’avancer et d’être efficaces. Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement. Mais grâce à l’implication, parfois trop forte, de [**Loïc**](http://loic.mathaud.fr/ "Loïc Mathaud") et de [**Marie**](http://marie-alhomme.com/ "Marie Alhomme") nous avons quand même réussi notre pari en tant qu'équipe. Déjà, nous nous sommes interrogés sur notre organisation, sur la façon d'avancer ensemble et de prendre des décisions. Cette caractéristique n'allait plus nous quitter. Sans le savoir nous commencions à créer notre propre culture.
+Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de
+discussions alors que nous nous devions d’avancer et d’être efficaces.
+Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement. Mais grâce à l’implication, parfois trop forte, de [**Loïc**](http://loic.mathaud.fr/ "Loïc Mathaud") et de [**Marie**](http://marie-alhomme.com/ "Marie Alhomme") nous avons quand même réussi notre pari en tant qu'équipe. Déjà, nous nous sommes interrogés sur notre organisation, sur la façon d'avancer ensemble et de prendre des décisions. Cette caractéristique n'allait plus nous quitter. Sans le savoir nous commencions à créer notre propre culture.
 
 ![Marie, Sud Web 2011]({{ site.url }}/assets/images/2011-marie.jpg)
 

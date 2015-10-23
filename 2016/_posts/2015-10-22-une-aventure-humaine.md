@@ -28,7 +28,9 @@ Après le succès de cette première édition, nous avons naturellement poursuiv
 
 ## Une grande équipe
 
-Nous avons changé de ville pour la deuxième édition, et sommes passés sur deux journées. [**Nathalie**](https://twitter.com/nrosenberg "Nathalie Rosenberg") et [**Frank**](http://frank.taillandier.me "Frank Taillandier"), les toulousains ont pris le relai sur la logistique locale, bien soutenus par le reste de l’équipe sur les autres tâches. Nous étions alors environ une dizaine et déjà nous nous marchions un peu moins sur les pieds, chacun trouvait sa place et prenait ses responsabilités. [**Sébastien**](http://www.desbenoit.net "Sébastien Desbenoit") pris en charge le design, [**Goulven**](http://userland.fr/ "Goulven Champenois") l’intégration, **Rudy** les relations internationales, les traductions et l’animation, [**Thomas**](https://oncletom.io/ "Thomas Parisot") la préparation des orateurs, etc.
+Nous avons changé de ville pour la deuxième édition, et sommes passés sur deux journées. [**Nathalie**](https://twitter.com/nrosenberg "Nathalie Rosenberg") et [**Frank**](http://frank.taillandier.me "Frank Taillandier"), les toulousains ont pris le relai sur la logistique locale, bien soutenus par le reste de l’équipe sur les autres tâches. Nous étions alors environ une dizaine et déjà nous nous marchions un peu moins sur les pieds, chacun trouvait sa place et prenait ses responsabilités. [**Sébastien**](http://www.desbenoit.net "Sébastien Desbenoit") pris en charge le design, [**Goulven**](http://userland.fr/ "Goulven Champenois") l’intégration, **[Rudy](http://rudyonweb.net/)** les relations internationales, les traductions et l’animation, [**Thomas**](https://oncletom.io/ "Thomas Parisot") la préparation des orateurs.
+
+![Préparatifs avant la première édition toulousaine]({{ site.url }}/assets/images/2012-preparatifs.jpg)
 
 Grâce à l’expérience accumulée lors de la première année, cette deuxième édition fut encore une réussite, et nous étions ravis et fiers d’avoir pu accueillir des orateurs de renom comme [Bruce Lawson](http://www.brucelawson.co.uk/) ou [Rachel Andrews](https://rachelandrew.co.uk/), ainsi que de véritables petits comiques comme [Thibault Jouannic](https://twitter.com/thibaultj), [Anthony Ricaud](http://ricaud.me/blog/) ou [Nicolas Perriault](https://nicolas.perriault.net/). Nous avons eu de bons retours sur la deuxième journée que nous avons baptisée élaboratoires. Nous tenions le bon bout.
 
@@ -36,19 +38,21 @@ Il y eut peu de changements dans l’équipe quand il fallu se mettre en route p
 
 Nous avons commencé à prendre confiance et même à nous lâcher sur la com’. C'est ainsi que, galvanisé par le lieu, [Rudy décida d’enfiler sa tenue de Ménestrel](https://www.youtube.com/watch?v=igLQQI2zU4c) pour présenter les conférences pour le plus grand bonheur des participants.
 
+![Rudy et sa guitare]({{ site.url }}/assets/images/2013-rudy-guitare.jpg)
+
 Il était manifeste que nous prenions beaucoup du plaisir à proposer un évènement toujours plus convivial chaque année et que tout l'amour que nous mettions dans l'organisation de Sud Web nous était rendu au centuple par les nombreux sourires des participants. Aucune édition ne se ressemblait, en trois ans nous avions posé nos valises dans trois villes, avec des orateurs et un public toujours renouvelés, notre compte bancaire n’était pas dans le rouge. Tout se passait à merveille.
 
 ## Une nouvelle famille
 
 Après une première tentative avortée à Bordeaux, pour la quatrième édition nous avons dû nous rabattre en urgence sur Toulouse, qui était la solution la moins risquée.
 
-Après quatre années de bons et loyaux services, certains membres ont préféré se consacrer à d’autres projets, comme [**Rudy**](http://rudyonweb.net/) qui s’envolait vers San Francisco. Nous dûmes dire au revoir à nos amis. Il ne restait quasiment plus alors que quatre membres, qui formaient une équipe réduite à son strict minimum. Sans nous en rendre compte, nous formions une vraie famille.
+Après quatre années de bons et loyaux services, certains membres ont préféré se consacrer à d’autres projets, comme Rudy qui s’envolait vers San Francisco. Nous dûmes dire au revoir à nos amis. Il ne restait quasiment plus alors que quatre membres, qui formaient une équipe réduite à son strict minimum. Désormais, nous étions une famille soudée.
 
-Grâce à la confiance qui nous unissait, nous avons pu mener encore une fois notre mission à bien, tout en continuant à expérimenter.
+Grâce à la confiance qui nous unissait, nous avons une fois de plus pu mener notre mission à bien, tout en continuant à expérimenter.
 
-Thomas, fraichement émigré à Londres, a fait de belles rencontres et a pu élaborer un beau programme. Jamais une édition ne nous a paru aussi simple à organiser, chacun savait ce qu’il avait à faire et n’avait plus besoin de demander la permission pour avancer. Chacun pouvait expérimenter en toute liberté et s’organiser comme bon lui semble. Au revoir Skype, Basecamp et Wordpress, bonjour [Hangouts](https://hangouts.google.com/), [Trello](https://trello.com/) et [Github](https://github.com/). Nous avons tant appris et encore tant à apprendre.
+Thomas, fraichement émigré à Londres, a fait de belles rencontres et a pu élaborer un beau programme. Jamais une édition ne nous a paru aussi simple à organiser, chacun savait ce qu’il avait à faire et n’avait plus besoin de demander la permission pour avancer. Chacun pouvait expérimenter en toute liberté et s’organiser comme bon lui semble. Au revoir Skype, Basecamp et Wordpress, bonjour [Hangouts](https://hangouts.google.com/), [Trello](https://trello.com/) et [Github](https://github.com/). Nous avions tant appris et encore tant à apprendre.
 
-Nous avions avant tout bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce n'est pas un hasard si nous avons invité le *team builder* de chez Spotify, [Kevin Goldsmith](https://twitter.com/KevinGoldsmith) à en parler dans [son excellente conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais la semaine passée en compagnie de la formidable [Eva-Lotta Lamm](https://twitter.com/evalottchen)
+Nous avions petit à petit bâti une culture commune, qui nous permettait d’avancer dans la bonne direction. Ce n'est pas un hasard si nous avons invité le *team builder* de chez Spotify, [Kevin Goldsmith](https://twitter.com/KevinGoldsmith) à en parler dans [son excellente conférence](https://vimeo.com/album/2988975/video/102774091) la même année. Comme à chaque fois, nous avons fait de très belles rencontres, et à titre personnel je n’oublierai jamais la semaine passée en compagnie de la formidable [Eva-Lotta Lamm](https://twitter.com/evalottchen)
 
 ![Les aventures d'Eva à Sud Web]({{ site.url }}/assets/images/2014-aventures-eva-sudweb.jpg)
 
@@ -68,7 +72,9 @@ Nous savions que nous devions commencer à préparer la relève, d’assurer la 
 
 Après avoir annoncé que nous mettions le cap sur Bordeaux pour 2016, [**Matthieu**](http://twikito.com/ "Matthieu Bué") et [**Enza**](http://zizaestouch.com/ "Enza Chaffron"), enthousiastes, se sont de suite proposés de nous aider. Ils ne seront pas trop de deux pour parvenir à s’occuper de toute la logistique et de la communication sur place. [**Anne-Sophie**](http://hello-bokeh.com/ "Anne-sophie Tranchet") et [**Bertrand**](http://bertrandkeller.info/ "Bertrand Keller"), que nous avions aidé à répéter leurs sujets, ont également manifesté l’envie de mieux accompagner les futurs orateurs, et vu les retours positifs, nous avons pensé que c’était une bonne idée. Notre équipe s'est donc de nouveau agrandie, passant à neuf personnes cette année, mais entre temps notre mode de fonctionnement a évolué et [Slack](https://slack.com/) et [FrontApp](https://frontapp.com/) nous facilite bien la communication.
 
-Après cinq ans, nous nous sommes dit qu’il fallait commencer à passer la main pour que Sud Web puisse exister sans ses fondateurs. Avec cinq nouvelles recrues en deux éditions, il était temps de réélire le bureau de notre association. Les choix se sont imposés d’eux-mêmes, encore une fois sans avoir à débattre.
+Après cinq ans, nous nous sommes dit qu’il fallait commencer à passer la main pour que Sud Web puisse exister sans ses fondateurs. Avec cinq nouvelles recrues en deux éditions, il était temps de partager notre vision et de réélire le bureau de notre association.
+
+![Vision partagée par l'équipe le 18 octobre à Bordeaux]({{ site.url }}/assets/images/2015-vision-sudweb.jpg)
 
 Le vote fut unanime et Amanda, qui avait fait preuve de beaucoup de détermination l’année précédente était toute désignée pour prendre la relève de Loïc. Notre vénérable président fondateur à la barbe majestueuse allait pouvoir goûter sereinement aux joies de la paternité. Nathalie, forte de son expérience de secrétaire nationale au Parti Pirate, est la plus à même pour nous aider à remettre de l’ordre dans nos comptes, et au besoin Bertrand, qui est déjà impliqué dans Codeurs en Seine pourra l’y aider. Ce nouvel élan augure d'une magnifique sixième édition à Bordeaux.
 
@@ -79,3 +85,5 @@ Ce week-end fut l’occasion de découvrir une très belle ville, et d’apprend
 Après ces quelques jours passés ensemble, c’est vraiment confiants et sereins que nous poursuivons notre périple, chacun  à son rythme, à sa manière, mais tous unis par un même objectif : vous proposer un évènement toujours aussi enrichissant et revigorant chaque année.
 
 Il y a encore du boulot pour que cette sixième édition à Bordeaux soit une réussite, nous espérons pouvoir vous annoncer de bonnes nouvelles très bientôt. [Restez à l’écoute](http://estcequecestbientot.sudweb.fr/).
+
+![Selfie lors de la visite de l'ECV]({{ site.url }}/assets/images/2015-visite-ecv.jpg)

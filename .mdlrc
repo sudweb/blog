@@ -1,1 +1,2 @@
-rules "~MD002", "~MD012", "~MD013", "~MD025", "~MD033", "~MD039"
+show_kramdown_warnings false
+rules "~MD012", "~MD025", "~MD033", "~MD039"

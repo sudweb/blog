@@ -1,4 +1,4 @@
-# sudweb.fr/blog [![Build Status](https://travis-ci.org/sudweb/blog.svg?branch=feature-ci)](https://travis-ci.org/sudweb/blog)
+# sudweb.fr/blog [![Build Status](https://travis-ci.org/sudweb/blog.svg)](https://travis-ci.org/sudweb/blog)
 
 > Les actualités de Sud Web … et toutes les contributions que vous auriez envie de mettre à la vue de toutes et tous !
 

@@ -10,7 +10,7 @@ layout: page
       <input type="email" name="_replyto">
     </p>
     <p><label for="message">Votre message :</label><br>
-		<textarea id="message"></textarea></p>
+      <textarea id="message"></textarea></p>
     <p><input class="button" type="submit" value="Envoyer"></p>
   </form>
 </fieldset>

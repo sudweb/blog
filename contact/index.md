@@ -1,9 +1,16 @@
 ---
 title: Contact
-author: goulven.champenois
 layout: page
 ---
-<div role="form" class="wpcf7" id="wpcf7-f1012-o1" dir="ltr">
-  <div class="screen-reader-response">
-  </div>
-</div>
+
+<fieldset>
+  <p>Envoyez-nous un petit mail, ça fait toujours plaisir :)</p>
+  <form action="//formspree.io/contact@sudweb.fr" method="POST">
+    <p><label for="_replyto">Votre adresse email :</label><br>
+      <input type="email" name="_replyto">
+    </p>
+    <p><label for="message">Votre message :</label><br>
+      <textarea id="message"></textarea></p>
+    <p><input class="button" type="submit" value="Envoyer"></p>
+  </form>
+</fieldset>

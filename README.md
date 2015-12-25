@@ -16,15 +16,20 @@ rbenv install
 # installe les dépendances du projet
 rbenv exec bundle install
 ```
-
 # Développer localement
 
 ```bash
 rbenv exec foreman start
 ```
-
 Le blog sera accessible via [localhost:4000/blog](http://localhost:4000/blog/).
 
-# Publier
+# Publier des modifications
 
-Le site sera mis à jour automatiquement à chaque commit poussé sur la branche `gh-pages`.
+Créer une branche de travail, puis enregistrez vos modifications.
+
+Si vous modifiez des fichiers au format Markdown, vérifiez qu'ils respectent les régles définies dans le fichier de configuration avant de faire une demande de fusion :
+
+```bash
+rbenv exec mdl --config .mdlrc **/*.md
+```
+Le site sera mis à jour automatiquement à chaque commit fusionné sur la branche `gh-pages`.

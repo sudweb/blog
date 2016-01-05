@@ -8,7 +8,7 @@ categories:
 tags:
   - video
 ---
-Suite et fin de la saison 2012 de [Sud Web en vidéo][1], de quoi vous faire patienter avant l&rsquo;édition 2013 au palais des Papes.
+Suite et fin de la saison 2012 de Sud Web en vidéo, de quoi vous faire patienter avant l&rsquo;édition 2013 au palais des Papes.
 
 On commence avec Boris Schapira qui aimerait inciter les entreprises à **adopter une véritable culture de la performance web** pour améliorer leur qualité de service et donc générer plus de revenus. Boris a travaillé pour un des leaders du e-commerce français et nous décrit les différentes étapes à franchir avant de parvenir à mettre cette culture en place : comprendre, réagir, savoir-faire et faire-savoir, automatiser, anticiper et maintenir.
 
@@ -38,7 +38,6 @@ Si vous souhaitez [nous aider à sous-titrer ces vidéos][2] pour les rendre plu
 
 Nous vous donnons rendez-vous les 17 et 18 Mai pour une super édition au palais de Papes d&rsquo;Avignon, avec [un beau programme][3] et des beaux moments en perspective pendant ces deux journées si enrichissantes à plus d&rsquo;un titre pour nous tous. Déjà un tiers des places est parti, ne tardez donc pas trop à [vous inscrire][4] <img src="http://sudweb.fr/blog/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
- [1]: http://sudweb.fr/blog/tag/video/
- [2]: http://www.amara.org/fr/search/#/?q=Sud%20Web&video_lang=fr&langs=fr
- [3]: http://sudweb.fr/2013/#programme
- [4]: http://sudweb.fr/2013/#inscription
+ [1]: http://www.amara.org/fr/search/#/?q=Sud%20Web&video_lang=fr&langs=fr
+ [2]: http://sudweb.fr/2013/#programme
+ [3]: http://sudweb.fr/2013/#inscription

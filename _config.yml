@@ -18,5 +18,3 @@ gems:
 - jekyll-mentions
 - jekyll-sitemap
 - jekyll-feed
-feed:
-  path: /feed.xml

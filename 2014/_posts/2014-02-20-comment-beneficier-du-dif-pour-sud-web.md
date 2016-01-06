@@ -6,7 +6,7 @@ permalink: /2014/02/comment-beneficier-du-dif-pour-sud-web/
 categories:
   - 2014
 ---
-Bonne nouvelle, Sud Web est éligible au DIF grâce à notre partenaire [SmartView][1]. <span style="font-size: 14px; line-height: 1.5em;">Pour pouvoir bénéficier du DIF lors de Sud Web, vous devez procéder comme suit :</span>
+Bonne nouvelle, Sud Web est éligible au DIF grâce à notre partenaire SmartView. Pour pouvoir bénéficier du DIF lors de Sud Web, vous devez procéder comme suit :
 
   * Faites la **demande préalable auprès de votre employeur** afin d’obtenir son accord,
   * Celui-ci a **un mois pour donner son accord** (s’il n’a pas répondu passé ce délai, c’est une acceptation),

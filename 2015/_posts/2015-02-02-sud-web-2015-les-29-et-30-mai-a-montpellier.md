@@ -6,7 +6,7 @@ permalink: /2015/02/sud-web-2015-les-29-et-30-mai-a-montpellier/
 categories:
   - 2015
 ---
-Sud Web revient les 29 et 30 mai pour sa 5e édition en s&rsquo;arrêtant pour la première fois dans la belle ville de Montpellier. **[les inscriptions sont ouvertes][1] et limitées à seulement 120 personnes pour plus de convivialité.**.
+Sud Web revient les 29 et 30 mai pour sa 5e édition en s&rsquo;arrêtant pour la première fois dans la belle ville de Montpellier. les inscriptions sont ouvertes et limitées à seulement 120 personnes pour plus de convivialité.
 
 Nous avons sélectionné pour vous des [sujets de conférences et de Lightning Talks][2] inspirants et variés. Nous essayons de nous ouvrir à de nouvelles thématiques et d&rsquo;aller au delà de la technique pure.
 
@@ -16,5 +16,4 @@ Vous repartirez reboostés, avec un regard neuf et le sourire aux lèvres. Avec 
 
 Toute l&rsquo;équipe a hâte de vous accueillir, pour passer deux jours inoubliables en votre compagnie.
 
- [1]: http://sudweb.fr/2015/inscription.html
- [2]: http://sudweb.fr/2015/programme.html
+ [1]: http://sudweb.fr/2015/programme.html

@@ -8,11 +8,10 @@ categories:
 tags:
   - video
 ---
-TL;DR : Vous pouvez [voir ou revoir les vidéos de l&rsquo;édition 2012][1] sur notre compte Viméo.
 
+TL;DR : Vous pouvez voir ou revoir les vidéos de l&rsquo;édition 2012 sur notre compte Viméo.
 Vous n&rsquo;étiez pas à Sud Web 2012 ?  On a pensé à vous. Petite séance de rattrapage.
 
-<!--more-->
 
 Votre dernier projet est passé d&rsquo;un cahier des charges de quelques lignes à des semaines de développement et une livraison tardive, au final ni vous ni votre client n&rsquo;êtes totalement satisfaits de cette collaboration ? Et si vous changiez votre manière de travailler ? Thibault Jouannic est aussi passé par là et a décidé de **sensibiliser dès le début ses futurs clients aux méthodes agiles**, quitte à devoir combattre sa phobie du téléphone :
 

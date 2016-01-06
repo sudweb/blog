@@ -6,9 +6,8 @@ permalink: /2012/02/sud-web-2012-a-toulouse/
 categories:
   - 2012
 ---
-Sud Web est une conférence pour apprendre et construire le web organisée par et pour les travailleurs du web. Sud Web est porteuse de valeurs fortes. Elle place l’humain au centre de tout, préfère le partage au réseautage, le concret au théorique, et la proximité à l’élitisme.
 
-<!--more-->
+Sud Web est une conférence pour apprendre et construire le web organisée par et pour les travailleurs du web. Sud Web est porteuse de valeurs fortes. Elle place l’humain au centre de tout, préfère le partage au réseautage, le concret au théorique, et la proximité à l’élitisme.
 
 Pour ces raisons Sud Web se déroule dans une nouvelle ville chaque année, garde une taille raisonnable et privilégie les retours d’expériences.
 

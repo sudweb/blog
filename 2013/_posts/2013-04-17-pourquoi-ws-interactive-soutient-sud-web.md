@@ -6,9 +6,8 @@ permalink: /2013/04/pourquoi-ws-interactive-soutient-sud-web/
 categories:
   - 2013
 ---
-WS Interactive a décidé d&rsquo;apporter son soutien à Sud Web cette année, nous avons rencontré son directeur Alex Mc Cardell pour lui poser quelques questions.
 
-<!--more-->
+WS Interactive a décidé d&rsquo;apporter son soutien à Sud Web cette année, nous avons rencontré son directeur Alex Mc Cardell pour lui poser quelques questions.
 
 **Bonjour Alex, peux-tu nous présenter l&rsquo;agence WS Interactive ?**
 
@@ -32,7 +31,7 @@ Nous avons décidé d&rsquo;aller encore plus loin cette année et de soutenir S
 
 Je voudrais également remercier [Frank][3] (membre de l&rsquo;équipe Sud Web), qui est toujours enthousiaste dès qu&rsquo;il est question d&rsquo;évènements web. Il est très au fait des avancées dans le domaine et particulièrement actif dans la communauté web. Il nous a vraiment motivé pour aller à Sud Web. Lors de l&rsquo;édition précédente, Frank a présenté [Bastien Jaillot][4] de Jolicode à [Guillaume][5] et depuis nous avons collaboré avec Jolicode sur un projet Drupal. Sud Web a tenu sa promesse de rassembler des gens talentueux.
 
-Enfin, quand Frank nous a demandé si WS Interactive pouvait aider Sud Web sur l&rsquo;UX et le design du site, nous avons immédiatement dit oui. Nous espérons que vous aimez le résultat <img src="http://sudweb.fr/blog/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Enfin, quand Frank nous a demandé si WS Interactive pouvait aider Sud Web sur l&rsquo;UX et le design du site, nous avons immédiatement dit oui. Nous espérons que vous aimez le résultat
 
 [<img class="aligncenter" alt="preview sudweb - mobile" src="http://sudweb.fr/blog/wp-content/uploads/2013/04/sudweb-mobile.jpeg" width="320" height="443" />][6]
 

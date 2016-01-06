@@ -10,8 +10,6 @@ tags:
 ---
 Pendant les fêtes, toute l&rsquo;équipe de Sud Web vous propose de vous aider à digérer devant quelques vidéos de l&rsquo;édition 2012.
 
-<!--more-->
-
 [Suite de la première partie][1]
 
 C&rsquo;est d&rsquo;abord Anthony Ricaud, qui nous explique avec humour comment le fait de **contribuer à des projets open-source a changé sa vie**, puisqu&rsquo;il travaille maintenant pour Mozilla. Et si vous ne le faîtes pas par pur altrusime, faites le au moins pour vous, pour apprendre et continuer à progresser.

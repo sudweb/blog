@@ -6,7 +6,10 @@ permalink: /2013/04/entree-gratuite-sudweb-2013/
 categories:
   - 2013
 ---
-Chaque année depuis la toute première édition, un heureux participant aléatoire de Sud Web trouve dans son sac un ticket d&rsquo;or, lui offrant une entrée gratuite pour les deux jours de l&rsquo;édition suivante. Cela fait partie des traditions auxquelles nous tenons dans le déroulement de Sud Web, qui lui confèrent l&rsquo;ambiance décontractée et pleine de surprises qui lui est propre.
+
+Chaque année depuis la toute première édition, un heureux participant aléatoire de Sud Web trouve dans son sac un ticket d&rsquo;or, lui offrant une entrée gratuite pour les deux jours de l&rsquo;édition suivante.
+
+Cela fait partie des traditions auxquelles nous tenons dans le déroulement de Sud Web, qui lui confèrent l&rsquo;ambiance décontractée et pleine de surprises qui lui est propre.
 
 Jusqu&rsquo;à maintenant, la gent féminine a été à l&rsquo;honneur, puisqu&rsquo;en 2011, c&rsquo;est [Capucine Leccia][1] qui est repartie avec le ticket gratuit dont elle a profité l&rsquo;année suivante ; et en 2012, c&rsquo;est [Delphine Malassingne][2] qui a eu la bonne surprise.
 
@@ -20,7 +23,7 @@ Nous venons de poster un tweet avec notre compte [@SudWeb][4], et pour participe
   <p>
     Tu veux gagner une place pour @<a href="https://twitter.com/sudweb">sudweb</a>, le 17-18 mai ? (et bien remercier @<a href="https://twitter.com/nissone">nissone</a> !) RT avant demain 14h ! <a href="http://t.co/Or9EXoVcf1" title="http://sudweb.fr/blog/2013/04/entree-gratuite-sudweb-2013/">sudweb.fr/blog/2013/04/e…</a>
   </p>
-  
+
   <p>
     &mdash; Sud Web (@SudWeb) <a href="https://twitter.com/SudWeb/status/327362193257541633">April 25, 2013</a>
   </p>

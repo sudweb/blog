@@ -9,9 +9,6 @@ categories:
 
 Nous sommes ravis de pouvoir enfin vous présenter le programme complet de cette quatrième édition de Sud Web, concocté pour vous avec amour. 24 intervenants aux profils variés pour une édition plus riche que jamais.
 
-<!--more-->
-
-
 <div id="attachment_1209" style="width: 646px" class="wp-caption aligncenter">
   <a href="http://sudweb.fr/blog/wp-content/uploads/2014/03/julienw-e1394366617108.jpg"><img class="size-single-thumbnail wp-image-1209" alt="Vue du public lors de Sud Web 2012" src="http://sudweb.fr/blog/wp-content/uploads/2014/03/julienw-636x310.jpg" width="636" height="310" /></a>
 

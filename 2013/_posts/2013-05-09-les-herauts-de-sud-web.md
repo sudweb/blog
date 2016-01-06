@@ -6,6 +6,7 @@ permalink: /2013/05/les-herauts-de-sud-web/
 categories:
   - 2013
 ---
+
 A Sud Web nous pensons que les personnes présentes sont tout aussi importantes que les sujets abordés &#8211; qui ne sont que des prétextes pour amorcer des discussions métier.
 
 Notre but est donc avant tout d&rsquo;inciter à un maximum d&rsquo;échanges entre les personnes présentes, que ce soit en se rencontrant de façon informelle dès la veille des conférences ou en laissant un maximum de liberté aux participants pour s&rsquo;auto-organiser lors de la journée du samedi.

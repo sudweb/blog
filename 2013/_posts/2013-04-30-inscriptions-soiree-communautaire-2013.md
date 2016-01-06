@@ -6,7 +6,8 @@ permalink: /2013/04/inscriptions-soiree-communautaire-2013/
 categories:
   - 2013
 ---
-Les inscriptions aux deux journées de conférences sont maintenant fermées, nous en profitons donc pour ouvrir les [inscriptions à la soirée communautaire][1].
+
+Les inscriptions aux deux journées de conférences sont maintenant fermées, nous en profitons donc pour ouvrir les inscriptions à la soirée communautaire.
 
 [<img class="alignnone size-medium wp-image-1081" alt="Photo Cour d'Honneur" src="http://sudweb.fr/blog/wp-content/uploads/2013/04/courdhonneur-300x91.jpg" width="300" height="91" />][2]
 

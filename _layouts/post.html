@@ -15,8 +15,7 @@
                   </h2>
 
                   <div class="byline">
-                      <time class="published">{{ page.date | date_to_long_string }}</time>
-                      &middot; par <span class="author vcard">{{ page.author }}</span>
+		      <time class="published">{{ page.date | localize: "%d %B %Y" }}</time> par <span class="author vcard">{{ page.author }}</span>
                   </div>
               </div>
 

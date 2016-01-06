@@ -713,10 +713,7 @@ a:hover img { opacity: 0.85; }
   border-bottom: 1px solid #e5e5e5;
 }
 .singular .hentry {
-  margin: 0 0 30px 0;
   position: relative;
-  float: left;
-  width: 100%;
 }
 .featured { margin-bottom: 20px; }
 .sticky .sticky-header {
@@ -750,7 +747,8 @@ a:hover img { opacity: 0.85; }
   word-spacing: 2px;
 }
 .singular .entry-title {
-  font-size: 1.846153846153846em;	/* 24 / 13 = 1.846153846153846 */
+  font-size: 2.6667em;	/* 32 / 13  */
+  line-height: 1.1;
   margin-bottom: 0.025em;
 }
 .singular-page .entry-title { color: #353535; }

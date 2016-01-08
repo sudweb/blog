@@ -5,7 +5,7 @@
         </h2>
 
         <div class="byline">
-	    <time class="published">{{ post.date | localize: "%d %B %Y" }}</time> par <span class="author vcard">{{ post.author }}</span>
+          <time class="published">{% include fr_date.html date=post.date %}</time> par <span class="author vcard">{{ post.author }}</span>
 
             {% if post.categories %}
               dans

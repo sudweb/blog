@@ -6,6 +6,7 @@ permalink: /2013/05/retours-participants-sud-web-2013/
 categories:
   - 2013
 ---
+
 Voici une liste de vos billets de blogs sur cette édition 2013.
 
 ## [Sud Web 2013, j&rsquo;y étais][1], par Damien Erambert
@@ -60,7 +61,7 @@ Voici une liste de vos billets de blogs sur cette édition 2013.
 ## <a href="http://www.ekino.com/sud-web-2013/" target="_blank">Sud Web 2013</a>, par Ekino
 
 > Plus que jamais, je me rends compte que ce qui vaut le plus le coup dans une conférence comme Sud Web, c’est le “off”. Les personnes que l’on rencontre, les personnes que l’on revoit, les partages, les échanges, font la grande richesse de l’événement.
-> 
+>
 > De ce point de vue là, Sud Web est toujours un sans faute. La taille de la conférence, les moments aménagés pour les échanges ou encore la convivialité instaurée par l’équipe, sont autant d’éléments qui favorisent les échanges.
 
 ## <a href="http://romy.tetue.net/sudweb-2013" target="_blank">Sud Web 2013, compte-rendu des conférences et ateliers</a>, par Romy Têtue
@@ -74,7 +75,7 @@ Voici une liste de vos billets de blogs sur cette édition 2013.
 ## <a href="http://tech.novapost.fr/retour-sudweb-2013.html" target="_blank">Retour sur Sud Web 2013</a>, par Mathieu Agopian (orateur)
 
 > Les présentations étaient pour la plupart sous la forme de retours d&rsquo;expérience. C&rsquo;est à mon humble avis le format le plus intéressant : en effet, les nouveautés techniques sont pléthores, et les technologies éprouvées sont pour la plupart déjà connues.
-> 
+>
 > Surtout dans une conférence généraliste de la sorte, présenter un point technique très précis et pointu serait une perte de temps pour la majorité de l&rsquo;audience.
 
 ## <a href="http://www.simounet.net/sud-web-une-conference-pour-tous-les-faiseurs-de-web/" target="_blank">Sud Web, une conférence pour tous les faiseurs de web</a>, par Simon Alberny

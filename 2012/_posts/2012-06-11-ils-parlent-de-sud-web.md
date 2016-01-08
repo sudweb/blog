@@ -6,6 +6,7 @@ permalink: /2012/06/ils-parlent-de-sud-web/
 categories:
   - 2012
 ---
+
 Plusieurs participants ont publié compte-rendus et impressions sur cette édition. N&rsquo;hésitez pas à signaler si nous sommes passés à côté d&rsquo;un billet.
 
   * [Occitech][1]

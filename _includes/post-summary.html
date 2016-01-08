@@ -5,8 +5,7 @@
         </h2>
 
         <div class="byline">
-            <time class="published">{{ post.date | date_to_long_string }}</time>
-            &middot; par <span class="author vcard">{{ post.author }}</span>
+          <time class="published">{% include fr_date.html date=post.date %}</time> par <span class="author vcard">{{ post.author }}</span>
 
             {% if post.categories %}
               dans
@@ -17,5 +16,7 @@
         </div>
     </div>
 
-    <div class="entry-summary">{{ post.excerpt }}</div>
+    <div class="entry-summary">
+      <p>{{ post.excerpt }}</p>
+    </div>
 </div>

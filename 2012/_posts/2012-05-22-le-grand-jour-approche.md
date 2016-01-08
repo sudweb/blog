@@ -19,7 +19,7 @@ Depuis l’aéroport, prendre la [navette Flybus][1]. Il en passe une toutes les
 
 Attention, il n’y aura pas de prises ce jour-là, penser à charger votre portable à bloc la veille. Il n’y aura pas non plus de wifi donc préparez-vous à être présent à fond !
 
-Le soir, ceux qui se sont inscrits enchaînent avec le **repas communautaire au Comptoir du Taur**, 62 rue du Taur. C’est à 4mn à pied de la Maison du Sénéchal, il n’y aura qu’à suivre le mouvement. <img src="http://sudweb.fr/blog/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Le soir, ceux qui se sont inscrits enchaînent avec le **repas communautaire au Comptoir du Taur**, 62 rue du Taur. C’est à 4mn à pied de la Maison du Sénéchal, il n’y aura qu’à suivre le mouvement.
 
 **Samedi** l’élaboratoire ouvrira ses portes **à 8h45 à l’Epitech, 19 rue Bayard**. C’est tout près du métro Jeanne d’Arc, et à 100m de la gare en ligne droite. Là aussi on a prévu le ravitaillement : un petit-déjeuner vous attend à l&rsquo;arrivée, et on s’occupe aussi du déjeuner. Les salles sont bourrées de prises électriques, les chargeurs sont les bienvenus ; il y aura du wifi pour favoriser la construction de solutions créatives tous ensemble.
 

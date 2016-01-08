@@ -3,14 +3,13 @@ title: Une aventure humaine
 author: Frank Taillandier
 layout: post
 permalink: /2015/10/une-aventure-humaine
-excerpt: Il est difficile d’imaginer la débauche d’énergie nécessaire à l’organisation de deux journées revigorantes. De retour d’un week-end bordelais, qui marque le début d’une nouvelle ère, j’ai eu envie de revenir sur la formidable aventure humaine que nous vivons depuis cinq ans.
 categories:
-
-- 2016
-
+  - 2015
 ---
 
-## Un départ groupé
+Il est difficile d’imaginer la débauche d’énergie nécessaire à l’organisation de deux journées revigorantes. De retour d’un week-end bordelais, qui marque le début d’une nouvelle ère, j’ai eu envie de revenir sur la formidable aventure humaine que nous vivons depuis cinq ans.
+
+### Un départ groupé
 
 L’idée de Sud Web remonte à 2007, mais tout a véritablement commencé au moment
 où, soutenus par les copains, [Loïc est monté sur scène lors de Paris-Web 2010](http://sudweb.fr/intervention-parisweb2010.mp4).
@@ -34,7 +33,7 @@ Dès la première édition, nous avons aussi donné la parole à gens alors moin
 
 Après le succès de cette première édition, nous avons naturellement poursuivi sur notre lancée. Nous avons perdu quelques membres au passage, qui croulaient sous l'avalanche de mails. Nous avons décidé de ne pas les remplacer car au final, il est tout à fait possible d'organiser notre évènement avec une équipe bien plus réduite. Nous avons opté pour [Basecamp](https://basecamp.com/) pour nous aider à mieux gérer le projet et nous sommes promis de faire plus de visio conférences pour mieux nous synchroniser.
 
-## Une grande équipe
+### Une grande équipe
 
 Nous avons changé de ville pour la deuxième édition, et sommes passés sur deux journées. [**Nathalie**](https://twitter.com/nrosenberg "Nathalie Rosenberg") et [**Frank**](http://frank.taillandier.me "Frank Taillandier"), les toulousains ont pris le relai sur la logistique locale, bien soutenus par le reste de l’équipe sur les autres tâches. Nous étions alors environ une dizaine et déjà nous nous marchions un peu moins sur les pieds, chacun trouvait sa place et prenait ses responsabilités. [**Sébastien**](http://www.desbenoit.net "Sébastien Desbenoit") pris en charge le design, [**Goulven**](http://userland.fr/ "Goulven Champenois") l’intégration, **[Rudy](http://rudyonweb.net/)** les relations internationales, les traductions et l’animation, [**Thomas**](https://oncletom.io/ "Thomas Parisot") la préparation des orateurs.
 
@@ -50,7 +49,7 @@ Nous avons commencé à prendre confiance et même à nous lâcher sur la com’
 
 Il était manifeste que nous prenions beaucoup du plaisir à proposer un évènement toujours plus convivial chaque année et que tout l'amour que nous mettions dans l'organisation de Sud Web nous était rendu au centuple par les nombreux sourires des participants. Aucune édition ne se ressemblait, en trois ans nous avions posé nos valises dans trois villes, avec des orateurs et un public toujours renouvelés, notre compte bancaire n’était pas dans le rouge. Tout se passait à merveille.
 
-## Une nouvelle famille
+### Une nouvelle famille
 
 Après une première tentative avortée à Bordeaux, pour la quatrième édition nous avons dû nous rabattre en urgence sur Toulouse, qui était la solution la moins risquée.
 
@@ -64,7 +63,7 @@ Nous avions petit à petit bâti une culture commune, qui nous permettait d’av
 
 ![Les aventures d'Eva à Sud Web]({{ site.baseurl }}/assets/images/2014-aventures-eva-sudweb.jpg)
 
-## La relève
+### La relève
 
 Notre volonté de continuer à nous déplacer de ville en ville, nous obligeait néanmoins à recruter des locaux, qui connaissent mieux que quiconque les meilleurs plans de leur ville et sont très précieux pour construire une expérience unique. Il est aussi préférable que ces personnes aient aussi vécu au moins un Sud Web en tant que participant, partagent nos valeurs et notre culture, afin que tout se fasse de manière naturelle.
 
@@ -74,7 +73,7 @@ Notre volonté de continuer à nous déplacer de ville en ville, nous obligeait 
 
 En bonus cela ramenait de la parité dans l’équipe, ce qui n’était pas pour déplaire à Nathalie. Thomas pris également soin de son côté à prendre en compte cette parité dans la curation d’orateurs. Résultat, nous avons compté trois fois plus de femmes inscrites que l’année précédente et cela a indéniablement contribué à enrichir l’évènement. Anne-Sophie, Agnès, Béatrice, Lætitia, Lucile, Marie-Aline, Myriam, Stéphanie, et toutes les participantes : merci d’avoir répondu présentes.
 
-## Le temps du renouveau
+### Le temps du renouveau
 
 Nous savions que nous devions commencer à préparer la relève, d’assurer la transmission. C’est toujours difficile de lâcher son bébé, mais une fois qu’il arrive à marcher, il faut lui faire confiance pour aller de l’avant.
 
@@ -86,7 +85,7 @@ Après cinq ans, nous nous sommes dit qu’il fallait commencer à passer la mai
 
 Le vote fut unanime et Amanda, qui avait fait preuve de beaucoup de détermination l’année précédente était toute désignée pour prendre la relève de Loïc. Notre vénérable président fondateur à la barbe majestueuse allait pouvoir goûter sereinement aux joies de la paternité. Nathalie, forte de son expérience de secrétaire nationale au Parti Pirate, est la plus à même pour nous aider à remettre de l’ordre dans nos comptes, et au besoin Bertrand, qui est déjà impliqué dans Codeurs en Seine pourra l’y aider. Ce nouvel élan augure d'une magnifique sixième édition à Bordeaux.
 
-## Vers Bordeaux et au délà
+### Vers Bordeaux et au délà
 
 Ce week-end fut l’occasion de découvrir une très belle ville, et d’apprendre à mieux connaître nos nouveaux camarades en partageant des moments de complicité, qui sont tellement importants quand vous travaillez à distance tout l’année chacun de votre côté.
 

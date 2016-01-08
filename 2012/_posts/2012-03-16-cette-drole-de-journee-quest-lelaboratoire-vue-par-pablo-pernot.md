@@ -6,7 +6,10 @@ permalink: /2012/03/cette-drole-de-journee-quest-lelaboratoire-vue-par-pablo-per
 categories:
   - 2012
 ---
-Aux idées, citoyens.
+
+Pablo Pernot nous explique pourquoi la journée participative du samedi l'enthousiasme.
+
+### Aux idées, citoyens.
 
 Quand Sébastien ou Frank du staff Sud Web évoquent avec moi la journée participative du samedi, je ne peux que jubiler. Une journée d’ateliers, de participation, de co-création, une promesse d’énergie, de plaisir, et peut-être d’innovation brute. Dans la mouvance des <span lang="en">barcamps</span>, <span lang="en">code/coach-retreat</span> ou des <span lang="en">openspaces</span> les formats participatifs ont le vent en poupe car, pas de secret, ils proposent un très bon environnement pour apprendre :
 
@@ -17,8 +20,6 @@ Quand Sébastien ou Frank du staff Sud Web évoquent avec moi la journée partic
 </blockquote>
 
 Il faut donc se plier à une condition : faire participer.
-
-<!--more-->
 
 Essayons de bien distinguer 3 états :
 

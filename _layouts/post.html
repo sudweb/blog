@@ -15,12 +15,10 @@
                   </h2>
 
                   <div class="byline">
-                      <time class="published">{{ page.date | date_to_long_string }}</time>
-                      &middot; par <span class="author vcard">{{ page.author }}</span>
+                      <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span>
                   </div>
               </div>
 
-              <div class="entry-summary">{{ page.excerpt }}</div>
           </div>
           <div class="entry-content">
             {{ content }}

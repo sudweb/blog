@@ -8,8 +8,6 @@ categories:
 ---
 Vous avez un blogue ? Vous voulez clamer haut et fort que vous serez à Sud Web en 2012 ? Alors ces bannières sont faites pour vous !
 
-<!--more-->
-
 ## Format carré 120 <abbr>px</abbr> par 120 <abbr>px</abbr>
 
 [<img class="alignnone size-full wp-image-691" title="Bannière J'y serai, 120 par 120" src="http://sudweb.fr/2012/wp-content/uploads/2012/04/Banniere2012-120px.png" alt="Sud Web 2012 les 25-26 mai à Toulouse - J'y serai !" width="120" height="120" />][1]

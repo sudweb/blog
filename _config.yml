@@ -1,6 +1,6 @@
 url: http://sudweb.fr
 name: Le blog de Sud Web
-description: Les actualités liées à la conférence web itinérante du sud de la France.
+description: Les actualités de la conférence web itinérante du sud de la France.
 baseurl: /blog
 permalink: /:year/:month/:title/
 paginate: 5

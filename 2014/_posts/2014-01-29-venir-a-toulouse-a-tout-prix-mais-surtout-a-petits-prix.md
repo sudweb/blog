@@ -1,5 +1,5 @@
 ---
-title: Venir à Toulouse à tout prix mais surtout à petits prix
+title: Venir à Toulouse à petits prix
 author: Nathalie Rosenberg
 layout: post
 permalink: /2014/01/venir-a-toulouse-a-tout-prix-mais-surtout-a-petits-prix/

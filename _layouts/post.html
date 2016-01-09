@@ -16,6 +16,12 @@
 
                   <div class="byline">
                       <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span>
+                      {% if page.categories %}
+                        en
+                        {% for category in page.categories %}
+                        <a href="{{ category | prepend: '/category/' | prepend: site.baseurl }}" rel="tag">{{ category }}</a>
+                        {% endfor %}
+                      {% endif %}
                   </div>
               </div>
 

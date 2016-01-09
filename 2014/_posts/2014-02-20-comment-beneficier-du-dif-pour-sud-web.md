@@ -1,5 +1,5 @@
 ---
-title: Comment bénéficier du DIF pour Sud Web ?
+title: Bénéficier du DIF
 author: Nathalie Rosenberg
 layout: post
 permalink: /2014/02/comment-beneficier-du-dif-pour-sud-web/

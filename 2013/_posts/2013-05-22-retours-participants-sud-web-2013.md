@@ -1,5 +1,5 @@
 ---
-title: Les retours des participants à Sud Web 2013
+title: Les retours de Sud Web 2013
 author: Nathalie Rosenberg
 layout: post
 permalink: /2013/05/retours-participants-sud-web-2013/

@@ -1,5 +1,5 @@
 ---
-title: Sud Web 2014 les 16 et 17 mai à Toulouse
+title: Sud Web 2014 à Toulouse
 author: Loïc Mathaud
 layout: post
 permalink: /2013/12/sud-web-16-et-17-mai-2014-toulouse/
@@ -47,7 +47,6 @@ Nous sommes très heureux de pouvoir dores et déjà vous annoncer la présence 
   * **Kevin Goldsmith** ([@KevinGoldsmith][6]), responsable ingénierie chez Spotify
   * **Cécile Habran** ([@cecilehabran][7]), graphiste indépendante
   * **Samuel Huron**, ([@cybunk][8]) chercheur et Lead Designer à l’Institut de recherche du Centre Pompidou
-  * **Stéphanie Walter **([@walterstephanie][9]), Web Designer chez Alsacréations et Inpixelitrust
 
 [Retrouvez le détail des premières conférences sur notre site web][10], les autres conférences seront dévoilées dans les prochaines semaines.
 

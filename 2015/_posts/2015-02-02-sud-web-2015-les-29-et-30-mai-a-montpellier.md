@@ -1,5 +1,5 @@
 ---
-title: Sud Web 2015, les 29 et 30 mai à Montpellier
+title: Sud Web 2015 à Montpellier
 author: Nathalie Rosenberg
 layout: post
 permalink: /2015/02/sud-web-2015-les-29-et-30-mai-a-montpellier/

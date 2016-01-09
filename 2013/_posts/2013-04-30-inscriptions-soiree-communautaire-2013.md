@@ -1,5 +1,5 @@
 ---
-title: Ouverture des inscriptions à la soirée communautaire
+title: Soirée communautaire à Avignon
 author: Loïc Mathaud
 layout: post
 permalink: /2013/04/inscriptions-soiree-communautaire-2013/

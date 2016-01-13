@@ -14,6 +14,7 @@ end
 group :test do
   gem 'rake'
   gem 'jekyll', versions['jekyll']
+  gem 'jekyll-seo-tag'
   gem 'html-proofer'
   gem 'mdl', '~> 0.2.0'
 end

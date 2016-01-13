@@ -1,5 +1,5 @@
 url: http://sudweb.fr
-name: Le blog de Sud Web
+title: Sud Web
 description: Les actualités de la conférence web itinérante du sud de la France.
 baseurl: /blog
 permalink: /:year/:month/:title/
@@ -10,7 +10,7 @@ lang: fr
 
 twitter:
   username: sudweb
-  
+
 logo: assets/images/logo-sudweb.png
 
 editions:
@@ -27,3 +27,4 @@ gems:
 - jekyll-mentions
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-seo-tag

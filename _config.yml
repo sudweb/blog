@@ -8,6 +8,11 @@ paginate_path: "/page/:num/"
 timezone: Europe/Paris
 lang: fr
 
+twitter:
+  username: sudweb
+  
+logo: assets/images/logo-sudweb.png
+
 editions:
   2016: Bordeaux
   2015: Montpellier

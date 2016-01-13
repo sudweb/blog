@@ -1,5 +1,6 @@
 ---
 title: Une aventure humaine
+description: Cinq années d'organisation de Sud Web vues de l'intérieur
 author: Frank Taillandier
 layout: post
 permalink: /2015/10/une-aventure-humaine

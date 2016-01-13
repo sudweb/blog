@@ -10,7 +10,7 @@ lang: fr
 
 twitter:
   username: sudweb
-  
+
 logo: assets/images/logo-sudweb.png
 
 editions:
@@ -27,3 +27,4 @@ gems:
 - jekyll-mentions
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-seo-tag

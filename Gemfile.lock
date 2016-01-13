@@ -171,7 +171,11 @@ DEPENDENCIES
   github-pages (= 42)
   html-proofer
   jekyll (= 2.4.0)
+  jekyll-seo-tag
   json
   mdl (~> 0.2.0)
   rake
   therubyracer
+
+BUNDLED WITH
+   1.11.2

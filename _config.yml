@@ -32,4 +32,5 @@ gems:
 prose:
     rooturl: '2016/_posts'
     siteurl: 'http://sudweb.fr/blog/'
+    relativeLinks: 'http://sudweb.fr/blog/links.jsonp'
     media: 'assets/images'

@@ -28,3 +28,8 @@ gems:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
+
+prose:
+    rooturl: '2016/_posts'
+    siteurl: http://sudweb.fr/blog/
+    media: 'assets/images'

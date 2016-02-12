@@ -2,7 +2,6 @@
 title: Les hérauts de Sud Web
 author: Frank Taillandier
 layout: post
-permalink: /2013/05/les-herauts-de-sud-web/
 ---
 
 A Sud Web nous pensons que les personnes présentes sont tout aussi importantes que les sujets abordés &#8211; qui ne sont que des prétextes pour amorcer des discussions métier.

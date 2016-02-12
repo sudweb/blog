@@ -3,7 +3,6 @@ title: Appel à orateurs
 description: L'appel à orateurs pour Sud Web 2016 à Bordeaux est ouvert jusqu'au 5 février
 author: Sud Web
 layout: post
-permalink: /2015/12/appel-a-orateurs
 ---
 
 Pour sa sixième édition, Sud Web se rendra fin mai dans la belle ville de Bordeaux.  

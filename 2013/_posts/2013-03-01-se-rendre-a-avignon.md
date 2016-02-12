@@ -1,8 +1,7 @@
 ---
-title: 'Train, avion, voiture, bus : comment faire de Sud Web un very good trip'
+title: Venir à Avignon
 author: Nathalie Rosenberg
 layout: post
-permalink: /2013/03/train-avion-comment-faire-de-sudweb-un-very-good-trip/
 ---
 
 Pour faciliter votre venue à Sud Web, nous avons mis les petits plats dans les grands et vous proposons des prestations afin de vous aider à réduire vos coûts de transport pour vous rendre à Avignon.

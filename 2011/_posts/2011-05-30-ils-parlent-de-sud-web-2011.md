@@ -2,8 +2,8 @@
 title: Ils parlent de Sud Web 2011
 author: Sud Web
 layout: post
-permalink: /2011/05/ils-parlent-de-sud-web-2011/
 ---
+
 Plusieurs participants ont publié compte-rendus et impressions sur cette édition. N’hésitez pas à signaler si nous sommes passés à côté d’un billet.
 
 ## [#ShareTheLove &#8211; Retour sur #SudWeb 2011][1] par Brice Favre

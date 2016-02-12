@@ -1,8 +1,7 @@
 ---
-title: 'Entretien avec Étienne et Pierre, organisateurs du bus &laquo;&nbsp;Toulouse &#8211; Sud Web&nbsp;&raquo;'
+title: Un bus depuis Toulouse ?
 author: Nathalie Rosenberg
 layout: post
-permalink: /2013/02/entretien-avec-etienne-et-pierre-organisateurs-du-bus-toulouse-sud-web/
 ---
 
 Rencontre conviviale autour d&rsquo;un verre avec Pierre et Étienne. Il y a quelques semaines, ils nous avaient fait part du souhait d&rsquo;organiser un bus pour emmener les toulousains à Sud Web 2013. L&rsquo;initiative nous a beaucoup plu. Nous avons voulu en savoir plus.
@@ -30,7 +29,7 @@ Rencontre conviviale autour d&rsquo;un verre avec Pierre et Étienne. Il y a que
 *Étienne* : Voilà ! On peut garder de l&rsquo;humour. Mais on peut amorcer la conférence à l&rsquo;aller et faire les conclusions au retour. Et <a href="http://blog.occi-tech.com/2013/01/un-car-de-toulousains-vers-sudweb-2013/" target="_blank">ce que je dis sur la page d&rsquo;inscription</a>, il y a des gens formidables qui sont à deux pâtés de maison de notre bureau, qu&rsquo;on ne connait pas. Et si une grosse majorité des toulousains qui vont à Sudweb se retrouvent dans ce car, on aura la chance de faire encore de nouvelles rencontres.
 
 **Sud Web : Donc : hâte d&rsquo;y être ?**  
-*Etienne* : Ah oui ! Après le fond reste Sudweb, le car n&rsquo;est qu&rsquo;un moyen de s&rsquo;y rendre.
+*Etienne* : Ah oui ! Après le fond reste Sud Web, le car n&rsquo;est qu&rsquo;un moyen de s&rsquo;y rendre.
 
 **Sud Web : Merci à vous deux !**
 

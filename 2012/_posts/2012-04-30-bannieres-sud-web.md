@@ -2,8 +2,8 @@
 title: Bannières Sud Web
 author: Sud Web
 layout: post
-permalink: /2012/04/bannieres-sud-web/
 ---
+
 Vous avez un blogue ? Vous voulez clamer haut et fort que vous serez à Sud Web en 2012 ? Alors ces bannières sont faites pour vous !
 
 ## Format carré 120 <abbr>px</abbr> par 120 <abbr>px</abbr>

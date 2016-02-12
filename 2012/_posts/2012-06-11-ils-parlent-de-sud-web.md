@@ -2,7 +2,6 @@
 title: Ils parlent de Sud Web 2012
 author: Sud Web
 layout: post
-permalink: /2012/06/ils-parlent-de-sud-web/
 ---
 
 Plusieurs participants ont publié compte-rendus et impressions sur cette édition. N&rsquo;hésitez pas à signaler si nous sommes passés à côté d&rsquo;un billet.

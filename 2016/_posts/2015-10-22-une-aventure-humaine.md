@@ -3,7 +3,6 @@ title: Une aventure humaine
 description: Cinq années d'organisation de Sud Web vues de l'intérieur
 author: Frank Taillandier
 layout: post
-permalink: /2015/10/une-aventure-humaine
 ---
 
 Il est difficile d’imaginer la débauche d’énergie nécessaire à l’organisation de deux journées revigorantes. De retour d’un week-end bordelais, qui marque le début d’une nouvelle ère, j’ai eu envie de revenir sur la formidable aventure humaine que nous vivons depuis cinq ans.

@@ -2,7 +2,6 @@
 title: Participez au futur de CSS
 author: Frank Taillandier
 layout: post
-permalink: /2012/04/participez-au-futur-de-css/
 ---
 
 Sud Web vous propose deux bonnes heures de réflexion et d&rsquo;échanges pour aider à contribuer au futur de <abbr>CSS</abbr>, le langage de présentation sur le web.

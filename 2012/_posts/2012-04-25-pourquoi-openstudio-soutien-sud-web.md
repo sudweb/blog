@@ -2,8 +2,8 @@
 title: Pourquoi OpenStudio soutient Sud Web
 author: Sud Web
 layout: post
-permalink: /2012/04/pourquoi-openstudio-soutien-sud-web/
 ---
+
 On ne s&rsquo;imagine pas le temps et l&rsquo;énergie nécessaires pour organiser une conférence&#8230; Heureusement, nous sommes récompensés par les retours des participants et orateurs, et encouragés par le soutien d&rsquo;entreprises telles qu&rsquo;<a lang="fr" href="http://www.openstudio.fr/">OpenStudio</a>.
 
 Nous sommes fiers et heureux que nos partenaires partagent notre vision et investissent afin que l&rsquo;événement soit convivial et abordable. En effet, sans leurs soutiens notre événement pourrait très difficilement avoir lieu et nous les en remercions.

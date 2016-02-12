@@ -2,7 +2,6 @@
 title: Soirée communautaire à Avignon
 author: Loïc Mathaud
 layout: post
-permalink: /2013/04/inscriptions-soiree-communautaire-2013/
 ---
 
 Les inscriptions aux deux journées de conférences sont maintenant fermées, nous en profitons donc pour ouvrir les inscriptions à la soirée communautaire.

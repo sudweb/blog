@@ -2,11 +2,10 @@ url: http://sudweb.fr
 title: Sud Web
 description: Les actualités de la conférence web itinérante du sud de la France.
 baseurl: /blog
-permalink: /:year/:month/:title/
-paginate: 5
+permalink: /:categories/:title/
+paginate: 3
 paginate_path: "/page/:num/"
 timezone: Europe/Paris
-lang: fr
 
 twitter:
   username: sudweb
@@ -21,10 +20,11 @@ editions:
   2012: Toulouse
   2011: Nîmes
 
-exclude: [vendor, script]
+exclude: [vendor, script, Procfile, README.md, Gemfile, Gemfile.lock]
 
 gems:
 - jekyll-mentions
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
+- jekyll-paginate

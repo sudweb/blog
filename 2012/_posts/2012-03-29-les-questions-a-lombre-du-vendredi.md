@@ -3,8 +3,6 @@ title: 'Les questions à l&rsquo;ombre du vendredi (#main:after)'
 author: Frank Taillandier
 layout: post
 permalink: /2012/03/les-questions-a-lombre-du-vendredi/
-categories:
-  - 2012
 ---
 
 Venez parler librement avec les différents orateurs après les conférences de la journée du vendredi. Sud Web place l&rsquo;échange avant tout et veut que vous bénéficiez au maximum de votre journée.

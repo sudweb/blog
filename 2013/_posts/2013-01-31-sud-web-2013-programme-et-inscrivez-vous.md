@@ -3,8 +3,8 @@ title: 'Sud Web 2013 : demandez le programme et inscrivez-vous'
 author: Loïc Mathaud
 layout: post
 permalink: /2013/01/sud-web-2013-programme-et-inscrivez-vous/
-categories:
-  - 2013
+
+
 ---
 
 Un fort engouement semble se dégager encore une fois pour Sud Web, une des preuves les plus tangibles étant le nombre de sujets proposés cette année.

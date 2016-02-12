@@ -3,8 +3,6 @@ title: Sud Web 2015 à Montpellier
 author: Nathalie Rosenberg
 layout: post
 permalink: /2015/02/sud-web-2015-les-29-et-30-mai-a-montpellier/
-categories:
-  - 2015
 ---
 
 Sud Web revient les 29 et 30 mai pour sa 5e édition en s&rsquo;arrêtant pour la première fois dans la belle ville de Montpellier. les inscriptions sont ouvertes et limitées à seulement 120 personnes pour plus de convivialité.

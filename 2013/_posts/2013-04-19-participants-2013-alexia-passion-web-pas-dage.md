@@ -3,8 +3,6 @@ title: 'Participants 2013 : Alexia, la passion du web n&rsquo;a pas d&rsquo;âge
 author: Loïc Mathaud
 layout: post
 permalink: /2013/04/participants-2013-alexia-passion-web-pas-dage/
-categories:
-  - 2013
 ---
 
 S&rsquo;il y a bien une chose que l&rsquo;on souhaite favoriser avec Sud Web, c&rsquo;est la rencontre et les échanges des personnes aux profils divers.

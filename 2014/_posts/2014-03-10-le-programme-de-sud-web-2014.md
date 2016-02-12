@@ -3,8 +3,6 @@ title: Le programme de Sud Web 2014
 author: Frank Taillandier
 layout: post
 permalink: /2014/03/le-programme-de-sud-web-2014/
-categories:
-  - 2014
 ---
 
 Nous sommes ravis de pouvoir enfin vous présenter le programme complet de cette quatrième édition de Sud Web, concocté pour vous avec amour. 24 intervenants aux profils variés pour une édition plus riche que jamais.

@@ -3,8 +3,6 @@ title: Mais pourquoi ces conférences ?
 author: Sud Web
 layout: post
 permalink: /2012/03/mais-pourquoi-ces-conferences/
-categories:
-  - 2012
 ---
 Sachez tout d&rsquo;abord que chaque conférence a été sélectionnée *pour vous*, pour que vous en retiriez le maximum d&rsquo;éléments enrichissants.
 

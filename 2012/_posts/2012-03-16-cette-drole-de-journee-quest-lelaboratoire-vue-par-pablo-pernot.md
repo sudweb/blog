@@ -3,8 +3,6 @@ title: Cette drôle de journée qu’est l’Elaboratoire, vue par Pablo Pernot
 author: Sud Web
 layout: post
 permalink: /2012/03/cette-drole-de-journee-quest-lelaboratoire-vue-par-pablo-pernot/
-categories:
-  - 2012
 ---
 
 Pablo Pernot nous explique pourquoi la journée participative du samedi l'enthousiasme.

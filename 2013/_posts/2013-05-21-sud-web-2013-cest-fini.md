@@ -3,8 +3,6 @@ title: 'Sud Web 2013 c&rsquo;est fini&#8230;'
 author: Nathalie Rosenberg
 layout: post
 permalink: /2013/05/sud-web-2013-cest-fini/
-categories:
-  - 2013
 ---
 
 Voilà, le rideau est tombé. La petite musique du ménestrel Rudy vous trottine sans doute encore dans la tête (vous savez ? Nous espérons que vous avez eu autant de plaisir à participer à cette édition que nous à la préparer.

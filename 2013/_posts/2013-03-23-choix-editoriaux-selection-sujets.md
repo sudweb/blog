@@ -3,8 +3,6 @@ title: Choix éditoriaux et sélection des sujets
 author: Loïc Mathaud
 layout: post
 permalink: /2013/03/choix-editoriaux-selection-sujets/
-categories:
-  - 2013
 ---
 
 On nous demande souvent la façon dont l&rsquo;équipe Sud Web − la Thym − choisit le programme des conférences. Le récent [billet de David Larlet](https://larlet.fr/david/blog/2013/conferences-editorialisation/) nous permet de réagir sur ce sujet et de vous expliquer notre fonctionnement.

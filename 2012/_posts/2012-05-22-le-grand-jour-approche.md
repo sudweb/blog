@@ -3,8 +3,6 @@ title: Le grand jour approche
 author: Sud Web
 layout: post
 permalink: /2012/05/le-grand-jour-approche/
-categories:
-  - 2012
 ---
 Impatient d’assister à Sud Web 2012 ? Nous aussi ! Toute l’équipe s’active, et te propose en attendant ce petit récapitulatif pratique.
 

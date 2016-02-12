@@ -3,8 +3,6 @@ title: Entretien avec Anthony Ricaud
 author: Frank Taillandier
 layout: post
 permalink: /2012/05/entretien-avec-anthony-ricaud/
-categories:
-  - 2012
 ---
 
 Suite et fin de notre série d&rsquo;entretiens avec des orateurs de cette édition 2012. Cette fois ci c&rsquo;est Anthony Ricaud de chez Mozilla qui a répondu gentiment à nos questions pour convaincre ceux qui hésiteraient encore à prendre leurs places d&rsquo;ici dimanche.

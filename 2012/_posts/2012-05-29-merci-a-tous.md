@@ -3,8 +3,6 @@ title: Merci à tous !
 author: Sud Web
 layout: post
 permalink: /2012/05/merci-a-tous/
-categories:
-  - 2012
 ---
 Au nom de toute la Thym, un énoooooooorme MERCI à tous ! Merci d&rsquo;avoir échangé, partagé, discuté, et fait de Sud Web 2012 un moment de bonheur aussi intense.
 

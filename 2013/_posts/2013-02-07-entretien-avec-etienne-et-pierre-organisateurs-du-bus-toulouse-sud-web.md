@@ -3,8 +3,6 @@ title: 'Entretien avec Étienne et Pierre, organisateurs du bus &laquo;&nbsp;Tou
 author: Nathalie Rosenberg
 layout: post
 permalink: /2013/02/entretien-avec-etienne-et-pierre-organisateurs-du-bus-toulouse-sud-web/
-categories:
-  - 2013
 ---
 
 Rencontre conviviale autour d&rsquo;un verre avec Pierre et Étienne. Il y a quelques semaines, ils nous avaient fait part du souhait d&rsquo;organiser un bus pour emmener les toulousains à Sud Web 2013. L&rsquo;initiative nous a beaucoup plu. Nous avons voulu en savoir plus.

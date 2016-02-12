@@ -3,10 +3,6 @@ title: 'Les vidéos de Sud Web 2012 : troisième partie'
 author: Frank Taillandier
 layout: post
 permalink: /2013/01/les-videos-de-sud-web-2012-troisieme-partie/
-categories:
-  - 2012
-tags:
-  - video
 ---
 
 On continue notre passage en revue des vidéos des conférences de Sud Web 2012.

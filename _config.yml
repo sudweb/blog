@@ -10,6 +10,10 @@ timezone: Europe/Paris
 twitter:
   username: sudweb
 
+analytics:
+    google:
+        tracking_id: UA-22076213-1
+
 logo: assets/images/logo-sudweb.png
 
 editions:

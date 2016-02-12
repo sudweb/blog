@@ -3,7 +3,7 @@ title: Sud Web
 description: Les actualités de la conférence web itinérante du sud de la France.
 baseurl: /blog
 permalink: /:categories/:title/
-paginate: 3
+paginate: 5
 paginate_path: "/page/:num/"
 timezone: Europe/Paris
 

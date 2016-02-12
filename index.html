@@ -11,22 +11,19 @@ title: Blog
   </div>
 
   <nav class="pagination loop-pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" class="prev page-numbers">&larr; Précédent</a>
+  {% if paginator.next_page %}
+    <a class="prev page-numbers" href="{{ site.baseurl }}/page/{{paginator.next_page}}">&larr; Précédent</a>
+  {% else %}
+    <span class="prev page-numbers">&larr; Précédent</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="next page-numbers" href="{{ site.baseurl }}/">Suivant &rarr;</a>
+    {% else %}
+      <a class="next page-numbers" href="{{ site.baseurl }}/page/{{paginator.previous_page}}">Suivant &rarr;</a>
     {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class='page-numbers current'>{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ site.baseurl }}/" class='page-numbers'>{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class='page-numbers'>{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next page-numbers">Suivant &rarr;</a>
-    {% endif %}
+  {% else %}
+    <span class="next page-numbers">Suivant &rarr;</span>
+  {% endif %}
   </nav>
 </div>

@@ -9,10 +9,6 @@ matrix:
           env: JEKYLL_VERSION=3.03
     fast_finish: true
 
-branches:
-    only:
-        - gh-pages
-
 script: script/cibuild
 
 env:

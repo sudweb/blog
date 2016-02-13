@@ -5,7 +5,7 @@ layout: post
 ---
 
 On continue notre passage en revue des vidéos des conférences de Sud Web 2012.
-Pour ceux qui ont loupés les premiers épisodes, vous pouvez toujours regarder le [S2E01](http://sudweb.fr/blog/2012/12/les-videos-de-sud-web-2012-premiere-partie/) et [S2E02](http://sudweb.fr/blog/2012/12/les-videos-de-sud-web-2012-deuxieme-partie/).
+Pour ceux qui ont loupés les premiers épisodes, vous pouvez toujours regarder le [S2E01](http://sudweb.fr/blog/2012/les-videos-de-sud-web-2012-premiere-partie/) et [S2E02](http://sudweb.fr/blog/2012/les-videos-de-sud-web-2012-deuxieme-partie/).
 
 Une documentation fiable est primordiale au quotidien pour les développeurs. C&rsquo;est pourquoi Jérémie Patonnier nous explique pourquoi et **comment participer à l&rsquo;effort de documentation des technologies ouvertes du web** (HTML, CSS, Javascript, SVG, etc.) sur le [Mozilla Developer Network][3]. À vous de jouer !
 

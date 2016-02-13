@@ -19,6 +19,8 @@ Vendredi 16 mai, les conférences Sud Web se dérouleront au 6e étage des [Espa
 
 La soirée communautaire se déroulera dans le même lieu, juste après les conférences. Nous avons réservé un coucher de soleil sur la ville rose pour profiter de la vue imprenable depuis la terrasse.
 
+{% include figure.html name="terrasse-espaces-vanel-640.jpg" %}
+
 Samedi 17 mai, place aux Élaboratoires. Cette année encore c’est l’[EPITECH][3] qui nous accueille pour expérimenter, apprendre et échanger dans la bonne humeur qui nous caractérise.
 
 ## Baisse du prix du billet
@@ -64,8 +66,6 @@ Et bien sûr nous continuerons à vous tenir informés de toutes les information
 N’hésitez pas à nous faire part de vos remarques ou de vos encouragements pour continuer à nous améliorer.
 
 Rendez-vous à Toulouse en mai !
-
-*La Thym Sud Web*
 
  [1]: http://sudweb.fr/2014/inscription.html
  [2]: http://www.espacesvanel.com/ "Espaces Vanel"

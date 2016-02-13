@@ -1,10 +1,7 @@
 ---
-title: 'Sud Web et vous : vos retours sur les éditions passées'
+title: Faites nous vos retours sur Sud Web
 author: Nathalie Rosenberg
 layout: post
-permalink: /2013/02/sudweb-et-vous-vos-retours-sur-les-editions-passees/
-categories:
-  - 2013
 ---
 
 Vous êtes déjà venu à Sud Web. Vous avez suivi les conférences, les ateliers, discuté avec des gens que vous ne connaissiez pas, échangé sur des méthodes, des pratiques, des outils. Bref, vous avez certainement passé un bon moment. Mais au final, qu&rsquo;en avez-vous retiré ? Ce que vous avez appris a-t-il changé ou influencé votre quotidien ?

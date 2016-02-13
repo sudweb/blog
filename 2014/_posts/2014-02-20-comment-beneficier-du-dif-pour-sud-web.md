@@ -2,9 +2,6 @@
 title: Bénéficier du DIF
 author: Nathalie Rosenberg
 layout: post
-permalink: /2014/02/comment-beneficier-du-dif-pour-sud-web/
-categories:
-  - 2014
 ---
 
 Bonne nouvelle, Sud Web est éligible au DIF grâce à notre partenaire SmartView.

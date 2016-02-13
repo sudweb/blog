@@ -2,9 +2,6 @@
 title: Les retours de Sud Web 2013
 author: Nathalie Rosenberg
 layout: post
-permalink: /2013/05/retours-participants-sud-web-2013/
-categories:
-  - 2013
 ---
 
 Voici une liste de vos billets de blogs sur cette édition 2013.

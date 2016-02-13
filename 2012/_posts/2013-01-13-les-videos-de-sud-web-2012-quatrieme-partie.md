@@ -2,11 +2,6 @@
 title: 'Les vidéos de Sud Web 2012 : quatrième partie'
 author: Frank Taillandier
 layout: post
-permalink: /2013/01/les-videos-de-sud-web-2012-quatrieme-partie/
-categories:
-  - 2012
-tags:
-  - video
 ---
 
 Suite et fin de la saison 2012 de Sud Web en vidéo, de quoi vous faire patienter avant l&rsquo;édition 2013 au palais des Papes.

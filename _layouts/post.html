@@ -1,6 +1,6 @@
 {% include head.html %}
 
-<body class="wordpress ltr fr_FR parent-theme custom-header singular singular-post">
+<body class="singular singular-post">
 <div id="container">
   <div class="wrap">
     {% include header.html %}
@@ -17,9 +17,9 @@
                   <div class="byline">
                       <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span>
                       {% if page.categories %}
-                        en
+                        •
                         {% for category in page.categories %}
-                        <a href="{{ category | prepend: '/category/' | prepend: site.baseurl }}" rel="tag">{{ category }}</a>
+                        <a href="{{ site.baseurl }}/{{ category }}" rel="tag">{{ category }}</a>
                         {% endfor %}
                       {% endif %}
                   </div>

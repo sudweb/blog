@@ -2,12 +2,8 @@
 title: Retrouver nos vidéos sur Vimeo
 author: Sud Web
 layout: post
-permalink: /2012/04/retrouver-nos-videos-sur-vimeo/
-categories:
-  - 2012
-tags:
-  - video
 ---
+
 À partir de maintenant vous pouvez retrouver les vidéos de Sud Web sur [Vimeo](https://vimeo.com/sudweb). Cela inclus bien entendu [les vidéos de Sud Web 2011](https://vimeo.com/album/1908328).
 
 Pourquoi ce changement ? Car nous n&rsquo;étions pas totalement satisfaits ni rassurés de la licence appliquée par Youtube et que nous voulions avoir une meilleure maîtrise sur ce point que nous jugeons important.

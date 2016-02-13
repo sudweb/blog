@@ -2,9 +2,6 @@
 title: Pourquoi WS Interactive soutient Sud Web
 author: Frank Taillandier
 layout: post
-permalink: /2013/04/pourquoi-ws-interactive-soutient-sud-web/
-categories:
-  - 2013
 ---
 
 WS Interactive a décidé d&rsquo;apporter son soutien à Sud Web cette année, nous avons rencontré son directeur Alex Mc Cardell pour lui poser quelques questions.

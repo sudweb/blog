@@ -2,11 +2,6 @@
 title: 'Les vidéos de Sud Web 2012 &#8211; première partie'
 author: Frank Taillandier
 layout: post
-permalink: /2012/12/les-videos-de-sud-web-2012-premiere-partie/
-categories:
-  - 2012
-tags:
-  - video
 ---
 
 TL;DR : Vous pouvez voir ou revoir les vidéos de l&rsquo;édition 2012 sur notre compte Viméo.

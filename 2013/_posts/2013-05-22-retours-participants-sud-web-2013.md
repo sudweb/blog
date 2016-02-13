@@ -95,5 +95,5 @@ Lisez les [retours de Sud Web 2012][5] ainsi que les [retours de Sud Web 2011][6
  [2]: http://arekushia.tumblr.com/post/50804752607/sudweb-2013-cet-event-enorme-sudweb-cest-un
  [3]: http://blog.occitech.fr/2013/05/sudweb-2013-cetait-bien/ "Sud Web 2013 ‑ C'était bien"
  [4]: /blog/contact/
- [5]: http://sudweb.fr/blog/2012/06/ils-parlent-de-sud-web/ "Ils parlent de Sud Web"
- [6]: http://sudweb.fr/blog/2011/05/ils-parlent-de-sud-web-2011/ "Ils parlent de Sud Web 2011"
+ [5]: http://sudweb.fr/blog/2012/ils-parlent-de-sud-web/ "Ils parlent de Sud Web"
+ [6]: http://sudweb.fr/blog/2011/ils-parlent-de-sud-web-2011/ "Ils parlent de Sud Web 2011"

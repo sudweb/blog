@@ -18,15 +18,13 @@ Nous venons de poster un tweet avec notre compte [@SudWeb][4], et pour participe
 
 <blockquote class="twitter-tweet">
   <p>
-    Tu veux gagner une place pour @<a href="https://twitter.com/sudweb">sudweb</a>, le 17-18 mai ? (et bien remercier @<a href="https://twitter.com/nissone">nissone</a> !) RT avant demain 14h ! <a href="http://t.co/Or9EXoVcf1" title="http://sudweb.fr/blog/2013/04/entree-gratuite-sudweb-2013/">sudweb.fr/blog/2013/04/e…</a>
+    Tu veux gagner une place pour @<a href="https://twitter.com/sudweb">sudweb</a>, le 17-18 mai ? (et bien remercier @<a href="https://twitter.com/nissone">nissone</a> !) RT avant demain 14h ! <a href="http://t.co/Or9EXoVcf1" title="http://sudweb.fr/blog/2013/entree-gratuite-sudweb-2013/">sudweb.fr/blog/2013/04/e…</a>
   </p>
 
   <p>
     &mdash; Sud Web (@SudWeb) <a href="https://twitter.com/SudWeb/status/327362193257541633">April 25, 2013</a>
   </p>
 </blockquote>
-
-
 
 Si vous avez déjà votre ticket (déjà, nous vous félicitions pour cette initiative !), n&rsquo;hésitez pas à jouer quand même, nous serons heureux de vous rembourser votre place !
 

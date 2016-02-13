@@ -6,13 +6,7 @@ layout: post
 
 Nous sommes ravis de pouvoir enfin vous présenter le programme complet de cette quatrième édition de Sud Web, concocté pour vous avec amour. 24 intervenants aux profils variés pour une édition plus riche que jamais.
 
-<div id="attachment_1209" style="width: 646px" class="wp-caption aligncenter">
-  <a href="http://sudweb.fr/blog/wp-content/uploads/2014/03/julienw-e1394366617108.jpg"><img class="size-single-thumbnail wp-image-1209" alt="Vue du public lors de Sud Web 2012" src="http://sudweb.fr/blog/wp-content/uploads/2014/03/julienw-636x310.jpg" width="636" height="310" /></a>
-
-  <p class="wp-caption-text">
-    Julien Wajsberg (Mozilla) et le public captivé pendant une conférence de Sud Web 2012
-  </p>
-</div>
+{% include figure.html name="public-2012.jpg" caption="Le public de Sud Web 2012 captivé par une conférence" %}
 
 ## Conférences
 
@@ -85,6 +79,6 @@ Il nous tarde de pouvoir vous accueillir parmi nous en mai à Toulouse pour deux
  [16]: http://vimeo.com/104818223
  [17]: https://vimeo.com/103391120
  [18]: http://sudweb.fr/2014/inscription.html
- [19]: http://sudweb.fr/blog/2014/02/comment-beneficier-du-dif-pour-sud-web/
+ [19]: http://sudweb.fr/blog/2014/comment-beneficier-du-dif-pour-sud-web/
  [20]: mailto:contact@sudweb.fr
- [21]: http://sudweb.fr/blog/2014/01/venir-a-toulouse-a-tout-prix-mais-surtout-a-petits-prix/
+ [21]: http://sudweb.fr/blog/2014/venir-a-toulouse-a-tout-prix-mais-surtout-a-petits-prix/

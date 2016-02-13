@@ -8,7 +8,7 @@ layout: post
 Pour sa sixième édition, Sud Web se rendra fin mai dans la belle ville de Bordeaux.  
 [L'appel à orateurs](https://docs.google.com/forms/d/1ciKJyvHSYDA_qK3nGBuJLMoP5UeqOpMQk5NJ631Uvko/viewform) est ouvert jusqu'au **5 février** pour les conférences éclair de 5 minutes.
 
-![Bertrand Keller, Sud Web 2015]({{ site.baseurl }}/assets/images/2015-bertrand-keller.jpg)
+{% include figure.html name="2015-bertrand-keller.jpg" caption="Bertrand Keller, Sud Web 2015" %}
 
 Nous aimons tous écouter des histoires, aussi nous vous invitons à venir partager une expérience, qui pourra faire sourire, émouvoir ou nous faire réfléchir. Vous pouvez proposer plusieurs sujets. Si vous avez bien une idée, mais que vous n'osez pas vous lancer, proposez quand même, si votre sujet est choisi nous vous proposons de vous accompagner dans l'élaboration de votre _storytelling_, et nous vous ferons répéter pour que vous soyez fin prêt le jour J.
 

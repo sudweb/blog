@@ -14,9 +14,7 @@ Pour pouvoir bénéficier du DIF lors de Sud Web, vous devez procéder comme sui
   * Il doit nous signaler lors de cette procédure que vous vous inscrivez dans le cadre du DIF et que vous souhaitez obtenir une attestation de formation et de présence (il suffit de cocher la case qui va bien),
   * Les attestations de présence vous seront remises sur place lors de la conférence.
 
-<p style="text-align: center;">
-  <a href="http://sudweb.fr/blog/wp-content/uploads/2014/02/dif.png"><img class="size-medium wp-image-1202 aligncenter" alt="dif" src="http://sudweb.fr/blog/wp-content/uploads/2014/02/dif-300x267.png" width="300" height="267" /></a>
-</p>
+{% include figure.html name="dif.png" caption="" %}
 
 Si vous vous êtes déjà inscrit, merci de [nous contacter pour nous demander ces attestations][3].
 

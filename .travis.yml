@@ -2,10 +2,10 @@ language: ruby
 cache: bundler
 sudo: false
 rvm:
-- 2.1
+- 2.1.7
 matrix:
     include:
-        - rvm: 2.1
+        - rvm: 2.1.7
           env: JEKYLL_VERSION=3.03
     fast_finish: true
 

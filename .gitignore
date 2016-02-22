@@ -8,8 +8,8 @@ _site/
 
 # Ruby
 
-Gemfile.lock
-.ruby-version
+#Gemfile.lock
+#.ruby-version
 *.gem
 *.rbc
 /.config

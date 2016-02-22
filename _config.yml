@@ -7,28 +7,30 @@ paginate: 5
 paginate_path: "/page/:num/"
 timezone: Europe/Paris
 
+# jekyll-seo-tag
+
+logo: assets/images/logo-sudweb.png
 twitter:
-  username: sudweb
+    username: sudweb
 
 analytics:
     google:
         tracking_id: UA-22076213-1
 
-logo: assets/images/logo-sudweb.png
+kramdown:
+  input: GFM
 
-editions:
-  2016: Bordeaux
-  2015: Montpellier
-  2014: Toulouse
-  2013: Avignon
-  2012: Toulouse
-  2011: Nîmes
-
-exclude: [vendor, script, Procfile, README.md, Gemfile, Gemfile.lock]
+exclude:
+    - vendor
+    - script
+    - Procfile
+    - README.md
+    - Gemfile
+    - Gemfile.lock
 
 gems:
-- jekyll-mentions
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-paginate
+    - jekyll-mentions
+    - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-paginate

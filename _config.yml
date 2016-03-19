@@ -1,3 +1,4 @@
+repository: sudweb/blog
 url: http://sudweb.fr
 title: Sud Web
 description: Les actualités de la conférence web itinérante du sud de la France.
@@ -32,3 +33,4 @@ gems:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-paginate
+- jekyll-github-metadata

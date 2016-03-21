@@ -20,9 +20,7 @@ La suite au [troisième épisode][2].
 
 Et si vous n&rsquo;avez pas peur de l&rsquo;indigestion, n&rsquo;hésitez pas à [aller voir les autres vidéos][3] en ligne.
 
-*Si à votre tour vous souhaitez nous faire plaisir, vous pouvez toujours [nous envoyer une belle proposition de sujet][4] avant le 6 janvier prochain et tenter de décrocher une entrée pour l&rsquo;édition 2013 en Avignon.*
-
-&nbsp;
+*Si à votre tour vous souhaitez nous faire plaisir, vous pouvez toujours [nous envoyer une belle proposition de sujet][4] avant le 6 janvier prochain et tenter de décrocher une entrée pour l&rsquo;édition 2013 en Avignon.*
 
  [1]: http://sudweb.fr/blog//2012/les-videos-de-sud-web-2012-premiere-partie/ "Les vidéos de Sud Web 2012 – première partie"
  [2]: http://sudweb.fr/blog/2013/les-videos-de-sud-web-2012-troisieme-partie/ "Les vidéos de Sud Web 2012 : troisième partie"

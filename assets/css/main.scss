@@ -397,19 +397,19 @@ a:hover img { opacity: 0.85; }
 
 /* Captions [caption]
 -------------------------------------------------------------- */
-.wp-caption {
+.caption {
   overflow: hidden;
   text-align: center;
 }
-.wp-caption img { margin: 0 0 5px 0; }
-.wp-caption .wp-caption-text {
+.caption img { margin: 0 0 5px 0; }
+.caption .caption-text {
   margin: 5px 0;
   font-size: 0.8461538461538462em;
   line-height: 1em;
   color: #555;
   text-align: left;
 }
-.wp-caption a { border: none; }
+.caption a { border: none; }
 
 /* Galleries
 -------------------------------------------------------------- */

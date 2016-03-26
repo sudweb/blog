@@ -30,7 +30,7 @@ Je voudrais également remercier [Frank][3] (membre de l&rsquo;équipe Sud Web),
 
 Enfin, quand Frank nous a demandé si WS Interactive pouvait aider Sud Web sur l&rsquo;UX et le design du site, nous avons immédiatement dit oui. Nous espérons que vous aimez le résultat
 
-[<img class="aligncenter" alt="preview sudweb - mobile" src="http://sudweb.fr/blog/wp-content/uploads/2013/04/sudweb-mobile.jpeg" width="320" height="443" />][6]
+{% include figure.html name="sudweb-mobile.jpg" caption="" %}
 
 Merci à toute l&rsquo;équipe de Sud Web pour leur implication et leurs retours encourageants.&nbsp;&raquo;
 
@@ -45,4 +45,3 @@ Je sais qu&rsquo;ils vont apprendre beaucoup, le programme a l&rsquo;air très p
  [3]: https://twitter.com/dirtyf
  [4]: https://twitter.com/bastnic
  [5]: https://twitter.com/0ttaw
- [6]: http://sudweb.fr

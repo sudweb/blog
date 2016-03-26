@@ -1,13 +1,12 @@
 <div id="sidebar-primary" class="sidebar">
     <section id="text-2" class="widget widget_text widget-widget_text">
-      <h3 class="widget-title">Éditions</h3>
-
-      <div class="textwidget">
-        <ul>
-          {% for edition in site.editions %}
-            <li><a href="http://sudweb.fr/{{ edition[0] }}/">{{ edition[0] }}&nbsp;:&nbsp;{{ edition[1] }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-  </section>
+        <h3 class="widget-title">Éditions</h3>
+        <div class="textwidget">
+            <ul>
+                {% for edition in site.data.editions %}
+                <li><a href="http://sudweb.fr/{{ edition.year }}/">{{ edition.year }}&nbsp;:&nbsp;{{ edition.town }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </section>
 </div>

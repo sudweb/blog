@@ -3,7 +3,7 @@ title: Ouverture des inscriptions
 description: Les inscriptions pour Sud Web 2016 à Bordeaux sont ouvertes.
 author: Sud Web
 layout: post
-published: false
+published: true
 ---
 
 

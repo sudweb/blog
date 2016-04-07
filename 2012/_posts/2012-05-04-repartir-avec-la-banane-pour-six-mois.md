@@ -1,9 +1,15 @@
 ---
 title: Repartir avec la banane pour six mois
+date: '2012-05-04 00:00:00'
+categories:
+- '2012'
 author: Sud Web
 layout: post
----
+slug: repartir-avec-la-banane-pour-six-mois
+tags: []
+draft: false
 
+---
 Derrière chaque présentation, il y a une histoire et des valeurs, c&rsquo;est ce que nous avons voulu essayer de vous transmettre à travers ce petit entretien.  [Thibault Jouannic](http://sudweb.fr/2012/speaker/thibault-jouannic/), s&rsquo;est donc prêté au petit jeu des questions-réponses pour nous faire partager sa vision du métier et pourquoi venir à Sud Web est important pour lui.
 
 **Thibault, tu es orateur à Sud Web 2012, quel a été ton parcours professionnel jusqu&rsquo;à maintenant ?**

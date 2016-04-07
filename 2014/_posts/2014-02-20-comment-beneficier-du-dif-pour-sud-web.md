@@ -1,9 +1,15 @@
 ---
 title: Bénéficier du DIF
+date: '2014-02-20 00:00:00'
+categories:
+- '2014'
 author: Nathalie Rosenberg
 layout: post
----
+slug: comment-beneficier-du-dif-pour-sud-web
+tags: []
+draft: false
 
+---
 Bonne nouvelle, Sud Web est éligible au DIF grâce à notre partenaire SmartView.
 
 Pour pouvoir bénéficier du DIF lors de Sud Web, vous devez procéder comme suit :

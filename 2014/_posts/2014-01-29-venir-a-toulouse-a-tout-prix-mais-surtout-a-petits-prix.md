@@ -1,9 +1,15 @@
 ---
 title: Venir à Toulouse à petits prix
+date: '2014-01-29 00:00:00'
+categories:
+- '2014'
 author: Nathalie Rosenberg
 layout: post
----
+slug: venir-a-toulouse-a-tout-prix-mais-surtout-a-petits-prix
+tags: []
+draft: false
 
+---
 Comme tous les ans, nous vous proposons des moyens pour venir à Sud Web sans grever votre budget.
 
 ## En train

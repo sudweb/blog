@@ -1,9 +1,15 @@
 ---
 title: Votre logement à Avignon
+date: '2013-04-02 00:00:00'
+categories:
+- '2013'
 author: Nathalie Rosenberg
 layout: post
----
+slug: votre-logement-a-avignon
+tags: []
+draft: false
 
+---
 Suite de nos informations pratiques pour faciliter votre venue à Sud Web. Après vous avoir donné toutes les billes pour réduire vos coûts de transport pour vous rendre à Avignon, voici quelques pistes pour votre logement lors de la conférence.
 
 ## Séjour à l&rsquo;hôtel

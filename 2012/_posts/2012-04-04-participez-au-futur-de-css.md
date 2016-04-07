@@ -1,9 +1,15 @@
 ---
 title: Participez au futur de CSS
+date: '2012-04-04 00:00:00'
+categories:
+- '2012'
 author: Frank Taillandier
 layout: post
----
+slug: participez-au-futur-de-css
+tags: []
+draft: false
 
+---
 Sud Web vous propose deux bonnes heures de réflexion et d&rsquo;échanges pour aider à contribuer au futur de <abbr>CSS</abbr>, le langage de présentation sur le web.
 
 Ce laboratoire sera **animé par Bert Bos, le co-auteur de la première version de <abbr>CSS</abbr>**, toujours en poste au <abbr>W3C</abbr>. Si vous vous intéressez à ce langage, à la gestion du rendu sur un mobile ou une télévision <abbr>HD</abbr>, à la présentation de livres numériques, vous êtes cordialement invités à vous joindre à nous. C&rsquo;est un rendez-vous unique à ne pas manquer.

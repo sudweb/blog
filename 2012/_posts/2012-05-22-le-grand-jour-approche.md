@@ -1,9 +1,15 @@
 ---
 title: Le grand jour approche
+date: '2012-05-22 00:00:00'
+categories:
+- '2012'
 author: Sud Web
 layout: post
----
+slug: le-grand-jour-approche
+tags: []
+draft: false
 
+---
 Impatient d’assister à Sud Web 2012 ? Nous aussi ! Toute l’équipe s’active, et te propose en attendant ce petit récapitulatif pratique.
 
 ## Avion

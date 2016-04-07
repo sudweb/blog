@@ -1,9 +1,15 @@
 ---
 title: 'Les vidéos de Sud Web 2012 : troisième partie'
+date: '2013-01-05 00:00:00'
+categories:
+- '2012'
 author: Frank Taillandier
 layout: post
----
+slug: les-videos-de-sud-web-2012-troisieme-partie
+tags: []
+draft: false
 
+---
 On continue notre passage en revue des vidéos des conférences de Sud Web 2012.
 Pour ceux qui ont loupés les premiers épisodes, vous pouvez toujours regarder le [S2E01](http://sudweb.fr/blog/2012/les-videos-de-sud-web-2012-premiere-partie/) et [S2E02](http://sudweb.fr/blog/2012/les-videos-de-sud-web-2012-deuxieme-partie/).
 

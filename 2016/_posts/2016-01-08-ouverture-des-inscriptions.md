@@ -1,12 +1,17 @@
 ---
 title: Ouverture des inscriptions
+date: '2016-01-08 00:00:00'
+categories:
+- '2016'
 description: Les inscriptions pour Sud Web 2016 à Bordeaux sont ouvertes.
 author: Sud Web
 layout: post
 published: true
+slug: ouverture-des-inscriptions
+tags: []
+draft: false
+
 ---
-
-
 Les [inscriptions](http://sudweb.fr/2016/inscription/) à la sixième édition de Sud Web sont ouvertes. Nous vous invitons à venir vous ressourcer pendant deux belles journées dans [la belle ville de Bordeaux](http://sudweb.fr/2016/lieux/).
 
 Nous avons sélectionné pour vous des [conférences](http://sudweb.fr/2016/) enrichissantes et variées. Cette année, nous souhaitons aborder l'importance de la transmission et de l'éducation, ces thémes seront donc déclinés tout au long de la première journée. Bien calé dans votre siège rouge, vous pourrez assister à une quinzaine de conférences dans le très beau cinéma le Français.

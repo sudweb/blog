@@ -1,9 +1,15 @@
 ---
 title: Sud Web 2014 à Toulouse
+date: '2013-12-09 00:00:00'
+categories:
+- '2014'
 author: Loïc Mathaud
 layout: post
----
+slug: sud-web-16-et-17-mai-2014-toulouse
+tags: []
+draft: false
 
+---
 C’est maintenant officiel : Sud Web 2014 aura lieu à Toulouse les 16 et 17 mai 2014.
 
 Nous en profitons pour vous annoncer d&rsquo;autres bonnes nouvelles :

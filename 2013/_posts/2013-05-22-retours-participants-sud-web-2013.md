@@ -1,9 +1,15 @@
 ---
 title: Les retours de Sud Web 2013
+date: '2013-05-22 00:00:00'
+categories:
+- '2013'
 author: Nathalie Rosenberg
 layout: post
----
+slug: retours-participants-sud-web-2013
+tags: []
+draft: false
 
+---
 Voici une liste de vos billets de blogs sur cette édition 2013.
 
 ## [Sud Web 2013, j&rsquo;y étais][1], par Damien Erambert

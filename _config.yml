@@ -1,51 +1,56 @@
-repository: sudweb/blog
-url: http://sudweb.fr
-title: Sud Web
-description: Les actualités de la conférence web itinérante du sud de la France.
-baseurl: /blog
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: "/page/:num/"
-timezone: Europe/Paris
-
-analytics:
-    google:
-        tracking_id: UA-22076213-1
-
-# jekyll-seo-tag
-logo: assets/images/logo-sudweb.png
+---
+prose:
+  rooturl: 2016/_posts
+  siteurl: http://sudweb.fr/blog/
+  relativeLinks: http://sudweb.fr/blog/links.jsonp
+  media: assets/images
+editions:
+  '2016': Bordeaux
+  '2015': Montpellier
+  '2014': Toulouse
+  '2013': Avignon
+  '2012': Toulouse
+  '2011': Nîmes
 twitter:
   username: sudweb
-
-editions:
-  2016: Bordeaux
-  2015: Montpellier
-  2014: Toulouse
-  2013: Avignon
-  2012: Toulouse
-  2011: Nîmes
-
+logo: assets/images/logo-sudweb.png
+analytics:
+  google:
+    tracking_id: UA-22076213-1
+paginate: 5
+description: Les actualités de la conférence web itinérante du sud de la France.
+title: Sud Web
+url: http://sudweb.fr
+repository: sudweb/blog
 kramdown:
-    input: GFM
-
-exclude:
-    - vendor
-    - script
-    - Procfile
-    - README.md
-    - Gemfile
-    - Gemfile.lock
-
+  auto_ids: true
+  toc_levels: 1..6
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: '1'
+timezone: Europe/Paris
+paginate_path: "/page/:num/"
+permalink: "/:categories/:title/"
+baseurl: "/blog"
+port: 4000
 gems:
-    - jekyll-mentions
-    - jekyll-sitemap
-    - jekyll-feed
-    - jekyll-seo-tag
-    - jekyll-paginate
-    - jekyll-github-metadata
-
-prose:
-    rooturl: '2016/_posts'
-    siteurl: 'http://sudweb.fr/blog/'
-    relativeLinks: 'http://sudweb.fr/blog/links.jsonp'
-    media: 'assets/images'
+- jekyll-mentions
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
+- jekyll-github-metadata
+exclude:
+- vendor
+- script
+- Procfile
+- README.md
+- Gemfile
+- Gemfile.lock
+- vendor
+collections:
+  posts:
+    output: true
+    permalink: "/:categories/:title/"

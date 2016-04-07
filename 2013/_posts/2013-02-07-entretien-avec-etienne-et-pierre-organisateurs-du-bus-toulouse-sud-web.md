@@ -1,9 +1,15 @@
 ---
 title: Un bus depuis Toulouse ?
+date: '2013-02-07 00:00:00'
+categories:
+- '2013'
 author: Nathalie Rosenberg
 layout: post
----
+slug: entretien-avec-etienne-et-pierre-organisateurs-du-bus-toulouse-sud-web
+tags: []
+draft: false
 
+---
 Rencontre conviviale autour d&rsquo;un verre avec Pierre et Étienne. Il y a quelques semaines, ils nous avaient fait part du souhait d&rsquo;organiser un bus pour emmener les toulousains à Sud Web 2013. L&rsquo;initiative nous a beaucoup plu. Nous avons voulu en savoir plus.
 
 **Sud Web : Est-ce que vous pouvez commencer par vous présenter ?**  

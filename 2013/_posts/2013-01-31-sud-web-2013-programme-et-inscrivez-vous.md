@@ -1,9 +1,15 @@
 ---
 title: Programme et ouverture des inscriptions
+date: '2013-01-31 00:00:00'
+categories:
+- '2013'
 author: Loïc Mathaud
 layout: post
----
+slug: sud-web-2013-programme-et-inscrivez-vous
+tags: []
+draft: false
 
+---
 Un fort engouement semble se dégager encore une fois pour Sud Web, une des preuves les plus tangibles étant le nombre de sujets proposés cette année.
 
 Nous avons reçus pas moins de **161 sujets** ! C&rsquo;est une augmentation de 50% par rapport à l&rsquo;année dernière, qu&rsquo;il faut coupler à une plus grande homogénéité des sujets, poussant leur qualité vers le haut. En effet de l&rsquo;avis général de la Thym Sud Web le nombre de propositions &laquo;&nbsp;hors-périmètre&nbsp;&raquo; a drastiquement diminué, nous mettant face à un panel de sujets tous plus chouettes les uns que les autres, et face à des choix souvent cornéliens.

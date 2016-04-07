@@ -1,9 +1,15 @@
 ---
 title: Thelia soutient Sud Web
+date: '2013-04-23 00:00:00'
+categories:
+- '2013'
 author: Loïc Mathaud
 layout: post
----
+slug: thelia-soutient-sud-web
+tags: []
+draft: false
 
+---
 [OpenStudio](http://www.openstudio.fr/), éditeur de la solution e-commerce [Thelia](http://thelia.net/) soutient Sud Web cette année encore. Nous avons posé quelques questions à Arnault Pachot, son directeur technique.
 
 **Bonjour Arnault, peux-tu nous parler de la solution e-commerce libre Thelia  et nous dire comment est-ce qu&rsquo;elle se positionne par rapport aux autres solutions du marché ?**

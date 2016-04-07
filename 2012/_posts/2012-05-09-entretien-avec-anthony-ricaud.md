@@ -1,9 +1,15 @@
 ---
 title: Entretien avec Anthony Ricaud
+date: '2012-05-09 00:00:00'
+categories:
+- '2012'
 author: Frank Taillandier
 layout: post
----
+slug: entretien-avec-anthony-ricaud
+tags: []
+draft: false
 
+---
 Suite et fin de notre série d&rsquo;entretiens avec des orateurs de cette édition 2012. Cette fois ci c&rsquo;est Anthony Ricaud de chez Mozilla qui a répondu gentiment à nos questions pour convaincre ceux qui hésiteraient encore à prendre leurs places d&rsquo;ici dimanche.
 
 **Anthony, merci d’être orateur à Sud Web 2012 ! Le web et toi, c’est une belle histoire, non ? **

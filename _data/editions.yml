@@ -1,17 +1,13 @@
-- year: "2016"
+---
+- year: '2016'
   town: Bordeaux
-
-- year: "2015"
+- year: '2015'
   town: Montpellier
-
-- year: "2014"
+- year: '2014'
   town: Toulouse
-
-- year: "2013"
+- year: '2013'
   town: Avignon
-
-- year: "2012"
+- year: '2012'
   town: Toulouse
-
-- year: "2011"
+- year: '2011'
   town: Nîmes

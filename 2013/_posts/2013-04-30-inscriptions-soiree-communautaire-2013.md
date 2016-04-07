@@ -1,9 +1,15 @@
 ---
 title: Soirée communautaire à Avignon
+date: '2013-04-30 00:00:00'
+categories:
+- '2013'
 author: Loïc Mathaud
 layout: post
----
+slug: inscriptions-soiree-communautaire-2013
+tags: []
+draft: false
 
+---
 Les inscriptions aux deux journées de conférences sont maintenant fermées, nous en profitons donc pour ouvrir les inscriptions à la soirée communautaire.
 
 {% include figure.html name="courdhonneur-636x300.jpg" caption="La cour d'honneur à Avignon" %}

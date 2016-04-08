@@ -3,15 +3,9 @@ cache: bundler
 sudo: false
 rvm:
 - 2.1
-matrix:
-    include:
-        - rvm: 2.1
-          env: JEKYLL_VERSION=3.03
-    fast_finish: true
 
 env:
     global:
         - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
-install: bundle update
 script: script/cibuild

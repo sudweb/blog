@@ -1,6 +1,7 @@
 #!/bin/sh
+
 set -e # halt script on error
 
-bundle exec mdl --config .mdlrc **/*.md
+bundle exec mdl --style mdl.rb .
 bundle exec jekyll build --destination _site/blog/ JEKYLL_ENV=production --verbose
 bundle exec htmlproofer ./_site --disable-external --empty-alt-ignore --url-ignore "#"

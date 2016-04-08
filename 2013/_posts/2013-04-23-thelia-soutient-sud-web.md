@@ -12,7 +12,7 @@ draft: false
 ---
 [OpenStudio](http://www.openstudio.fr/), éditeur de la solution e-commerce [Thelia](http://thelia.net/) soutient Sud Web cette année encore. Nous avons posé quelques questions à Arnault Pachot, son directeur technique.
 
-**Bonjour Arnault, peux-tu nous parler de la solution e-commerce libre Thelia  et nous dire comment est-ce qu&rsquo;elle se positionne par rapport aux autres solutions du marché ?**
+### Bonjour Arnault, peux-tu nous parler de la solution e-commerce libre Thelia  et nous dire comment est-ce qu&rsquo;elle se positionne par rapport aux autres solutions du marché ?**
 
 Thelia est un outil de création et de gestion de boutiques en ligne, publié sous licence GPL.  
 Thelia existe depuis 2005, et est distribué sous licence GPL depuis décembre 2006.  
@@ -29,14 +29,14 @@ Thelia s&rsquo;adapte à tous les projets et à n&rsquo;importe quelle charte gr
 Aujourd&rsquo;hui, plus de 6500 boutiques en ligne sont réalisées avec Thelia, et nous proposons près de 250 modules.  
 Nous sommes en train de préparer la version 2 de Thelia, la sortie est prévue pour la fin d&rsquo;année.  L&rsquo;objectif de cette version 2 est de permettre l&rsquo;utilisation de Thelia sur des projets de plus grande envergure, d&rsquo;accélérer le développement du logiciel à l&rsquo;international et de faciliter l&rsquo;interopérabilité avec d&rsquo;autres outils (CMS, ERP, CRM&#8230;.).
 
-**Pourquoi avez-vous décidé d’apporter votre soutien à Sud Web ?**
+### Pourquoi avez-vous décidé d’apporter votre soutien à Sud Web ?
 
 Tout comme l&rsquo;équipe de Sud Web, **nous partageons les mêmes valeurs : l&rsquo;importance des échanges humains, le partage**.  
 Nous aimons ses rencontres conviviales, qui permettent à chacun de s&rsquo;enrichir grâce aux expériences partagées.  
 C&rsquo;est ce qu&rsquo;on fait d&rsquo;ailleurs avec la communauté Thelia
 Sud Web c&rsquo;est aussi pour nous l&rsquo;occasion de faire connaître Thelia, et, nous l&rsquo;espérons, d&rsquo;accroître notre communauté !
 
-**Merci Arnault, on se voit dans moins d&rsquo;un mois à Avignon !**
+### Merci Arnault, on se voit dans moins d&rsquo;un mois à Avignon !
 
 Découvrez le programme des [conférences][3] et des [ateliers][4] et [inscrivez-vous][5] !
 

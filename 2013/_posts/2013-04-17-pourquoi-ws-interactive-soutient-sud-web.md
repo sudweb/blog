@@ -12,7 +12,7 @@ draft: false
 ---
 WS Interactive a décidé d&rsquo;apporter son soutien à Sud Web cette année, nous avons rencontré son directeur Alex Mc Cardell pour lui poser quelques questions.
 
-**Bonjour Alex, peux-tu nous présenter l&rsquo;agence WS Interactive ?**
+### Bonjour Alex, peux-tu nous présenter l&rsquo;agence WS Interactive ?
 
 &laquo;&nbsp;[WS Interactive][1] est une agence web basée à Toulouse. Nous sommes une équipe de 12 spécialistes, qui créons et développons des sites web sur mesure depuis 1997.
 
@@ -24,7 +24,7 @@ Techniquement, nous travaillons avec des solutions open-source comme [Automne][2
 
 Nous travaillons de manière très proche avec nos clients tout au long des différentes phases du projet. Notre plus grande récompense est que beaucoup reviennent vers nous d&rsquo;année en année, pour nous confier le suivi de leur visibilité.&nbsp;&raquo;
 
-**Pourquoi avez-vous décidé d&rsquo;apporter votre soutien à Sud Web ?**
+### Pourquoi avez-vous décidé d&rsquo;apporter votre soutien à Sud Web ?
 
 &laquo;&nbsp;Sud Web porte des valeurs auxquelles nous croyons comme le partage et la convivialité. Mais Sud Web c&rsquo;est aussi de l&rsquo;inspiration, c&rsquo;est pourquoi nous y envoyons des membres de l&rsquo;équipe. Participer à ce genre d&rsquo;évènements permet de rester au fait des dernières innovations et des réflexions en terme de web design et de développement.
 

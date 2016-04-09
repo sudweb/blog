@@ -9,6 +9,6 @@ end
 
 group :test do
   gem 'rake'
-  gem 'html-proofer'
-  gem 'mdl', '~> 0.2.0'
+  gem 'html-proofer', '~> 3.0.0'
+  gem 'mdl', '~> 0.3.0'
 end

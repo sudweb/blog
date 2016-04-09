@@ -14,17 +14,19 @@ Bonne nouvelle, Sud Web est éligible au DIF grâce à notre partenaire SmartVie
 
 Pour pouvoir bénéficier du DIF lors de Sud Web, vous devez procéder comme suit :
 
-  * Faites la **demande préalable auprès de votre employeur** afin d’obtenir son accord,
-  * Celui-ci a **un mois pour donner son accord** (s’il n’a pas répondu passé ce délai, c’est une acceptation),
-  * Une fois l’accord obtenu, l’employeur doit procéder à votre [inscription en ligne][2],
-  * Il doit nous signaler lors de cette procédure que vous vous inscrivez dans le cadre du DIF et que vous souhaitez obtenir une attestation de formation et de présence (il suffit de cocher la case qui va bien),
-  * Les attestations de présence vous seront remises sur place lors de la conférence.
+* Faites la **demande préalable auprès de votre employeur** afin d’obtenir son accord,
+* Celui-ci a **un mois pour donner son accord** (s’il n’a pas répondu passé ce délai, c’est une acceptation),
+* Une fois l’accord obtenu, l’employeur doit procéder à votre [inscription en ligne][2],
+* Il doit nous signaler lors de cette procédure que vous vous inscrivez dans le cadre du DIF et que vous souhaitez obtenir une attestation de formation et de présence (il suffit de cocher la case qui va bien),
+* Les attestations de présence vous seront remises sur place lors de la conférence.
 
 {% include figure.html name="dif.png" caption="" %}
 
 Si vous vous êtes déjà inscrit, merci de [nous contacter pour nous demander ces attestations][3].
 
-**Voici le numéro d’agrément à mentionner dans la constitution du dossier :**
+### Numéro d'agrément
+
+Voici le numéro d’agrément à mentionner dans la constitution du dossier :**
 
 91.34.06.975.34  
 Société : Smartview – Chrysalis SARL  

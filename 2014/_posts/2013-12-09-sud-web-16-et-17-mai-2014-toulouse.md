@@ -14,10 +14,10 @@ C’est maintenant officiel : Sud Web 2014 aura lieu à Toulouse les 16 et 17 ma
 
 Nous en profitons pour vous annoncer d&rsquo;autres bonnes nouvelles :
 
-  * la baisse du prix des places,
-  * l’ouverture immédiate des [inscriptions][1],
-  * les premiers orateurs invités,
-  * l’ouverture de l’appel à orateurs.
+* la baisse du prix des places,
+* l’ouverture immédiate des [inscriptions][1],
+* les premiers orateurs invités,
+* l’ouverture de l’appel à orateurs.
 
 ## Deux journées complémentaires
 
@@ -49,9 +49,9 @@ Cette année nous effectuons la **curation des orateurs** des conférences de 20
 
 Nous sommes très heureux de pouvoir dores et déjà vous annoncer la présence de :
 
-  * **Kevin Goldsmith** ([@KevinGoldsmith][6]), responsable ingénierie chez Spotify
-  * **Cécile Habran** ([@cecilehabran][7]), graphiste indépendante
-  * **Samuel Huron**, ([@cybunk][8]) chercheur et Lead Designer à l’Institut de recherche du Centre Pompidou
+* **Kevin Goldsmith** ([@KevinGoldsmith][6]), responsable ingénierie chez Spotify
+* **Cécile Habran** ([@cecilehabran][7]), graphiste indépendante
+* **Samuel Huron**, ([@cybunk][8]) chercheur et Lead Designer à l’Institut de recherche du Centre Pompidou
 
 [Retrouvez le détail des premières conférences sur notre site web][10], les autres conférences seront dévoilées dans les prochaines semaines.
 

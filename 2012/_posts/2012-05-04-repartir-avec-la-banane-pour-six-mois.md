@@ -12,7 +12,7 @@ draft: false
 ---
 Derrière chaque présentation, il y a une histoire et des valeurs, c&rsquo;est ce que nous avons voulu essayer de vous transmettre à travers ce petit entretien.  [Thibault Jouannic](http://sudweb.fr/2012/speaker/thibault-jouannic/), s&rsquo;est donc prêté au petit jeu des questions-réponses pour nous faire partager sa vision du métier et pourquoi venir à Sud Web est important pour lui.
 
-**Thibault, tu es orateur à Sud Web 2012, quel a été ton parcours professionnel jusqu&rsquo;à maintenant ?**
+### Thibault, tu es orateur à Sud Web 2012, quel a été ton parcours professionnel jusqu&rsquo;à maintenant ?
 
 Je vous épargnerai l&rsquo;énumération de mes diverses expériences professionnelles estudiantines, pour arriver directement à mon premier vrai poste : ingénieur TMA dans une <abbr>SSII</abbr> à Montpellier.
 
@@ -22,7 +22,7 @@ De mon emploi de *pompier secouriste du web*, j&rsquo;ai gardé une douloureuse 
 
 Après plus de deux ans de ce régime, j&rsquo;ai senti pousser les ailes de l&rsquo;indépendance, et je me suis installé à mon compte, avec la ferme résolution de rendre mes clients heureux. Me voici donc trois ans plus tard. De chouettes clients, des technologies sexy, des projets intéressants : je suis un freelance heureux.
 
-**Ta conférence s&rsquo;intitule « Vendre des prestations agiles ». Pourquoi ce sujet ?**
+### Ta conférence s&rsquo;intitule « Vendre des prestations agiles ». Pourquoi ce sujet ?
 
 À la base, je suis développeur. Mon métier me passionne, et il me parait naturel de toujours chercher à progresser, découvrir de nouvelles choses et gagner de nouvelles compétences.
 
@@ -36,7 +36,7 @@ Mais si embrasser les valeurs et principes de l&rsquo;agile a été assez évide
 
 J&rsquo;estime que dès le premier coup de fil d&rsquo;un client potentiel, il faut poser les premières pierres d&rsquo;une relation commerciale saine et constructive. C&rsquo;est dans ce but que j&rsquo;ai travaillé mon discours commercial. Peut-être que l&rsquo;argumentaire que j&rsquo;utilise pourra être utile à d&rsquo;autres pour les aider à faire comprendre à leurs clients que l&rsquo;agile est aussi bon pour eux.
 
-**Quelles sont tes attentes vis à vis de Sud Web ?**
+### Quelles sont tes attentes vis à vis de Sud Web ?
 
 Maintenant, quand on me demande pourquoi je dépense de l&rsquo;argent pour assister à des conférences, je me contente de sourire et de dégainer [le superbe article de Bruno Bord][2] sur le sujet.
 

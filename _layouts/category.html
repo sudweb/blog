@@ -11,9 +11,9 @@
         <h1>{{ page.title }}</h1>
 
         <div class="hfeed">
-        {% assign category = page.category | downcase %}
+        {% assign categories = page.categories | downcase %}
 
-        {% for post in site.categories[category] %}
+        {% for post in site.categories[categories] %}
           {% include post-summary.html post=post %}
         {% endfor %}
         </div>

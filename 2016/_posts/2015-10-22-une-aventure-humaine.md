@@ -1,6 +1,6 @@
 ---
 title: Une aventure humaine
-date: '2015-10-22 00:00:00'
+date: '2015-10-23 00:00:00'
 categories:
 - '2016'
 description: Cinq années d'organisation de Sud Web vues de l'intérieur

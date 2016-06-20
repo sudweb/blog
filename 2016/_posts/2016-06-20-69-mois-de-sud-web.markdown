@@ -9,197 +9,196 @@ categories:
 image: https://farm7.staticflickr.com/6179/6132136989_0be219d363_b_d.jpg
 ---
 
-Quoi de mieux que 50 nuances de gris? 69 mois d'organisation de conférences, près de 6 ans !
+Quoi de mieux que 50 nuances de gris ? 69 mois d'organisation de conférences, près de 6 ans !
 
-Pourquoi partir alors que je fais partie des membres fondateurs ? Et qu'ai-je appris à travers ces itérations annuelles ? C'est de ce dont nous allons parler.
+Pourquoi partir alors que je fais partie des membres fondateurs ? Et qu'ai-je appris à travers ces itérations annuelles ? C'est là dessus que nous allons nous concentrer.
 
 ## En bref
 
-Travailler pendant plusieurs années sur un projet d'évènement à but non-lucratif a été à la fois une laboratoire d'expériences et une source de développement personnel.
+Travailler pendant plusieurs années sur un projet d'évènement à but non-lucratif a été à la fois l’occasion d’expérimenter pas mal de choses et une source de développement personnel.
 
 ## Qu'est-ce que Sud Web ?
 
-Sud Web est né en octobre 2010 pendant une [conférence web française qui m'a tant appris](http://www.paris-web.fr/). Quelques personnes se sont manifestées et ont demandé de l'aide pour organiser une conférence dans le sud de la France. Nous avions six mois pour tout faire. OK pour relever le défi !
+Sud Web est né en octobre 2010 pendant une [conférence web française qui m'a tant appris](http://www.paris-web.fr/). Quelques personnes se sont manifestées et ont demandé de l'aide pour organiser une conférence dans le sud de la France. Nous avions six mois pour tout faire. Défi relevé !
 
-À l'époque il n'y avait pas tant d'évènements relatifs au web que ça en dehors de Paris. Une partie d'entre nous partagions une vision commune de créer quelque chose de légèrement différent, moins focalisé sur les dernières technos ou les dernières specifications.
+À l'époque il n'y avait pas tant que ça d'évènements relatifs au Web à l’extérieur de Paris. Une partie d'entre nous partageait une vision commune afin de créer quelque chose de légèrement différent, moins focalisé sur les dernières technos, les derniers outils ou les dernières specifications.
 
-Sud Web a d'abord été une conférence annuelle sur le développement et le design web, se déplaçant de ville en ville, tout en profitant du savoir vivre du sud de la France.
+Sud Web a d'abord été une conférence annuelle sur le développement et le design Web, se déplaçant de ville en ville, bénéficiant du savoir-vivre du sud de la France.
 
 ## Nos choix
 
-Nous avons démarrés avec des choix implicites mais forts : **favoriser le retour et le partage d'expérience** plutôt que les listes (les 10 manières d'être un super développeur ou un super designer et les conférences avec les technos à la mode (React, HTML5, etc.) au sein d'une **audience volontairement réduite** (120 places comprenant des réductions pour les étudiants et les personnes en recherche d'emploi).
+Nous avons démarré avec des choix implicites mais forts : **favoriser le retour et le partage d'expérience** plutôt que les listes (les 10 manières d’être un super développeur/designer) et les conférences avec toutes les technos à la mode (React, Docker, etc.) au sein d'une **audience volontairement réduite** (120 places comprenant des réductions pour les étudiants et les personnes en recherche d'emploi).
 
-Nous voulions refléter notre intuition à travers la baseline de Sud Web :  *savoir-faire et faire savoir*. Nous avons par la suite formalisé notre intuition en valeurs explicites dans [notre manifeste](https://github.com/sudweb/manifeste/blob/master/MANIFESTE.md).
+Nous voulions refléter notre intuition à travers la première devise de Sud Web :  *savoir-faire et faire savoir*. Nous avons par la suite formalisé notre intuition en valeurs explicites dans [notre manifeste](https://github.com/sudweb/manifeste/blob/master/MANIFESTE.md).
 
-Nous voulions également proposer une conférence en deux parties : une journée de conférences et une journée d'ateliers inspirée par les principes du [Forum Ouvert](http://www.mindviewinc.com/Conferences/OpenSpaces.html). Il n'y a rien de mieux que de permettre et  d'**inviter les gens à organiser des sessions pratiques** dans la continuité de l'inspiration de la veille.
+Nous voulions également proposer une conférence en deux parties : une journée de conférences et une journée d'ateliers inspirée par les principes du [Forum Ouvert](http://www.mindviewinc.com/Conferences/OpenSpaces.html). Il n'y a rien de mieux que de permettre et d'**inviter les gens à organiser des sessions pratiques** dans la continuité de l'inspiration de la veille.
 
-AU final, nous avons crée et appris à façonner la conférence à laquelle nous voulions assister chaque année, contenu et format inclus.
+Au final, nous avons créé et appris à façonner la conférence à laquelle nous voulions assister chaque année, contenu et format inclus.
 
 {% include figure.html name="sudweb-2012-bruce-lawson.jpg" caption="Bruce Lawson in Toulouse" %}
 
 # De l'enfance à l'adolescence
 
-Nous avons appris à travailler à distance en tant qu'équipe bénévole mais nous avons aussi évolué en tant que membre d'une association à but non lucratif.
+Nous avons appris à travailler à distance en tant qu'équipe bénévole mais nous avons aussi évolué en tant que membres d'une association à but non lucratif.
 
-Nous avons en effet commencé comme une extension d'une conférence web mais après deux éditions, il était clair que parler des derniers *meilleurs* outils ne résolvait en aucun cas les problèmes quotidiens.
+Si nous sommes nés d'une extension d'une conférence Web, après deux éditions, il était clair que parler uniquement des derniers _meilleurs_ outils ne résolvait en aucun cas les problèmes quotidiens.
 
-C'est pour cela que nous avons voulu insisté d'avantage sur le partage d'expérience et parler de sujets qui gravitent autour du web.
+C'est pour cela que nous avons voulu insister davantage sur le partage d'expérience et parler de sujets qui gravitent _autour_ du Web.
 
-Il est difficile d'arriver à proposer un contenu varié à travers un processus de sélection suite à un appel à orateurs. Partant de cet état de fait, nous avons commencé à aller chercher nous mêmes certains des orateurs après 3 éditions. Cela nous a donné plus de liberté pour repérer et inviter sur scène des personnes qui ne connaissaient pas Sud Web et dont nous pensions qu'ils pouvaient apporter des connaissances précieuses à notre audience. Certaines personnes n'ont pas bien compris pourquoi nous faisions cela au début et comme nous sommes en France nous nous sommes vu reproché un processus de sélection non-démocratique. Mais maintenant les participants sont agréablement surpris et ça marche plutôt pas mal.
+Il est difficile d'arriver à proposer un contenu varié à travers un processus de sélection via un appel à orateurs. Partant de cet état de fait, nous avons commencé à aller chercher nous mêmes certains des orateurs après trois éditions. Cela nous a donné plus de liberté pour repérer et inviter sur scène des personnes qui ne connaissaient pas Sud Web et dont nous pensions qu'ils pouvaient apporter des connaissances précieuses à notre audience. Certaines personnes n'ont pas bien compris pourquoi nous faisions cela au début et comme nous sommes en France, nous nous sommes vu reprocher un processus de sélection non-démocratique. Mais maintenant les participants sont plutôt agréablement surpris et ça marche plutôt pas mal.
 
-Ce n'est pas la curation en elle-même qui améliore les choses. Nous avons élargi la palette de sujets couverts pendant la journe de conférences : le droit, l'art, la psychologie, la mode, la place de l'homme dans le numérique, etc.
+Ce n'est pas la curation en elle-même qui améliore les choses. Nous avons aussi élargi la palette de sujets couverts pendant la journée de conférences : le droit, l'art, la psychologie, la mode, la place de l'homme dans le numérique, etc.
 
-Cela nous a permis de recentrer le débat et de passer de ce que nous faisons à pourquoi nous le faisons et ce que nous voulons faire. Nous avons pu poser des questions sur le long terme plutôt que de donner des réponses sur le cours terme. Considérer les gens comme des individus en évolution plutôt que des hamsters dans une roue.
+Cela nous a permis de recentrer le débat et de passer de ce que nous faisons à pourquoi nous le faisons et ce que nous voulons faire. Nous avons pu poser des questions sur le long terme plutôt que de donner des réponses sur le court terme. Considérer les gens comme des individus en évolution permanente plutôt que des hamsters dans une roue.
 
-La curation implique plus de travail, mais cela a coincidé avec le moment où l'équipe s'est réduite à 3 personnes et demi, nous tendions vers la simplification. Nous avons décidé de limiter l'appel à orateurs aux lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) et à quelques sujets d'ateliers dans un premier temps puis seulement aux  *lightning talks* — rendant ainsi la seconde journée facilitée et entièrement auto-organisée, au lieu d'être lancée avec quelques propositions pré-établies).
+La curation implique plus de travail, mais cela a coïncidé avec le moment où l'équipe s'est vue réduite à trois personnes et demie — nous tendions vers la simplification. Nous avons décidé de limiter l'appel à orateurs aux [lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) et à quelques sujets d'ateliers dans un premier temps puis seulement aux *lightning talks* — rendant ainsi la seconde journée facilitée et entièrement auto-organisée, au lieu d'être lancée avec quelques propositions pré-établies).
 
-Nous avons pu expérimenté qu'une équipe réduite de 4 personnes responsables et focalisés sur l'essentiel est plus efficace qu'une équipe de 8 ou 10 personns. Ce fut assez surprenant comme il y eut peu ou pas de confrontations ou de tensions pendant la préparation de la logistique. Peut-être est-ce à ce moment que nous avons réalisé que concentrer nos efforts sur l'habilitation des participants était plus gratifiant que d'essayer que tout soit parfait au pixel près.
+Nous avons pu expérimenter qu'une équipe réduite de quatre personnes responsables et focalisée sur l'essentiel est plus efficace qu'une équipe de 8 ou 10 personnes. Ce fut assez surprenant comme il y eu peu ou pas de confrontation ou de tension pendant la préparation. Peut-être est-ce à ce moment que nous avons réalisé que concentrer nos efforts sur l'habilitation des participants était plus gratifiant que d'essayer que tout soit parfait au pixel près.
 
-Quand nous furent plus que quatre, nous avons du nous concentrer sur les choses essentielles. Nous avons réalisé combien des tâches fastidieuses et pas directement liées à la conférence en elle-même nous pompaient notre énergie : la conception du site et sa maintenance par exemple. Nous avons abandonné notre CMS pour revenir à de bonnes vieilles pages HTML avant d'adopter un générateur de site statique. Même chose pour le temps passé à rechercher un fournisseur de goodies, de préférence éthique et artisanal, etc.
+Quand nous n'étions plus que quatre, nous avons du nous concentrer sur les choses essentielles. Nous avons réalisé combien des tâches fastidieuses et pas directement liées à la conférence en elle-même nous pompaient notre énergie : la conception du site et sa maintenance par exemple. Nous avons abandonné notre CMS pour revenir à de bonnes vieilles pages HTML avant d'adopter un générateur de site statique. Même chose pour le temps passé à rechercher un fournisseur de goodies, de préférence éthique et artisanal, etc.
 
-Nous avons décidé que si nous devions nous ajouter du travail, cela devait être directement en lien avec le *contenu*. Et le contenu d'une conférence, c'est ce que disent les orateurs et ce que font les participants - les artefacts.
+Nous avons décidé que si nous devions nous ajouter du travail, cela devait être directement en lien avec le **contenu**. Et le contenu d'une conférence, c'est ce que disent les orateurs et ce que font les participants - les artefacts.
 
-Et pour passer au *faire*, nous avons commencer à bousculer les habitudes des particpants pendant une conférence en introduisant des sessions de travail manuel :
+Et pour passer au **faire**, nous avons commencé à bousculer les habitudes des participants pendant une conférence en introduisant des sessions de travail manuel :
 
 1. briser la peur de dessiner en 2014 ;
 2. la réalisation de pixel art avec papier et crayons en 2015;
-3. assembler son **porte-cables zero déchet** en 2016.
+3. assembler son **porte-câbles zéro déchet** en 2016.
 
 Un des contenus qui a le plus évolué est le format de la prise de parole lors du débat :
 
 1. une table ronde en 2011;
 2. des questions ouvertes en 2012;
-3. une conférence interactive in 2013 — dans le magnifique [Palais des Papes d'Avignon](https://www.flickr.com/photos/sudweb/9067041107/in/album-72157634180913656/lightbox/);
+3. une conférence interactive en 2013 — dans le magnifique [Palais des Papes d'Avignon](https://www.flickr.com/photos/sudweb/9067041107/in/album-72157634180913656/lightbox/);
 4. un détournement de débat en 2014 — qui s'est transformé en séance de questions/réponses à propos de ce qui fait qu'une personne est épanouie.
 5. un micro ouvert non-enregistré en 2015 — sur les sentiments que nous ressentons dans le cadre du travail;
-6. rien en 2016 par manque de temps — bien que nous voulions essayer une déambulation urbaine en petits groupes suivie d'une retrospective.
+6. rien en 2016 par manque de temps — alors que nous voulions proposer une déambulation urbaine en petits groupes suivie d'une retrospective.
 
-**Nous avons appris à passer de la technologie web à la bienveillance**.
+**Nous avons appris à passer de la technologie Web à la bienveillance**.
 
 {% include figure.html name="sudweb-2012-orange.jpg" caption="La thym Orange en 2012" %}
 
 ## Ce dont je suis fier
 
-**Je suis particulièrement fier de ce que nous avons réalisé au cours des six dernières années**. Fier de tout notre *travail d'équipe*. Fier de tous ces précieux moments présentiels lorsque nous nous réunissions pour faire le tri parmi les propositions de sujets dans la ville hôte ou quand nous faisions notre rétrospective à la fin de la conférence. Fier de tous les *sourires et les signes de bien-être* que les participants ont ramené en rentrant chez eux. Fier des orateurs qui ont parlé pour la première fois et qui ont reçu leurs premiers et plus importants applaudissements à ce jour. Fier de tout les gens qui ont eu *confiance* dans notre conférence, à simple ou multiples reprises.
+**Je suis particulièrement fier de ce que nous avons réalisé au cours des six dernières années**. Fier de tout notre **travail d'équipe**. Fier de tous ces précieux moments présentiels lorsque nous nous réunissions pour faire le tri parmi les propositions de sujets dans la ville hôte ou quand nous faisions notre rétrospective à la fin de la conférence. Fier de tous les **sourires et les signes de bien-être** que les participants ont ramené en rentrant chez eux. Fier des orateurs qui ont parlé pour la première fois et qui ont reçu leurs premiers et plus nourris applaudissements à ce jour. Fier de tous les gens qui ont eu **confiance** dans notre conférence, à simple ou à multiples reprises.
 
 Je suis aussi assez fier d'avoir pu injecter délicatement (en tout cas je l'espère) quelques petits trucs dans l'ADN de la conférence.
 
 ## La curation des orateurs
 
-De toutes les conférences auxquelles j'ai participé, j'ai éprouvé un sentiment de **qualité remarquable** quand une partie du programme faisait l'objet de curation.
+Dans toutes les conférences auxquelles j'ai participé, j'ai éprouvé un sentiment de **qualité remarquable** quand une partie du programme faisait l'objet de curation.
 
-Depuis le premier jour, I spent most of my efforts to influence the **content of the conference**. Most notably by asking and helping a few people to submit a talk proposal. I was in a good position to offer to try something a bit different by running the curation of the fourth edition in 2014.
+Depuis le début, j'ai consacré une bonne partie de mes efforts à influencer le contenu de la conférence. Plus précisément à demander et à aider des personnes à proposer un sujet. J'étais en bonne position pour tenter d'essayer quelque chose d'un peu différent en m'occupant de la curation des conférences de 20 minutes lors de la 4ème édition en 2014.
 
-I tried as much as I could **to share my motivations for every speaker** I wanted to invite on stage in order to receive a buy-in from the rest of the staff. It happened the Sud Web team always *trusted my choices*, even if sometimes they could really be dubious about some of them — fashion design at a web conference really?
+J'ai essayé autant que possible de partager mes motivations avec chaque orateur. Je désirais les inviter sur scène et pouvoir obtenir l'aval de la part du reste de l'équipe. Il s'est avéré que **l'équipe m'a toujours fait confiance** dans mes choix, même si au premier abord elle pouvait douter de quelques uns d'entre eux — ah bon, une étudiante sur scène dans une conférence web ?
 
-I think curation helped us to make **bold statements** (about emotions, about meaningfulness etc.), **to build our very own identity** based on strong values and to *create questioning content* rather than solely broadcasting active speaker minds.
+Je pense que la curation nous a aidé à aborder des thématiques audacieuses (à propos des émotions, du sens, etc.) afin de construire notre propre identité, basée sur des valeurs fortes et pour créer un contenu qui amène à s’interroger plutôt que de seulement diffuser la parole des orateurs sur scène.
 
-Curation is definitely a great tool **to explore areas of interest** and **to tell a cohesive story** throughout the day via a breadth of topics which help people to think better, to look at things differently or to raise their awareness.
+La curation est vraiment un bon outil pour explorer différents centres d’intérêts et dans le même temps raconter une histoire cohérente tout au long de la journée grâce à un spectre plus large de sujets, qui aident les gens dans leur réflexion, à voir les choses différemment ou à éveiller les consciences.
 
-![](/images/2016/06/sudweb-2014.jpg)
+{% include figure.html name="sudweb-2014.jpg" %}
 
-## Tooling
+## Outillage
 
-I was interested in bringing good speakers in order to construct  a good audience. By doing so, I realised my **software development skills could be useful** to improve the organisational side of things.
+J’avais envie de faire venir de bons orateurs afin de fédérer une bonne audience. Et je me suis aperçu chemin faisant que mes connaissances en développement pourraient être utiles pour améliorer le côté organisationnel des choses.
 
-We started with — and since kept using — Google Forms as a way to submit proposals during the call for speakers. Reviewing hundreds of proposals in Google Spreadsheet is nor white nor black: it is **great to collect** votes but it is **terribly poor to visualise** long paragraphs
+Nous avons commencé - et nous continuons - à utiliser Google Forms de manière à pouvoir récolter les propositions de sujets pendant l’appel à orateurs. Et si une feuille de calcul est parfaite pour enregistrer les votes, elle n’est en revanche pas du tout adaptée à la consultation de centaines de propositions et à la lecture de longs paragraphes.
 
-I gradually iterated over a *single page app*: it fetches the Spreadsheet data via Google Spreadsheets (undocumented) JSON API and populates a user interface with the submissions. And provides all the needed comfort to work during the yearly submissions review day.
+J’ai progressivement itéré vers une SPA (Single Page Application) : elle télécharge les données enregistrées dans la feuille de calcul via l’API JSON de Google Spreadsheets (très mal documentée au passage) et affiche les propositions dans une interface utilisateur. Cela nous a donné le confort nécessaire pour travailler pendant la journée annuelle de sélection des sujets.
 
-Its source code can be found on [github.com/sudweb/talks](https://github.com/sudweb/talks).
+Comme pour tous le code que nous avons écrit, c'est dispo sur Github : [github.com/sudweb/talks](https://github.com/sudweb/talks).
 
-![](/images/2016/06/sudweb-tooling-talks.png)
+{% include figure.html name="sudweb-tooling-talks.png" %}
 
-Since 2015, Sud Web displays not only the speakers list but the **attendees list** on the website. I wanted to provide a feeling of *belonging* to the attendees, as well as a nice entrypoint to browse the faces of everybody. Conferences also have great people on the audience side, so better to broaden the spotlight to the entire crowd — have you ever been to a conference because of a delegate rather than a speaker?
+Depuis 2015, le site internet de Sud Web affiche non seulement les orateurs mais aussi la liste des participants. J’ai voulu donner un sentiment d’appartenance aux participants et par la même occasion une manière de commencer à se familiariser avec les visages des personnes présentes. Il y a des personnes géniales qui assistent aux conférences, alors autant mettre en lumière l'ensemble des personnes présentes - n’avez vous jamais été à une conférence grâce à un collègue plutôt qu’un orateur ?
 
-Well, it happens at Sud Web and it did not require much more than a [combination of `curl` and `jq`](/2016/pipelining-http/) to gather the data from the [ticketing service API](#) and to consume them with a static pages generator system.
+Et bien, c’est parfois le cas à Sud Web et récupérer ces données depuis l’API de notre service de vente de places fut simplement l’affaire d’une ligne de commande qui utilise `curl` et `jq`](/2016/pipelining-http/). Le fichier JSON ainsi récupéré pouvait être utilisé par notre gestionnaire de site statique.
 
-## Finding a voice
+## Trouver une voix
 
-Sending emails to speakers and attendees was part of our tooling needs. We use [Mailchimp](#) for that — and they have been kindly sponsoring Sud Web for five years.
+Pour envoyer des mails aux orateurs et aux participants, nous avions aussi besoin d’un outil. Heureusement pour nous, [Mailchimp](https://mailchimp.com) est parfait pour ça — et je dis pas ça parce qu’ils sponsorisent gentiment Sud Web depuis cinq ans.
 
-This time I brought some *user experience* by iterating over the content after listening to feedbacks and hearing over conversations in the corridors. A few improvements were brought to the mailings:
+Ce coup-ci, j’ai ramené un peu d’UX en itérant sur le contenu après avoir pris connaissance de retours utilisateurs et entendu quelques conversations dans les couloirs. Quelques améliorations ont été apportées aux mails :
 
-- **bare bone layouts for speakers communication**
-One to one conversation implies a plain text email or slightly formatted HTML email. I moved the fancy template to a monochrome, one logo and one column layout. The idea was to be as close as possible to a conversational email *but* emitted by an organisation which cares about its recipients. The email is broadcasted to a group of people but you read it as an individual.
-- **what is paid by Sud Web and what is not**
-Some conferences do not include food, some of them offer a round of drinks and some of them do pay for everything — as a speaker it is hard to know what to expect and it is frustrating to have to take out a debit card whereas they were *invited* to a party.
-- **building a safe zone**
-I assumed people did not know much about Sud Web when writing emails. Also, as a speaker, you go through quite a stress to think about and write about your talk, even if it is a fives minutes *lightning talk*. I assumed I had to clear every single areas of stress each time a dispatch was sent: what are we doing, when are you going to receive the next message, rehearsal schedules, what do we expect from you etc.
-As a consequence, [*open rate*](http://kb.mailchimp.com/reports/about-open-tracking) increased and we received more responses thanking us and expressing relief.
-- **print me out**
-A direct consequence of the previous points, the ultimate email we send contains everything a speaker has to know before boarding on their journey — from home to conference to stage to home again.
+- Des gabarits **minimalistes** pour communiquer avec les orateurs
+La conversation de pair à pair implique un email au format texte ou légèrement formaté en HTML. Je suis passé d’un beau modèle à un modèle monochrome - y compris le logo - agencé sur une seule colonne. L’objectif était de se rapprocher d’un email conversationnel mais émis par un organisme clairement identifiable qui se soucie de ses destinataires. L’email est envoyé à un groupe de personnes, mais il est lu par un individu.
+- Ce qui est **pris en charge** par Sud Web et ce qui ne l’est pas
+Certaines conférences n’incluent pas les repas, certaines offrent une tournée et d’autres paient pour tout - il est difficile pour un orateur de savoir à quoi s’attendre et de devoir sortir sa carte de paiement quand ils sont invités à une soirée.
+- **Construire une zone de confort**.
+Je partais du principe que les personnes ne connaissaient pas beaucoup Sud Web quand j’écrivais les emails. Les orateurs sont déjà suffisamment stressés par la préparation de leur conférence, même si elle ne dure que cinq minutes. Je devais donc lever toute source de stress supplémentaire à chaque envoi et tout était explicité : ce que nous étions en train de faire, quand nous allions envoyer le prochain mail, quand étaient prévus les horaires de répétition, ce que nous attendions des orateurs, etc.
+Cela a eu pour effet que le [taux d’ouverture](http://kb.mailchimp.com/reports/about-open-tracking) des mails a augmenté et nous recevions plus de réponses nous remerciant et exprimant du soulagement.
+- **Imprimez-moi**.
+Une résultante directe des points précédents, le dernier email que nous envoyons contient tout ce qu’un orateur doit savoir avant de partir — du départ de la maison pour aller à la conférence puis jusqu’à la scène ainsi que pour revenir chez soi.
 
-![](/images/2016/06/sudweb-emailing.png)
+{% include figure.html name="sudweb-emailing.png" %}
 
-Emails is the most powerful tool — because of its highly **personal consumption experience** — I had to use **to build confidence** between Sud Web and our speakers (and attendees).
+Le mail est l’outil le plus puissant que j’ai eu à utiliser — car il procure une expérience très personnelle — pour bâtir une relation de confiance entre Sud Web, les orateurs et les participants.
 
-![](/images/2016/06/sudweb-2016-workshops.jpg)
+{% include figure.html name="sudweb-2016-workshops.jpg" %}
 
-# Lessons learnt
+## Leçons apprises
 
-> Speakers are content.
-> Attendees are content.
-> Emails are content.
+> Les orateurs font partie du contenu.<br />
+  Les participants font partie du contenu.<br />
+  Les emails font partie du contenu.
 
-The biggest lesson is **a conference is all about content**. And we are responsible for the content we put on stage. Stuffing an agenda with rockstars gives a totally different conference than mixing experienced and novice speakers. And a different ambiance too.
+La plus grande leçon à retenir, c’est qu’**une conférence c’est avant tout du contenu**. Et nous sommes responsables du contenu que nous proposons sur scène. Remplir un programme avec des rockstars donnera une conférence très différente d’un mélange d’orateurs expérimentés et novices. Et cela donnera également un autre ton et une autre ambiance à la conférence.
 
-We cannot encourage people to be genuine if the line up is designed to help us sell hundreds of tickets. We cannot encourage different work/life practices if we do not show examples of what happens elsewhere.
+Nous ne pouvons pas demander aux gens d’être authentiques si la programmation n’est là que pour vendre des centaines de places. Nous ne pouvons pas inciter à d’autres pratiques professionnelles ou personnelles si nous ne montrons pas des exemples de ce qui se fait déjà ailleurs.
 
-So we learned **to treat speakers as attendees**. Same social events. Same conference experience. But with some variation in the attention we pay to their experience — they are stressed and give a lot of efforts in order to be happy of their presentation.
+Nous avons donc appris à **traiter nos orateurs comme des participants**. Ils participent aux mêmes évènements sociaux, ils vivent la conférence de la même façon, c'est une expérience commune. La seule différence c’est que nous payons pour leur expérience — et pour le stress et l’effort que cela représente avant d’être satisfait de leur présentation.
 
-> This edition has been amazing. It is going to be difficult to make it better next year!
+> Cette édition a vraiment été géniale, ça va être dur de faire mieux l’année prochaine !
 
-Some attendees and organisers said something similar to the above quote. It is easy to be scared and blocked by the idea of it. Why joining a team for which one has no idea on how to make it better?
+Cette citation résume en substance ce qu’ont dit certains participants et organisateurs. Il est facile d’être assailli par la peur et de se retrouver paralysé à cette idée. Après tout pourquoi rejoindre une équipe dans laquelle personne ne sait comment améliorer les choses ?
 
-Because we never thought in these terms but rather followed the following (and implicit) principles:
+Parce que nous n’avons jamais réfléchi en ces termes, nous avons plutôt suivi les principes implicites suivants :
 
-- if we can make something simpler, **let's make it simpler**;
-- if we have clear improvement, **let's improve it**;
-- if we want to experiment something, **let's experiment**;
-- the programme has always been designed with **continuity in mind** — it feels better only **because we carry over** the thoughts gathered back from the conference.
+- Si nous pouvons **simplifier**, alors faisons au plus simple;
+- Si nous pouvons apporter une nette **amélioration**, alors faisons-le !;
+- Si nous souhaitons **expérimenter** quelque chose, expérimentons !;
+- Le programme a toujours été conçu en gardant une certaine **continuité** à l’esprit — c’est d’autant mieux accepté que nous nous *nourrissons* nous aussi des réflexions consécutives aux conférences.
 
-The content of the talks impacts the submissions of the next call for speakers. In parallel, those who did multiple submissions over the years start to understand what works and what does.
-On the other hand, the curation process sets new horizons and topics whilst it **connects or follows up with previous talks**.
+Les sujets retenus influencent les propositions de l’appel à orateurs de l’année suivante. Et en parallèle, ceux qui ont déjà proposé de multiples sujets au fil des années ont commencé à bien intégrer notre ligne éditoriale.
 
-I do not think we ever had in mind a strong ambition to create a community. However **we accidentally created a culture**. By gradually shifting from the technicality to what matters to us, people working in the web. **People**. Because our issues and because our dreams are not specific to the web industry.
+D’un autre côté, le processus de curation ouvre de nouveaux horizons et de nouvelles thématiques en même temps qu’il connecte et s’inscrit dans la continuité des conférences précédentes.
 
-[Kevin Goldsmith](https://www.kevingoldsmith.com/) explained very well why creating a culture is more important than everything else in his talk at [Sud Web 2014](https://sudweb.fr/2014/):
+Je ne pense pas que nous ayons jamais eu en tête l’ambition de créer une communauté. Toutefois **nous avons créé accidentellement une culture**. En nous éloignant progressivement de la technique pour nous rapprocher de ce qui compte vraiment pour nous : **les gens** qui travaillent dans le Web. J’insiste sur le côté humain car nos problèmes et nos aspirations ne sont pas spécifiques à notre industrie.
 
-{% vimeo 102774091 %}
+[Kevin Goldsmith](https://www.kevingoldsmith.com/) a très bien expliqué pourquoi créer une culture est la chose la plus importante dans cette conférence lors de [Sud Web 2014](https://sudweb.fr/2014/):
 
-The "last" lesson learnt is **what organising a conference is**. We started as a large group of individuals, mostly freelancers. Everybody had an opinion and a favourite tool. We had lengthy conversations about which CMS or which ticketing system to use.
+<iframe src="https://player.vimeo.com/video/102774091?color=c9ff23&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-We learnt that organising a conference was not about building a website, designing icons or lobbying for a tool we like but it is about **designing an experience suitable for the group as a whole**.
+La dernière leçon apprise est **ce qu’est véritablement d’organiser une conférence**. Nous avons démarré avec un groupe assez important de personnes, la plupart freelance. Chacun avait son opinion, son outil de prédilection. Nous avons eu par exemple de longs échanges sur le CMS à adopter ou par quelle plate-forme de vente de billets passer.
 
-We organically moved from a siloed organisation to a team of individuals responsible for the tasks they were picking or offering to add to the backlog. One person has a manual task to do in a few amount of time? Two additional people come and help to automate the process.
+Nous avons appris que l’organisation d’une conférence ne se résumait pas à développer un site web, à concevoir des icônes ou militer pour un outil, mais qu’il s’agissait plutôt de **proposer une expérience bénéfique pour le groupe**.
 
-The conference edition outcomes became a **shared responsibility** — and **shared satisfaction**.
+Nous avons évolué de façon naturelle d’une organisation en silos à une équipe de personnes responsables des tâches qu’elles choisissaient ou qu’elles proposaient d’ajouter dans le backlog. Une personne a une tâche manuelle répétitive à faire en peu de temps ? Deux autres personnes viennent pour l’aider à automatiser le processus.
 
-[![](https://farm6.staticflickr.com/5151/14379895233_6d64472232_z_d.jpg)](https://www.flickr.com/photos/sudweb/14379895233)
+L’organisation d’une édition est devenue **une responsabilité et une satisfaction partagée**.
 
-# Why now?
+[![Thomas, Frank, Nathalie et Loïc](https://farm6.staticflickr.com/5151/14379895233_6d64472232_z_d.jpg)](https://www.flickr.com/photos/sudweb/14379895233)
 
-One would ask **why leaving** an organisation, especially when there is no presence of a clash whatsoever?
+## Pourquoi maintenant ?
 
-Reasons are threefold:
+Pourquoi **quitter** une équipe, alors qu’il n’y a pas d’animosité ou de tension particulière ?
 
-1. The conference is **at its best** — which means it is resilient enough to fail once;
-2. I want to spend my efforts on **something else** — six years is long enough and 2017 is leaning towards a leap change;
-3. I want attendees **to feel responsible for what matters** to them — one can't change politics but one can get involved in a conference they love to attend.
+Pour les trois raisons suivantes :
 
-We have not managed to both organise the conference and to self-reflect on ourselves at the same time. I think leaving would help to trigger the mutation. **Not knowing how to do something means questions need to be raised to the group**. Informations  will eventually be shared and made available or reinvented in a  suitable way for the current state of the organisation.
+1. La conférence est **au top** et suffisamment résiliente pour se permettre d’échouer une fois;
+2. j’ai envie de consacrer mes efforts à **autre chose** — six ans c’est long et 2017 sera une année de changement pour moi et de saut vers l’inconnu;
+3. j’aimerais que les participants se sentent **responsables de ce qui est important** à leurs yeux — on ne peut pas changer la politique mais on peut choisir de s’impliquer dans une conférence à laquelle on aime participer.
 
-I also believe new joiners should join **not because of their *skills* but because of what they want *to develop*** in the organisation. Otherwise they will be too tempted to stay in their comfort zone and to entertain a silo.
+Nous n’avons pas réussi à organiser la conférence tout en nourrissant notre réflexion personnelle par la même occasion. Je pense que mon départ pourrait aider à enclencher cette mutation. Ne pas savoir comment faire quelque chose signifie que des questions vont se poser pour le groupe. L’information sera eventuellement partagée, rendue disponible ou réinventée d’une manière profitable pour l’organisation en place.
 
-![](/images/2016/06/sudweb-2015.jpg)
+Je pense aussi que les nouvelles personnes devraient s’impliquer **non pas pour leurs compétences mais pour ce qu’ils souhaitent voir se développer** dans l’organisation. Sinon ils seront trop tentés de rester dans leur zone de confort et d’entretenir un silo.
 
-# Conclusion
+{% include figure.html name="sudweb-2015.jpg" %}
 
-Six years ago, I did not know what I was doing when I jumped onto the conference organisation boat.
+## Conclusion
 
-Six years ago, I only had a hunch of the kind of conference I wanted to attend.
+Il y a six ans, je ne savais pas trop dans quoi je m’embarquais, j’avais simplement l’intuition du genre de conférence à laquelle je voulais assister. Six ans plus tard je pense y être parvenu.
 
-**Thank you** for the past six years.
+**Merci** pour ces six dernières années.
 
-PS: and because I know myself a bit, I know I will definitely *iterate* on something else one day or another. Maybe around ideas I have not been able to develop, yet.
+P.S. : et parce que je me connais un petit peu, je sais que j’itérerais sûrement sur quelque chose d’autre un jour ou l’autre. Peut-être autour d’idées que je n’ai pas encore été en mesure de formuler.

@@ -112,7 +112,7 @@ Comme pour tous le code que nous avons écrit, c'est dispo sur Github : [github.
 
 Depuis 2015, le site internet de Sud Web affiche non seulement les orateurs mais aussi la liste des participants. J’ai voulu donner un sentiment d’appartenance aux participants et par la même occasion une manière de commencer à se familiariser avec les visages des personnes présentes. Il y a des personnes géniales qui assistent aux conférences, alors autant mettre en lumière l'ensemble des personnes présentes - n’avez vous jamais été à une conférence grâce à un collègue plutôt qu’un orateur ?
 
-Et bien, c’est parfois le cas à Sud Web et récupérer ces données depuis l’API de notre service de vente de places fut simplement l’affaire d’une ligne de commande qui utilise `curl` et `jq`](/2016/pipelining-http/). Le fichier JSON ainsi récupéré pouvait être utilisé par notre gestionnaire de site statique.
+Et bien, c’est parfois le cas à Sud Web et récupérer ces données depuis l’API de notre service de vente de places fut simplement l’affaire d’[une ligne de commande qui utilise `curl` et `jq`](https://oncletom.io/2016/pipelining-http/). Le fichier JSON ainsi récupéré pouvait être utilisé par notre gestionnaire de site statique.
 
 ## Trouver une voix
 

@@ -7,6 +7,7 @@ author: Thomas Parisot
 categories:
 - '2016'
 image: https://farm7.staticflickr.com/6179/6132136989_0be219d363_b_d.jpg
+comments: true
 ---
 
 Quoi de mieux que 50 nuances de gris ? 69 mois d'organisation de conférences, près de 6 ans !

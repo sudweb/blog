@@ -30,6 +30,9 @@
             {{ content }}
           </div>
         </div>
+        {% if page.comments %}
+          {% include comments.html %}
+        {% endif %}
       </div>
     </div>
 
@@ -38,5 +41,6 @@
 
   </div>
 </div>
+<script id="dsq-count-scr" src="//sudweb.disqus.com/count.js" async></script>
 </body>
 </html>

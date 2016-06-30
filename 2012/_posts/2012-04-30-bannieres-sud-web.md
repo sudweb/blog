@@ -1,15 +1,10 @@
 ---
 title: Bannières Sud Web
-date: '2012-04-30 00:00:00'
+author: Sud Web
 categories:
 - '2012'
-author: Sud Web
-layout: post
-slug: bannieres-sud-web
-tags: []
-draft: false
-
 ---
+
 Vous avez un blogue ? Vous voulez clamer haut et fort que vous serez à Sud Web en 2012 ? Alors ces bannières sont faites pour vous !
 
 ## Format carré 120 <abbr>px</abbr> par 120 <abbr>px</abbr>

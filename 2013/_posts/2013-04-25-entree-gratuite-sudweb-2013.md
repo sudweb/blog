@@ -1,15 +1,10 @@
 ---
 title: Gagnez une place gratuite pour Sud Web 2013 !
-date: '2013-04-25 00:00:00'
+author: Rudy Rigot
 categories:
 - '2013'
-author: Rudy Rigot
-layout: post
-slug: entree-gratuite-sudweb-2013
-tags: []
-draft: false
-
 ---
+
 Chaque année depuis la toute première édition, un heureux participant aléatoire de Sud Web trouve dans son sac un ticket d&rsquo;or, lui offrant une entrée gratuite pour les deux jours de l&rsquo;édition suivante.
 
 Cela fait partie des traditions auxquelles nous tenons dans le déroulement de Sud Web, qui lui confèrent l&rsquo;ambiance décontractée et pleine de surprises qui lui est propre.

@@ -1,13 +1,8 @@
 ---
 title: 'Les vidéos de Sud Web 2012 : deuxième partie'
-date: '2012-12-25 00:00:00'
+author: Frank Taillandier
 categories:
 - '2012'
-author: Frank Taillandier
-layout: post
-slug: les-videos-de-sud-web-2012-deuxieme-partie
-tags: []
-draft: false
 ---
 
 Pendant les fêtes, toute l&rsquo;équipe de Sud Web vous propose de vous aider à digérer devant quelques vidéos de l&rsquo;édition 2012.

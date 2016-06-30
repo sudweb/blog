@@ -1,15 +1,10 @@
 ---
 title: Les retours de Sud Web 2013
-date: '2013-05-22 00:00:00'
+author: Nathalie Rosenberg
 categories:
 - '2013'
-author: Nathalie Rosenberg
-layout: post
-slug: retours-participants-sud-web-2013
-tags: []
-draft: false
-
 ---
+
 Voici une liste de vos billets de blogs sur cette édition 2013.
 
 ## [Sud Web 2013, j&rsquo;y étais][1], par Damien Erambert
@@ -26,7 +21,7 @@ Voici une liste de vos billets de blogs sur cette édition 2013.
 
 ## Les <a href="http://blog.loicg.net/autour-dun-cafe/conferences-sudweb-2013/" target="_blank">conférences</a> et les <a href="http://blog.loicg.net/autour-dun-cafe/ateliers-sudweb-2013/" target="_blank">ateliers</a>, par Loïc Gerbaud
 
-> SudWeb ce sont des conférences, mais également (et surtout !) des ateliers.  
+> SudWeb ce sont des conférences, mais également (et surtout !) des ateliers.
 > Les ateliers sont un excellent moment d’échange, que ce soit avec les conférenciers de la veille, les autres participants, mais également laThym SudWeb (les organisateurs).
 
 ## <a href="http://jolicode.com/blog/de-retour-de-sud-web-2013" target="_blank">De retour de Sud Web 2013</a>, par Jolicode (sponsor)

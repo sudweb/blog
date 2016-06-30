@@ -1,18 +1,12 @@
 ---
 title: Appel à orateurs
-date: '2015-12-08 00:00:00'
+description: L'appel à orateurs pour Sud Web 2016 à Bordeaux est ouvert jusqu'au 5 février
+author: Sud Web
 categories:
 - '2016'
-description: L'appel à orateurs pour Sud Web 2016 à Bordeaux est ouvert jusqu'au 5
-  février
-author: Sud Web
-layout: post
-slug: appel-a-orateurs
-tags: []
-draft: false
-
 ---
-Pour sa sixième édition, Sud Web se rendra fin mai dans la belle ville de Bordeaux.  
+
+Pour sa sixième édition, Sud Web se rendra fin mai dans la belle ville de Bordeaux.
 [L'appel à orateurs](https://docs.google.com/forms/d/1ciKJyvHSYDA_qK3nGBuJLMoP5UeqOpMQk5NJ631Uvko/viewform) est ouvert jusqu'au **5 février** pour les conférences éclair de 5 minutes.
 
 {% include figure.html name="2015-bertrand-keller.jpg" caption="Bertrand Keller, Sud Web 2015" %}

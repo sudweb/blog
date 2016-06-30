@@ -1,15 +1,10 @@
 ---
 title: Bénéficier du DIF
-date: '2014-02-20 00:00:00'
+author: Nathalie Rosenberg
 categories:
 - '2014'
-author: Nathalie Rosenberg
-layout: post
-slug: comment-beneficier-du-dif-pour-sud-web
-tags: []
-draft: false
-
 ---
+
 Bonne nouvelle, Sud Web est éligible au DIF grâce à notre partenaire SmartView.
 
 Pour pouvoir bénéficier du DIF lors de Sud Web, vous devez procéder comme suit :
@@ -28,8 +23,8 @@ Si vous vous êtes déjà inscrit, merci de [nous contacter pour nous demander 
 
 Voici le numéro d’agrément à mentionner dans la constitution du dossier :**
 
-91.34.06.975.34  
-Société : Smartview – Chrysalis SARL  
+91.34.06.975.34
+Société : Smartview – Chrysalis SARL
 SIRET : 50365420400034.
 
 **Remarque :** la conférence se déroule sur deux jours dont un samedi. Veillez à bien voir avec votre employeur comment cette deuxième journée peut être prise en compte de son côté. S&rsquo;il ne finance que le vendredi et que vous souhaitez venir les deux jours, il faudra sans doute procéder à l&rsquo;inscription en deux temps : le vendredi en DIF seul et le samedi seul

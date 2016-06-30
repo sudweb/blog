@@ -1,15 +1,10 @@
 ---
 title: Alexia, la passion du web n'a pas d'âge
-date: '2013-04-19 00:00:00'
+author: Loïc Mathaud
 categories:
 - '2013'
-author: Loïc Mathaud
-layout: post
-slug: participants-2013-alexia-passion-web-pas-dage
-tags: []
-draft: false
-
 ---
+
 S&rsquo;il y a bien une chose que l&rsquo;on souhaite favoriser avec Sud Web, c&rsquo;est la rencontre et les échanges des personnes aux profils divers.
 
 Notre conférence n&rsquo;est pas une conférence spécialisée front, ou back, ou sur telle ou telle technologie. Au contraire, nous souhaitons proposer quelque chose de plus large, une sorte de photographie à un instant T de ce qui peut se faire dans le Web, par des retours d&rsquo;expériences.<br /> C&rsquo;est ainsi que nous avons la chance de réunir des participants passionnés de Web aux profils divers et variés.

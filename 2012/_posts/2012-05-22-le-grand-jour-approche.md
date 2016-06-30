@@ -1,20 +1,15 @@
 ---
 title: Le grand jour approche
-date: '2012-05-22 00:00:00'
+author: Sud Web
 categories:
 - '2012'
-author: Sud Web
-layout: post
-slug: le-grand-jour-approche
-tags: []
-draft: false
-
 ---
+
 Impatient d’assister à Sud Web 2012 ? Nous aussi ! Toute l’équipe s’active, et te propose en attendant ce petit récapitulatif pratique.
 
 ## Avion
 
-Pour ceux qui viennent **en avion avec le pass congrès**, il faudra le présenter lors de l’embarquement.  
+Pour ceux qui viennent **en avion avec le pass congrès**, il faudra le présenter lors de l’embarquement.
 Depuis l’aéroport, prendre la [navette Flybus][1]. Il en passe une toutes les 20 minutes, et le ticket (5€) est également valable sur le réseau de bus, métro et tram. Descendre à Jeanne d’Arc ou Jean-Jaurès pour rejoindre le Capitole à métro ou à pied.
 
 ## En pratique

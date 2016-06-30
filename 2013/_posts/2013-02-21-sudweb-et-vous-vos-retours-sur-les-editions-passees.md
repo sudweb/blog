@@ -1,15 +1,10 @@
 ---
 title: Faites nous vos retours sur Sud Web
-date: '2013-02-21 00:00:00'
+author: Nathalie Rosenberg
 categories:
 - '2013'
-author: Nathalie Rosenberg
-layout: post
-slug: sudweb-et-vous-vos-retours-sur-les-editions-passees
-tags: []
-draft: false
-
 ---
+
 Vous êtes déjà venu à Sud Web. Vous avez suivi les conférences, les ateliers, discuté avec des gens que vous ne connaissiez pas, échangé sur des méthodes, des pratiques, des outils. Bref, vous avez certainement passé un bon moment. Mais au final, qu&rsquo;en avez-vous retiré ? Ce que vous avez appris a-t-il changé ou influencé votre quotidien ?
 
 Vous avez expérimenté de nouveaux outils ou de nouvelles méthodes, trouvé de nouveaux partenaires ou de nouveaux collaborateurs, décroché un nouveau job, élargi votre réseau professionnel, ou simplement trouvé de nouveaux copains (voire même l&rsquo;âme sœur ? Qui sait).

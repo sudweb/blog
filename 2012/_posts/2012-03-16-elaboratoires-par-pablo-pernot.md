@@ -1,15 +1,10 @@
 ---
 title: Les élaboratoires vus par Pablo Pernot
-date: '2012-03-16 00:00:00'
+author: Sud Web
 categories:
 - '2012'
-author: Sud Web
-layout: post
-slug: elaboratoires-par-pablo-pernot
-tags: []
-draft: false
-
 ---
+
 Pablo Pernot nous explique pourquoi la journée participative du samedi l'enthousiasme.
 
 ### Aux idées, citoyens !

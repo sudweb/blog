@@ -1,15 +1,10 @@
 ---
 title: Mais pourquoi ces conférences ?
-date: '2012-03-28 00:00:00'
+author: Sud Web
 categories:
 - '2012'
-author: Sud Web
-layout: post
-slug: mais-pourquoi-ces-conferences
-tags: []
-draft: false
-
 ---
+
 Sachez tout d&rsquo;abord que chaque conférence a été sélectionnée *pour vous*, pour que vous en retiriez le maximum d&rsquo;éléments enrichissants.
 
 Nous avons commencé par favoriser les conférences fortement empreintes de retour d&rsquo;expérience, une thématique qui avait été plébiscitée l&rsquo;année dernière. En 2012 il n&rsquo;y aura donc pas de conférence purement théorique, pas de présentation de spécifications, pas de liste de bonnes pratiques. A la place, vous trouverez des [sujets et interlocuteurs abordant de vrais projets atypiques][1] et enrichissants pour les artisans du web que vous êtes.

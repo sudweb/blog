@@ -20,7 +20,7 @@ html {
 }
 body {
   margin: 0;
-  font: 1em/1.4 'Roboto', Arial, Helvetica, sans-serif;	/* 13 / 16 = 0.8125;  22 / 13 = 1.692307 */
+  font: 1.25em/1.4 'Roboto', Arial, Helvetica, sans-serif;	/* 13 / 16 = 0.8125;  22 / 13 = 1.692307 */
   color: #353535;
   background: #fff;
   padding: 0;
@@ -301,7 +301,7 @@ td {
 
 /* Lists
 -------------------------------------------------------------- */
-ul li, ol li { line-height: 2.1em; }
+ul li, ol li { line-height: 1.4em;}
 dl { margin: 0 0 20px 30px; }
 dl dt {
   margin: 0;
@@ -325,7 +325,7 @@ blockquote, blockquote blockquote blockquote {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
   color: #555;
-  background: url(images/quote.png) no-repeat 0 4px;
+  background: url(/blog/assets/images/quote.png) no-repeat 0 4px;
 }
 
 /* Code
@@ -395,6 +395,14 @@ a:hover img { opacity: 0.85; }
   border: 1px solid #353535;
 }
 
+.media {
+  text-align:center;
+  margin-bottom: 1.18em;
+  font-style: italic;
+}
+
+
+
 /* Captions [caption]
 -------------------------------------------------------------- */
 .caption {
@@ -402,13 +410,13 @@ a:hover img { opacity: 0.85; }
   text-align: center;
 }
 .caption img { margin: 0 0 5px 0; }
-.caption .caption-text {
+.caption-text {
   margin: 5px 0;
   font-size: 0.8461538461538462em;
   line-height: 1em;
   color: #555;
-  text-align: left;
 }
+
 .caption a { border: none; }
 
 /* Galleries
@@ -557,7 +565,7 @@ a:hover img { opacity: 0.85; }
 }
 #menu-primary li a {
   line-height: 1.4em;
-  margin-left: 3.5em;
+  margin-left: 2.5em;
   display: block;
   font-weight: bold;
   font-size: 0.8461538461538462em;
@@ -620,10 +628,10 @@ a:hover img { opacity: 0.85; }
 }
 .menu li a.sf-with-ul, #menu-secondary li a.sf-with-ul { padding-right: 16px; }
 .menu .sf-with-ul {
-  background: url(images/dropdown.png) no-repeat right 10%;
+  background: url(/blog/assets/images/dropdown.png) no-repeat right 10%;
 }
 .menu li li .sf-with-ul {
-  background: url(images/dropright.png) no-repeat right 50%;
+  background: url(/blog/assets/images/dropright.png) no-repeat right 50%;
 }
 
 /* Responsive menu
@@ -652,6 +660,8 @@ a:hover img { opacity: 0.85; }
 #header {
   clear: both;
   width: 100%;
+  overflow:hidden;
+  margin-bottom: 1em;
 }
 #branding {
   float: left;
@@ -736,17 +746,16 @@ a:hover img { opacity: 0.85; }
 /* Post titles
 -------------------------------------------------------------- */
 .hentry .entry-title {
-  margin: 0 0 0.025em 0;
+  margin: 0;
   padding: 0;
   font-family: 'Squada One';
   font-size: 1.846153846153846em;	/* 24 / 13 = 1.846153846153846 */
-  line-height: 1.3em;
+  line-height: 1em;
   border: none;
   color: #353535;
-  word-spacing: 2px;
 }
 .singular .entry-title {
-  font-size: 2.6667em;	/* 32 / 13  */
+  font-size: 2,13336em;
   line-height: 1.1;
   margin-bottom: 0.025em;
 }
@@ -759,7 +768,7 @@ a:hover img { opacity: 0.85; }
 -------------------------------------------------------------- */
 .byline {
   font-style: italic;
-  margin: 0 0 1em 0;
+  margin: 0;
   font-size: 0.8461538461538462em;
   color: #b6b6b6;
   line-height: 1.692307em;
@@ -1068,6 +1077,7 @@ a:hover img { opacity: 0.85; }
 @media only screen and (min-width: 768px) { .site-navigation .nav-menu { display: block; } }
 @media only screen and (max-width: 767px) { .menu-toggle { display: block; } }
 
+
 /* Tablet (portrait) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .wrap { max-width: 728px; }
@@ -1077,8 +1087,8 @@ a:hover img { opacity: 0.85; }
 }
 /* Mobile (portrait) */
 @media only screen and (max-width: 767px) {
-  .wrap { max-width: 300px; }
-  body { line-height: 1.615384615384615em; }
+  .wrap { max-width: 90%; }
+  body { font-size: 1em; line-height: 1.615384615384615em; }
   p { margin-bottom: 1.615384615384615em; }
   #branding {
     float: left;
@@ -1087,7 +1097,7 @@ a:hover img { opacity: 0.85; }
   }
   #site-description { font-size: 1.3em; }
   #menu-primary .menu-toggle { width: 100%; }
-  .menu-toggle { display: block; }
+  .menu-toggle { display: none; }
   #menu-primary {
     float: left;
     clear: both;

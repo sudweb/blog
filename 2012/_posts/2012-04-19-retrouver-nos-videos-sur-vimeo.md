@@ -1,20 +1,15 @@
 ---
 title: Retrouver nos vidéos sur Vimeo
-date: '2012-04-19 00:00:00'
 categories:
 - '2012'
 author: Sud Web
-layout: post
-slug: retrouver-nos-videos-sur-vimeo
-tags: []
-draft: false
-
 ---
+
 À partir de maintenant vous pouvez retrouver les vidéos de Sud Web sur [Vimeo](https://vimeo.com/sudweb). Cela inclus bien entendu [les vidéos de Sud Web 2011](https://vimeo.com/album/1908328).
 
 Pourquoi ce changement ? Car nous n&rsquo;étions pas totalement satisfaits ni rassurés de la licence appliquée par Youtube et que nous voulions avoir une meilleure maîtrise sur ce point que nous jugeons important.
 
-Suite à Sud Web 2011, un éditeur de manuels scolaires nous a demandé s&rsquo;il pouvait utiliser certaines de nos vidéos dans un de ses manuels en DVD. Nous avons naturellement trouvé un accord et accepté mais cela nous a fait réfléchir. Une société commerciale aurait très bien pu utiliser nos vidéos sans forcément nous demander notre accord et sans rien nous devoir.  
+Suite à Sud Web 2011, un éditeur de manuels scolaires nous a demandé s&rsquo;il pouvait utiliser certaines de nos vidéos dans un de ses manuels en DVD. Nous avons naturellement trouvé un accord et accepté mais cela nous a fait réfléchir. Une société commerciale aurait très bien pu utiliser nos vidéos sans forcément nous demander notre accord et sans rien nous devoir.
 Nous essayons de partager au maximum mais en tant qu’association de bénévoles, nous ne souhaitons pas que nos contenus soient exploités commercialement sans notre accord.
 
 C&rsquo;est pourquoi nous avons supprimé nos vidéos de Youtube pour les transférer sur Vimeo où le choix des licences nous convient et nous rassure pour la suite de l&rsquo;aventure. Nous avons choisi une [BY-NC-SA][3] qui permet à tout un chacun de partager et de remixer du moment que c&rsquo;est à visée non commerciale.

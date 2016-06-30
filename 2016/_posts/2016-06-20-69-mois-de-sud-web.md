@@ -1,18 +1,17 @@
 ---
-layout: post
 title: "69 mois de Sud Web"
 description: Thomas revient sur ce qu'il a appris et réussi à accomplir en près de six années d'organisation bénévole de Sud Web.
-date: "2016-06-20 00:33:13 +0200"
 author: Thomas Parisot
 categories:
 - '2016'
-image: https://farm7.staticflickr.com/6179/6132136989_0be219d363_b_d.jpg
-comments: true
+image: /assets/images/sudweb-2011-pancarte.jpg
 ---
 
 Quoi de mieux que 50 nuances de gris ? 69 mois d'organisation de conférences, près de 6 ans !
 
 Pourquoi partir alors que je fais partie des membres fondateurs ? Et qu'ai-je appris à travers ces itérations annuelles ? C'est là dessus que nous allons nous concentrer.
+
+{% include figure.html name="sudweb-2011-pancarte.jpg" %}
 
 ## En bref
 
@@ -36,7 +35,7 @@ Nous voulions également proposer une conférence en deux parties : une journée
 
 Au final, nous avons créé et appris à façonner la conférence à laquelle nous voulions assister chaque année, contenu et format inclus.
 
-{% include figure.html name="sudweb-2012-bruce-lawson.jpg" caption="Bruce Lawson in Toulouse" %}
+{% include figure.html name="sudweb-2012-bruce-lawson.jpg" caption="Bruce Lawson à Toulouse" %}
 
 # De l'enfance à l'adolescence
 
@@ -63,17 +62,17 @@ Nous avons décidé que si nous devions nous ajouter du travail, cela devait êt
 Et pour passer au **faire**, nous avons commencé à bousculer les habitudes des participants pendant une conférence en introduisant des sessions de travail manuel :
 
 1. briser la peur de dessiner en 2014 ;
-2. la réalisation de pixel art avec papier et crayons en 2015;
-3. assembler son **porte-câbles zéro déchet** en 2016.
+1. la réalisation de pixel art avec papier et crayons en 2015;
+1. assembler son **porte-câbles zéro déchet** en 2016.
 
 Un des contenus qui a le plus évolué est le format de la prise de parole lors du débat :
 
 1. une table ronde en 2011;
-2. des questions ouvertes en 2012;
-3. une conférence interactive en 2013 — dans le magnifique [Palais des Papes d'Avignon](https://www.flickr.com/photos/sudweb/9067041107/in/album-72157634180913656/lightbox/);
-4. un détournement de débat en 2014 — qui s'est transformé en séance de questions/réponses à propos de ce qui fait qu'une personne est épanouie.
-5. un micro ouvert non-enregistré en 2015 — sur les sentiments que nous ressentons dans le cadre du travail;
-6. rien en 2016 par manque de temps — alors que nous voulions proposer une déambulation urbaine en petits groupes suivie d'une retrospective.
+1. des questions ouvertes en 2012;
+1. une conférence interactive en 2013 — dans le magnifique [Palais des Papes d'Avignon](https://www.flickr.com/photos/sudweb/9067041107/in/album-72157634180913656/lightbox/);
+1. un détournement de débat en 2014 — qui s'est transformé en séance de questions/réponses à propos de ce qui fait qu'une personne est épanouie.
+1. un micro ouvert non-enregistré en 2015 — sur les sentiments que nous ressentons dans le cadre du travail;
+1. rien en 2016 par manque de temps — alors que nous voulions proposer une déambulation urbaine en petits groupes suivie d'une retrospective.
 
 **Nous avons appris à passer de la technologie Web à la bienveillance**.
 
@@ -140,8 +139,8 @@ Le mail est l’outil le plus puissant que j’ai eu à utiliser — car il proc
 ## Leçons apprises
 
 > Les orateurs font partie du contenu.<br />
-  Les participants font partie du contenu.<br />
-  Les emails font partie du contenu.
+> Les participants font partie du contenu.<br />
+> Les emails font partie du contenu.
 
 La plus grande leçon à retenir, c’est qu’**une conférence c’est avant tout du contenu**. Et nous sommes responsables du contenu que nous proposons sur scène. Remplir un programme avec des rockstars donnera une conférence très différente d’un mélange d’orateurs expérimentés et novices. Et cela donnera également un autre ton et une autre ambiance à la conférence.
 
@@ -168,7 +167,9 @@ Je ne pense pas que nous ayons jamais eu en tête l’ambition de créer une com
 
 [Kevin Goldsmith](https://www.kevingoldsmith.com/) a très bien expliqué pourquoi créer une culture est la chose la plus importante dans cette conférence lors de [Sud Web 2014](https://sudweb.fr/2014/):
 
-<iframe src="https://player.vimeo.com/video/102774091?color=c9ff23&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="media">
+  <iframe src="https://player.vimeo.com/video/102774091?color=c9ff23&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 La dernière leçon apprise est **ce qu’est véritablement d’organiser une conférence**. Nous avons démarré avec un groupe assez important de personnes, la plupart freelance. Chacun avait son opinion, son outil de prédilection. Nous avons eu par exemple de longs échanges sur le CMS à adopter ou par quelle plate-forme de vente de billets passer.
 
@@ -178,7 +179,7 @@ Nous avons évolué de façon naturelle d’une organisation en silos à une éq
 
 L’organisation d’une édition est devenue **une responsabilité et une satisfaction partagée**.
 
-[![Thomas, Frank, Nathalie et Loïc](https://farm6.staticflickr.com/5151/14379895233_6d64472232_z_d.jpg)](https://www.flickr.com/photos/sudweb/14379895233)
+{% include figure.html name="sudweb-2014-team.jpg" caption="La Thym 2014 : Thomas, Frank, Nathalie et Loïc" %}
 
 ## Pourquoi maintenant ?
 
@@ -187,8 +188,8 @@ Pourquoi **quitter** une équipe, alors qu’il n’y a pas d’animosité ou de
 Pour les trois raisons suivantes :
 
 1. La conférence est **au top** et suffisamment résiliente pour se permettre d’échouer une fois;
-2. j’ai envie de consacrer mes efforts à **autre chose** — six ans c’est long et 2017 sera une année de changement pour moi et de saut vers l’inconnu;
-3. j’aimerais que les participants se sentent **responsables de ce qui est important** à leurs yeux — on ne peut pas changer la politique mais on peut choisir de s’impliquer dans une conférence à laquelle on aime participer.
+1. j’ai envie de consacrer mes efforts à **autre chose** — six ans c’est long et 2017 sera une année de changement pour moi et de saut vers l’inconnu;
+1. j’aimerais que les participants se sentent **responsables de ce qui est important** à leurs yeux — on ne peut pas changer la politique mais on peut choisir de s’impliquer dans une conférence à laquelle on aime participer.
 
 Nous n’avons pas réussi à organiser la conférence tout en nourrissant notre réflexion personnelle par la même occasion. Je pense que mon départ pourrait aider à enclencher cette mutation. Ne pas savoir comment faire quelque chose signifie que des questions vont se poser pour le groupe. L’information sera eventuellement partagée, rendue disponible ou réinventée d’une manière profitable pour l’organisation en place.
 

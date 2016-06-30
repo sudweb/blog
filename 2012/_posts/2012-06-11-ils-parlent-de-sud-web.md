@@ -1,15 +1,10 @@
 ---
 title: Ils parlent de Sud Web 2012
-date: '2012-06-11 00:00:00'
+author: Sud Web
 categories:
 - '2012'
-author: Sud Web
-layout: post
-slug: ils-parlent-de-sud-web
-tags: []
-draft: false
-
 ---
+
 Plusieurs participants ont publié compte-rendus et impressions sur cette édition. N&rsquo;hésitez pas à signaler si nous sommes passés à côté d&rsquo;un billet.
 
 * [Occitech][1]

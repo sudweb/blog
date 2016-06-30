@@ -1,15 +1,10 @@
 ---
 title: Sud Web en 2012 c’est à Toulouse !
-date: '2012-02-05 00:00:00'
+author: Sud Web
 categories:
 - '2012'
-author: Sud Web
-layout: post
-slug: sud-web-2012-a-toulouse
-tags: []
-draft: false
-
 ---
+
 Sud Web est une conférence pour apprendre et construire le web organisée par et pour les travailleurs du web. Sud Web est porteuse de valeurs fortes. Elle place l’humain au centre de tout, préfère le partage au réseautage, le concret au théorique, et la proximité à l’élitisme.
 
 Pour ces raisons Sud Web se déroule dans une nouvelle ville chaque année, garde une taille raisonnable et privilégie les retours d’expériences.

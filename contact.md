@@ -1,10 +1,10 @@
 ---
 title: Contact
-layout: page
 permalink: "/contact/"
+layout: page
 draft: false
-
 ---
+
 <fieldset>
   <p>Envoyez-nous un petit mail, ça fait toujours plaisir :)</p>
   <form action="//formspree.io/contact@sudweb.fr" method="POST">

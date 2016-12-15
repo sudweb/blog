@@ -1,5 +1,20 @@
 ---
 title: Sud Web
+timezone: Europe/Paris
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    comments: true
 description: Les actualités de la conférence web itinérante du sud de la France.
 url: http://sudweb.fr
 repository: sudweb/blog
@@ -16,16 +31,12 @@ kramdown:
   input: GFM
   hard_wrap: false
   footnote_nr: '1'
-timezone: Europe/Paris
-
 logo: assets/images/logo-sudweb.png
 twitter:
   username: sudweb
-
 analytics:
   google:
     tracking_id: UA-22076213-1
-
 editions:
   '2016': Bordeaux
   '2015': Montpellier
@@ -33,41 +44,23 @@ editions:
   '2013': Avignon
   '2012': Toulouse
   '2011': Nîmes
-
 prose:
   rooturl: 2016/_posts
   siteurl: http://sudweb.fr/blog/
   relativeLinks: http://sudweb.fr/blog/links.jsonp
   media: assets/images
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-
-
 gems:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-github-metadata
-
+- jekyll-mentions
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
+- jekyll-github-metadata
 exclude:
-  - vendor
-  - script
-  - Procfile
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-collections:
-  posts:
-    output: true
-    permalink: "/:categories/:title/"
+- vendor
+- script
+- Procfile
+- README.md
+- Gemfile
+- Gemfile.lock
+- vendor

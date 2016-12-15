@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Ouverture des inscriptions pour Sud Web"
-description: "Les inscriptions pour Sud Web, les 19 et 20 mai 2017 à Aix-en-Provence sont ouvertes."
-author: Frank Taillandier
-date: "2016-12-15 10:21:30 +0100"
+title: Ouverture des inscriptions pour Sud Web
+date: 2016-12-15 10:21:30 +01:00
 categories:
 - '2017'
-image: /assets/images/aquabella.jpg
+layout: post
+description: Les inscriptions pour Sud Web, les 19 et 20 mai 2017 à Aix-en-Provence
+  sont ouvertes.
+author: Frank Taillandier
+image: "/assets/images/aquabella.jpg"
 ---
 
 La 7e édition de [Sud Web](https://sudweb.fr/2017/) aura lieu à Aix-en-Provence, les 19 et 20 mai 2017 dans [des lieux](https://sudweb.fr/2017/lieux/) qui nous l'espérons permettront à la magie de Sud Web d'opérer. Nous aimons changer de cadre et Aix est une ville charmante à la programmation culturelle très riche.

@@ -16,7 +16,7 @@ La 7e édition de [Sud Web](https://sudweb.fr/2017/) aura lieu à Aix-en-Provenc
 
 Certains d'entre vous nous ont déjà demandé quand ils pourraient s'inscrire, alors que le programme ne sera pas dévoilé avant la dernière semaine de février. Comme nous n'aimons pas être contrariants, nous [ouvrons les inscriptions](https://sudweb.fr/2017/inscription/) afin de permettre à ceux qui d'ores et déjà avaient prévu de venir, de s'organiser au plus tôt.
 
-**ProTip** : Nous ne serions vous conseiller de commencer à réserver un hébergement, vous pourrez toujours l'annuler sans frais quelques semaines avant l'évènement.
+**ProTip** : Au vu de l'affluence touristique sur Aix à ces dates, nous vous conseillons de réserver un hébergement dès maintenant,  vous pourrez toujours l’annuler sans frais quelques semaines avant l’évènement.
 
 Nous sommes actuellement en pleine curation pour les conférences et nous vous rappelons que vous pouvez [proposer des sujets](https://sudweb.fr/2017/appel-a-sujets/) pour des conférences courtes de type Lightning Talks ou Pecha Kucha.
 

@@ -1,5 +1,5 @@
 ---
-title: Sud Web
+title: Sud Web Blog
 timezone: Europe/Paris
 collections:
   posts:
@@ -30,7 +30,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   input: GFM
   hard_wrap: false
-  footnote_nr: '1'
+  footnote_nr: 1
 logo: assets/images/logo-sudweb.png
 twitter:
   username: sudweb
@@ -38,12 +38,12 @@ analytics:
   google:
     tracking_id: UA-22076213-1
 editions:
-  '2016': Bordeaux
-  '2015': Montpellier
-  '2014': Toulouse
-  '2013': Avignon
-  '2012': Toulouse
   '2011': Nîmes
+  '2012': Toulouse
+  '2013': Avignon
+  '2014': Toulouse
+  '2015': Montpellier
+  '2016': Bordeaux
 prose:
   rooturl: 2016/_posts
   siteurl: http://sudweb.fr/blog/

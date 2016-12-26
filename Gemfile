@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
@@ -8,7 +9,7 @@ group :development do
 end
 
 group :test do
-  gem 'rake'
   gem 'html-proofer', '~> 3.0.0'
   gem 'mdl', '~> 0.3.0'
+  gem 'rake'
 end

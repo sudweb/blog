@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Soumettre une bonne proposition de sujet à une conférence"
-date: "2017-01-04 14:54:50 +0100"
-description: Les questions à se poser et tous les conseils pour bien préparer sa proposition afin qu'elle ait toutes les chances d'être acceptée.
+title: Soumettre une bonne proposition de sujet à une conférence
+date: 2017-01-04 14:54:50 +01:00
 categories:
- - '2017'
+- '2017'
+layout: post
+description: Les questions à se poser et tous les conseils pour bien préparer sa proposition
+  afin qu'elle ait toutes les chances d'être acceptée.
 author: Frank Taillandier
 image: "/assets/images/stefanie.jpg"
 ---

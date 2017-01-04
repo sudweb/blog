@@ -514,11 +514,13 @@ a:hover img { opacity: 0.85; }
   margin: 0 auto;
   position: relative;
 }
-.page-template-fullwidth #content { width: 100%; }
+.page-template-fullwidth #content {
+  max-width: 37em;
+}
 #content {
   float: left;
   width: 68.08510638297872%;
-  margin: 0 0 30px 0;
+  margin: 0 auto;
   min-height: 180px;
 }
 #sidebar-primary {

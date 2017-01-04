@@ -35,12 +35,12 @@ body {
   color: #fff;
   text-shadow: none;
 }
-a, a:visited {
+a {
   color: #ffa900;
   text-decoration: none;
 }
-a:hover {
-  text-decoration: none;
+a:hover, a:visited {
+  text-decoration: underline;
   color: #bf7f00;
 }
 

@@ -1033,6 +1033,45 @@ a:hover img { opacity: 0.85; }
 #respond #submit:hover, .button:hover, .wpcf7-submit:hover, #loginform .button-primary:hover { background: #222; }
 .menu li a { position: relative; }
 
+
+.button,.button-type1 {
+    display: inline-block;
+    padding: .5em;
+    border-radius: .25em;
+    box-shadow: 0 0.15em 0 #b87b05;
+    border: 0;
+    outline: 0;
+    background: #f8a912;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none
+}
+
+.button.cta,.cta.button-type1 {
+    margin: 1em 0;
+    padding: .5em 1.5em
+}
+
+.button:hover,.button-type1:hover,.button:focus,.button-type1:focus {
+    cursor: pointer;
+    -webkit-transform: translateY(0.15em);
+    transform: translateY(0.15em);
+    box-shadow: 0 0 0 #b87b05;
+    background: #ea9c07
+}
+
+.button-type1 {
+    box-shadow: 0 0.15em 0 #b87b05;
+    background: #f8a912;
+    color: #fff
+}
+
+.button-type1:hover,.button-type1:focus {
+    -webkit-transform: translateY(0.15em);
+    transform: translateY(0.15em);
+    box-shadow: 0 0 0 #b87b05;
+    background: #ea9c07
+}
 /*  Gravity Forms (plugin)
 ----------------------------------------------------- */
 .sidebar .widget ul li.gfield, #content .hentry ul li.gfield {

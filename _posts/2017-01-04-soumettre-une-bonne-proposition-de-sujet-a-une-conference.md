@@ -53,7 +53,7 @@ OK, maintenant vous savez de quoi vous voulez parler. Prochaine étape : traduir
 
 > Lorsque vous rédigez une proposition de sujet, vous essayez de convaincre des gens de passer 30 minutes à vous écouter - [Sarah Mei](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 
-## Les choses à faire :
+## Les choses à faire
 
 * Répondre aux questions de base : de quoi parle votre conférence ? À qui est-elle destinée (experts, débutants…) ? Que vont apprendre les personnes présentes ?
 * Facilitez la catégorisation de votre sujet : employez des mots qui vont permettre de caser facilement votre talk dans une catégorie, par exemple pour Sud Web : projet, design, culture, retour d'expérience, développement personnel, etc.
@@ -105,11 +105,11 @@ Les propositions que nous avons reçu comptaient en moyenne une centaine de mots
 
 Après la première lecture, l'équipe de Sud Web note ensuite chaque proposition sur une échelle allant de `-2` à `2` :
 
- - `-2`: Je ne pense pas que ce sujet soit adapté à Sud Web.
- - `-1`: Je ne suis pas très favorable cette proposition.
- - `0` : Je ne sais pas mais je ne vois aucun inconvénient si ce sujet est sélectionné.
- - `1` : Je suis favorable à cette proposition.
- - `2` : J'ai vraiment très envie de voir cette conférence !
+* `-2`: Je ne pense pas que ce sujet soit adapté à Sud Web.
+* `-1`: Je ne suis pas très favorable cette proposition.
+* `0` : Je ne sais pas mais je ne vois aucun inconvénient si ce sujet est selectionné.
+* `1` : Je suis favorable à cette proposition.
+* `2` : J'ai vraiment très envie de voir cette conférence !
 
 Nous éliminons ainsi facilement les sujets qui ne respectent pas notre ligne éditoriale. Pour les sujets où il y a de grands écarts de vote, nous discutons et confrontons nos points de vue pour avoir une compréhension commune du sujet, mais à côté de cela certains sujets sortent du lot et nous nous retrouvons souvent avec plus d'une vingtaine de sujets que nous aimerions sélectionner pour Sud Web. Cela signifie que nous devons éliminer 2/3 de nos sujets préférés !
 

@@ -16,7 +16,7 @@ defaults:
     layout: post
     comments: true
 description: Les actualités de la conférence web itinérante du sud de la France.
-url: http://sudweb.fr
+url: https://sudweb.fr
 repository: sudweb/blog
 baseurl: "/blog"
 port: 4000

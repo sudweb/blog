@@ -354,29 +354,35 @@ form label {
   line-height: 1.5em;
   color: #222;
 }
-input[type="text"], input[type="password"], input[type="email"], .input-text, textarea, select {
-  border: 1px solid #ddd;
-  padding: 5px;
-  outline: none;
-  font-size: 0.8125em;
-  color: #888;
-  margin: 0;
-  display: block;
-  background: #fff;
+input,textarea,select {
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+    padding: 1em;
+    box-sizing: border-box;
+    background: #fff;
+    box-shadow: 0 0.15em 0 #b3b3b3;
+    outline: 0;
+    border-radius: .25em;
+    border: 0
 }
-select { padding: 0; }
-input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, textarea:focus, .input-text:focus {
-  border: 1px solid #aaa;
-  color: #444;
-  -moz-box-shadow: 0 0 3px rgba(0,0,0,.2);
-  -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
-  box-shadow:  0 0 3px rgba(0,0,0,.2);
+
+input:focus,textarea:focus,select:focus {
+    -webkit-transform: translateY(0.15em);
+    transform: translateY(0.15em);
+    box-shadow: 0 0 0 #b3b3b3
 }
+
 textarea {
-  display: block;
-  width: 94%;
-  min-height: 60px;
+  height: 6.3em
 }
+
+select {
+    -webkit-appearance: textfield;
+    -moz-appearance: textfield;
+    appearance: textfield
+}
+
 input[type="radio"] { vertical-align: text-middle; }
 input[type="checkbox"] { display: inline; }
 input[type="submit"]:hover { cursor: pointer }

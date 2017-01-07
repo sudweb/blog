@@ -548,7 +548,7 @@ a:hover img { opacity: 0.85; }
   border-top: 5px solid #595959;
   clear: both;
 }
-#footer {
+.footer {
   overflow: hidden;
   clear: both;
   width: 100%;
@@ -557,6 +557,7 @@ a:hover img { opacity: 0.85; }
   border-top: 5px solid #595959;
   font-size: 0.8461538461538462em;
   color: #aaa;
+  text-align: center;
 }
 
 /* Primary menu

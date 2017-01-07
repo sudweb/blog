@@ -523,12 +523,13 @@ a:hover img { opacity: 0.85; }
 .page-template-fullwidth #content {
   max-width: 37em;
 }
+
 #content {
-  float: left;
-  width: 68.08510638297872%;
+  max-width: 37em;
   margin: 0 auto;
   min-height: 180px;
 }
+
 #sidebar-primary {
   float: right;
   width: 27.65957446808511%;

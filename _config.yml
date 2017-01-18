@@ -1,5 +1,5 @@
 ---
-title: Sud Web Blog
+title: Le blog de Sud Web
 timezone: Europe/Paris
 collections:
   posts:
@@ -15,7 +15,7 @@ defaults:
   values:
     layout: post
     comments: true
-description: Les actualités de la conférence web itinérante du sud de la France.
+description: La conférence super-humaine
 url: https://sudweb.fr
 repository: sudweb/blog
 baseurl: "/blog"

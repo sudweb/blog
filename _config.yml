@@ -47,6 +47,7 @@ gems:
 - jekyll-github-metadata
 - jekyll-mentions
 - jekyll-paginate
+- jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji

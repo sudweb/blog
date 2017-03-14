@@ -1,22 +1,15 @@
 <div id="post-{{post.id}}" class="hentry post">
-    <div class="sticky-header">
-        <h2 class="post-title entry-title">
+  <div class="sticky-header">
+    <div class="byline">
+      <time class="published">{% include fr_date.html date=post.date %}</time> {% if post.categories %} • {% for category in post.categories %}
+      <a href="{{ site.baseurl }}/{{ category }}" rel="tag">Sud Web {{ category }}</a> {% endfor %} {% endif %}
+    </div>
+    <h2 class="post-title entry-title">
             <a href="{{ post.url | prepend: site.baseurl }}" rel="permalink">{{ post.title }}</a>
         </h2>
+  </div>
 
-        <div class="byline">
-          <time class="published">{% include fr_date.html date=post.date %}</time>
-
-                {% if post.categories %}
-              •
-              {% for category in post.categories %}
-              <a href="{{ site.baseurl }}/{{ category }}" rel="tag">Sud Web {{ category }}</a>
-              {% endfor %}
-            {% endif %}
-        </div>
-    </div>
-
-    <div class="entry-summary">
-      <p>{{ post.excerpt }}</p>
-    </div>
+  <div class="entry-summary">
+    {{ post.excerpt }}
+  </div>
 </div>

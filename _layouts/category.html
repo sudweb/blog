@@ -1,10 +1,9 @@
 {% include head.html %}
 
 <body class="category category-{{ page.category }}">
-
+  {% include header.html %}
 <div id="container">
   <div class="wrap">
-    {% include header.html %}
 
     <div id="main">
       <div id="content">
@@ -20,10 +19,9 @@
       </div>
     </div>
 
-    {% include sidebar.html %}
-    {% include footer.html %}
-
+    {% include sticker.html %}
   </div>
 </div>
+{% include footer.html %}
 </body>
 </html>

@@ -1,18 +1,21 @@
 {% include head.html %}
 
-<body class="wordpress ltr fr_FR home blog paged">
-<div id="container">
-  <div class="wrap">
-    {% include header.html %}
+<body class="ltr fr_FR home blog paged">
+  {% include header.html %}
+  <div id="container">
+    <div class="wrap">
 
-    <div id="main">
-          {{ content }}
+      <div id="main">
+        {{ content }}
+      </div>
+
     </div>
-
-    {% include footer.html %}
   </div>
-</div>
-<script src="{{ site.baseurl }}/assets/js/instantclick.min.js" data-no-instant></script>
-<script data-no-instant>InstantClick.init();</script>
+  {% include footer.html %}
+  <script src="{{ site.baseurl }}/assets/js/instantclick.min.js" data-no-instant></script>
+  <script data-no-instant>
+    InstantClick.init();
+  </script>
 </body>
+
 </html>

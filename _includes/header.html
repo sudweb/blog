@@ -1,4 +1,4 @@
-<div id="header">
+<div class="header">
   <div id="branding">
     <h1 id="site-title">
       <a href="{{ "/" | relative_url }}" title="{{ site.title }}" rel="Home">
@@ -7,16 +7,12 @@
     </h1>
   </div>
 
-  <div id="menu-primary" class="site-navigation menu-container" role="navigation">
-		<span class="menu-toggle">Menu</span>
-
-		<div class="menu">
-      <ul id="menu-primary-items" class="nav-menu">
-        <li class="menu-item"><a href="{{ site.baseurl }}/contact/">Contact</a></li>
-        <li class="menu-item"><a href="https://twitter.com/sudweb">Twitter</a></li>
-        <li class="menu-item"><a href="https://facebook.com/sudweb">Facebook</a></li>
-        <li class="menu-item"><a href="http://lanyrd.com/series/sudweb/">Lanyrd</a></li>
-      </ul>
-    </div>
-	</div>
+  <nav role="navigation">
+    <ul class="nav-menu">
+      <li class="menu-item"><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+      <li class="menu-item"><a href="https://twitter.com/sudweb">Twitter</a></li>
+      <li class="menu-item"><a href="https://facebook.com/sudweb">Facebook</a></li>
+      <li class="menu-item"><a href="http://lanyrd.com/series/sudweb/">Lanyrd</a></li>
+    </ul>
+  </nav>
 </div>

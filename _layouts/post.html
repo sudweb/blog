@@ -1,45 +1,38 @@
 {% include head.html %}
 
 <body class="singular singular-post page-template-fullwidth">
-<div id="container">
-  <div class="wrap">
-    {% include header.html %}
-
-    <div id="main">
-      <div id="content">
-        <div class="hfeed">
-          <div id="post-" class="hentry post publish">
+  {% include header.html %}
+  <div id="container">
+    <div class="wrap">
+      <div id="main">
+        <div id="content">
+          <div class="hfeed">
+            <div id="post-" class="hentry post publish">
               <div class="sticky-header">
-                  <h2 class="post-title entry-title">
+                <div class="byline">
+                  <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span> {% if page.categories %} • {% for category in page.categories %}
+                  <a href="{{ site.baseurl }}/{{ category }}" rel="tag">Sud Web {{ category }}</a> {% endfor %} {% endif %}
+                </div>
+                <h2 class="post-title entry-title">
                       {{ page.title }}
                   </h2>
-
-                  <div class="byline">
-                      <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span>
-                      {% if page.categories %}
-                        •
-                        {% for category in page.categories %}
-                        <a href="{{ site.baseurl }}/{{ category }}" rel="tag">Sud Web {{ category }}</a>
-                        {% endfor %}
-                      {% endif %}
-                  </div>
               </div>
 
+            </div>
+            <div class="entry-content">
+              {{ content }}
+            </div>
           </div>
-          <div class="entry-content">
-            {{ content }}
-          </div>
+          {% if page.comments %} {% include comments.html %} {% endif %}
         </div>
-        {% if page.comments %}
-          {% include comments.html %}
-        {% endif %}
       </div>
+
+      {% include sticker.html %}
     </div>
-
-    {% include footer.html %}
-
   </div>
-</div>
-<script id="dsq-count-scr" src="//sudweb.disqus.com/count.js" async></script>
+  {% include footer.html %}
+
+  <script id="dsq-count-scr" src="//sudweb.disqus.com/count.js" async></script>
 </body>
+
 </html>

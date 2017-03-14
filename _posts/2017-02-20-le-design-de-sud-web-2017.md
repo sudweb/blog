@@ -1,13 +1,16 @@
 ---
 title: Designer une journée de conférences
-date: 2017-02-20 3:50:50 +01:00
+date: 2017-02-20 03:50:50 +01:00
 categories:
 - '2017'
 layout: post
-description: Afin d'obtenir un programme à la fois original, inclusif et cohérent, nous procédons à une curation collecitve en amont puis à une sélection parmis les sujets reçus.
+description: Afin d'obtenir un programme à la fois original, inclusif et cohérent,
+  nous procédons à une curation collecitve en amont puis à une sélection parmis les
+  sujets reçus.
 author: Frank Taillandier
-image:
+image: 
 ---
+
 Pour la septième année consécutive, nous avons établi [le programme de la journée de conférences de Sud Web](https://sudweb.fr/2017/programme/). Au fil du temps les équipes ont testé différentes choses et le processus actuel est le fruit de toutes les expérimentations passées. Ce n’est pas un processus figé, il peut être amené à continuer d’évoluer, nous sommes de fervents pratiquants de l’amélioration continue.
 
 Sud Web est une expérience qui se vit pendant deux journées qui se veulent complémentaires. Les conférences du vendredi donnent en partie le ton d’une édition, les personnes présentes font le reste. Les premières années, nous nous sommes contentés de lancer un appel pour réunir des sujets. À nous ensuite de faire une sélection. Ça a plutôt bien marché jusqu’au jour où nous avons voulu construire un programme différent, plus ouvert.

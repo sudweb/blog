@@ -9,6 +9,7 @@ description: Les questions à se poser et tous les conseils pour bien préparer 
 author: Frank Taillandier
 image: "/assets/images/stefanie.jpg"
 ---
+
 Les événements comme Sud Web ont besoin de bonnes conférences pour combler les attentes du public. Aussi après m'être fortement inspiré de [l'article de Kristina Schneider de CSSconf EU](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech), je vous propose de passer en revue tous les éléments à considérer pour vous aider à mettre toutes les chances de votre côté pour nous convaincre de vous ajouter au programme.
 
 {% include figure.html name="stefanie.jpg" caption="Stefanie Posavec à Sud Web 2016" %}

@@ -8,7 +8,7 @@ description: Afin d'obtenir un programme à la fois original, inclusif et cohér
   nous procédons à une curation collecitve en amont puis à une sélection parmis les
   sujets reçus.
 author: Frank Taillandier
-image: 
+image: "assets/images/2017/talks.png"
 ---
 
 Pour la septième année consécutive, nous avons établi [le programme de la journée de conférences de Sud Web](https://sudweb.fr/2017/programme/). Au fil du temps les équipes ont testé différentes choses et le processus actuel est le fruit de toutes les expérimentations passées. Ce n’est pas un processus figé, il peut être amené à continuer d’évoluer, nous sommes de fervents pratiquants de l’amélioration continue.

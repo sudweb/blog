@@ -132,9 +132,3 @@ Nous proposons un accompagnement personnalisé aux intervenant·e·s depuis quel
 Ce suivi est tout aussi apprécié par les orateurs et des oratrices plus chevronné·e·s. Le fait de fournir des retours au plus tôt, d'échanger sur votre plan, vos idées, de vous faire des retours constructifs sur le fond autant que sur la forme va ajouter à votre motivation pour délivrer une présentation encore meilleure. À ce stade, les répétitions vidéo avec les organisateurs jouent un rôle déterminant, le simple fait d'avoir les encouragements de l'équipe après une *confcall* de 10 minutes, ça met bien en confiance et la majorité des intervenant·e·s y a désormais recours.
 
 Ces premières prises de contact avec notre équipe rassurent sur le fait que tout va bien se passer. Cela ne vous empêchera pas d'avoir le trac avant de monter sur scène, mais vous serez beaucoup mieux préparés.
-
-_L'appel à propositions de conférences courtes est ouvert aux propositions jusqu'au 12 février 2017._
-
-<p class="center" style="text-align:center;">
-  <a class="button-type1" href="https://sudweb.fr/2017/appel-a-sujets/" style="color: #fff; text-decoration: none;">Soumettre une proposition de conférence</a>
-</p>

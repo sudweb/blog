@@ -68,7 +68,7 @@ Nous préparons au mieux cette journée en amont. Nous collectons dans un board 
 
 Comme ce n’est pas vraiment pratique de passer les sujets en revue dans une feuille de calcul et que nous avons des compétences en développement dans l’équipe, nous avons pu bénéficier grâce à Alexandra d’une application chargée à la fois de nous afficher de manière lisible tous les sujets, de nous permettre de voter et de classer les sujets.  Pour les curieux, [le code source est dispo sur GitHub](https://github.com/sudweb/talks).
 
-{% include figure.html name="2017/talks.png" caption="L'application de sélection des sujets de conférences développée par Alexandra" %}
+{% include figure.html name="2017/talks_app.png" caption="L'application de sélection des sujets de conférences développée par Alexandra" %}
 
 Avant de procéder au vote, nous avons commencé par afficher au mur les valeurs et la vision que nous avions de Sud Web. Cela nous a permis de définir le cadre qui allait ensuite nous servir de référence lors des débats incontournables inhérents à toute prise de décision. Autant vous dire que ça nous a bien servi :)
 

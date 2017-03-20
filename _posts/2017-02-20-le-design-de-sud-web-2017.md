@@ -15,7 +15,7 @@ Pour la septième année consécutive, nous avons établi [le programme de la jo
 
 Sud Web est une expérience qui se vit pendant deux journées qui se veulent complémentaires. Les conférences du vendredi donnent en partie le ton d’une édition, les personnes présentes font le reste. Les premières années, nous nous sommes contentés de lancer un appel pour réunir des sujets. À nous ensuite de faire une sélection. Ça a plutôt bien marché jusqu’au jour où nous avons voulu construire un programme différent, plus ouvert.
 
-Dès le début, nous avons chercher à trouver notre identité, à nous positionner différement par rapport à d'autres évènements et à défendre nos propres valeurs.
+Dès le début, nous avons cherché à trouver notre identité, à nous positionner différement par rapport à d'autres évènements et à défendre nos propres valeurs.
 
 Chaque année marque une nouvelle étape : non seulement nous changeons de ville, de lieu mais aussi en partie d'équipe, de thématique et, par là même, de personnes, qu'elles soient sur scène ou dans le public. Chaque édition a donc une saveur différente. Nos valeurs nous permettent de faire évoluer le cadre pour ne pas nous enfermer dans une routine.
 
@@ -32,7 +32,7 @@ L’année suivante nous avons continué de mélanger le développement Web à l
 
 **Nous avons fait le choix délibéré de ne pas être une énième conférence trop spécialisée.** Nous invitons au contraire les participants à sortir du silo dans lequel ils sont trop souvent enfermés, à essayer d’avoir une meilleure vue d’ensemble, à mieux comprendre leur métier et celui de leurs collègues.
 
-Nous avons d'ailleurs eu un débat sur la quête de sens dans le palais des Papes d’Avignon en 2013 puis en 2014 à Toulouse, nous avons proposé de mieux communiquer en fixant nos idées à l'aide du dessin. Des leaders, venus d'entreprises très en vue, sont venus insister sur l’importance de bâtir une culture commune au sein des équipes. Il y avait bien quelques sujets sur JavaScript ou les tests automatisés mais les discussions techniques sur Grunt ou React émergeaient naturellement le lendemain lors des élaboratoires - oui,  ça parlait déjà de React en 2014 à Sud Web à une époque où tout le monde ne jurait encore que par Angular. Le public de Sud Web regorge de passionés et d'experts et c'est ce qui fait sa richesse.
+Nous avons d'ailleurs eu un débat sur la quête de sens dans le palais des Papes d’Avignon en 2013 puis en 2014 à Toulouse, nous avons proposé de mieux communiquer en fixant nos idées à l'aide du dessin. Des leaders, venus d'entreprises très en vue, sont venus insister sur l’importance de bâtir une culture commune au sein des équipes. Il y avait bien quelques sujets sur JavaScript ou les tests automatisés mais les discussions techniques sur Grunt ou React émergeaient naturellement le lendemain lors des élaboratoires - oui,  ça parlait déjà de React en 2014 à Sud Web à une époque où tout le monde ne jurait encore que par Angular. Le public de Sud Web regorge de passionnés et d'experts et c'est ce qui fait sa richesse.
 
 [Thomas](https://oncletom.io) a décidé de poursuivre la mutation en proposant d’aller chercher des sujets que nous n'aurions jamais reçus via un simple appel à conférences. Nous avons ainsi pu entendre des chercheurs, des avocats, des journalistes, des musiciens, des psychologues et même des kinésiologues, bref des professions qu’on a pas trop l’habitude de croiser dans une conférence Web.
 

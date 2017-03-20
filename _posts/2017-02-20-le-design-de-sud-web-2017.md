@@ -5,7 +5,7 @@ categories:
 - '2017'
 layout: post
 description: Afin d'obtenir un programme à la fois original, inclusif et cohérent,
-  nous procédons à une curation collecitve en amont puis à une sélection parmis les
+  nous procédons à une curation collective en amont puis à une sélection parmi les
   sujets reçus.
 author: Frank Taillandier
 image: assets/images/2017/talks.png

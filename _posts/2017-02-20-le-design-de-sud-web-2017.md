@@ -34,7 +34,7 @@ L’année suivante nous avons continué de mélanger le développement Web à l
 
 Nous avons d'ailleurs eu un débat sur la quête de sens dans le palais des Papes d’Avignon en 2013 puis en 2014 à Toulouse, nous avons proposé de mieux communiquer en fixant nos idées à l'aide du dessin. Des leaders, venus d'entreprises très en vue, sont venus insister sur l’importance de bâtir une culture commune au sein des équipes. Il y avait bien quelques sujets sur JavaScript ou les tests automatisés mais les discussions techniques sur Grunt ou React émergeaient naturellement le lendemain lors des élaboratoires - oui,  ça parlait déjà de React en 2014 à Sud Web à une époque où tout le monde ne jurait encore que par Angular. Le public de Sud Web regorge de passionés et d'experts et c'est ce qui fait sa richesse.
 
-Thomas a décidé de poursuivre la mutation en proposant d’aller chercher des sujets que nous n'aurions jamais reçus via un simple appel à conférences. Nous avons ainsi pu entendre des chercheurs, des avocats, des journalistes, des musiciens, des psychologues et même des kinésiologues, bref des professions qu’on a pas trop l’habitude de croiser dans une conférence Web.
+[Thomas](https://oncletom.io) a décidé de poursuivre la mutation en proposant d’aller chercher des sujets que nous n'aurions jamais reçus via un simple appel à conférences. Nous avons ainsi pu entendre des chercheurs, des avocats, des journalistes, des musiciens, des psychologues et même des kinésiologues, bref des professions qu’on a pas trop l’habitude de croiser dans une conférence Web.
 
 Et ça n’avait pas l’air de déranger notre public outre mesure, au contraire, [la conférence sur la gestion des émotions par notre cerveau](https://vimeo.com/137741451) a été la plus marquante et la plus vue sur notre chaîne Vimeo en 2015.
 
@@ -50,11 +50,11 @@ Nous gardons les pieds sur terre et si nous privilégions les expériences vécu
 
 ## Une curation collective
 
-Avec [le départ de Thomas](https://oncletom.io/2016/69-months-of-sudweb/), qui avait pris à sa charge la moitié de la curation des conférences lors des trois dernières éditions, nous avons continué à faire de la curation de conférences en permettant à chaque membre de l’équipe de proposer des sujets qui s'inscrivent dans notre démarche. Avec des sensibilités des domaines de prédilection divers, cela ne pouvait que contribuer qu’à construire une journée de conférences transversale et enrichissante à plus d'un titre.
+Avec [le départ de Thomas]({% post_url 2016-06-20-69-mois-de-sud-web %}), qui avait pris à sa charge la moitié de la curation des conférences lors des trois dernières éditions, nous avons continué à faire de la curation de conférences en permettant à chaque membre de l’équipe de proposer des sujets qui s'inscrivent dans notre démarche. Avec des sensibilités des domaines de prédilection divers, cela ne pouvait que contribuer qu’à construire une journée de conférences transversale et enrichissante à plus d'un titre.
 
 La plupart des membres de l’équipe d’organisation se sont naturellement impliqués à ce niveau, en essayant d'aller chercher des sujets dont on ne parle pas assez ailleurs et des personnes qu'on ne connaît pas forcément.
 
-Résultat, cette année aucune des personnes qui sera sur scène le vendredi n’était venu parlé auparavant à Sud Web et pour certaines c’est la première fois qu’elles s'exprimeront lors d’une conférence Web.
+Résultat, cette année aucune des personnes qui sera sur scène le vendredi n’était venu parler auparavant à Sud Web et pour certaines c’est la première fois qu’elles s'exprimeront lors d’une conférence Web.
 
 À côté de cela nous avons lancé un appel à sujets de conférences courtes en proposant cette année un nouveau format : le Pecha Kucha. Enfin quand je dis nous c’est surtout Alexandra, fraîchement arrivée dans l’équipe. Preuve que c’est important d’avoir du sang neuf chaque année si vous souhaitez évoluer.
 
@@ -84,10 +84,12 @@ Nous espérons surtout que cette première journée donnera envie de faire des c
 
 [Le programme](https://sudweb.fr/2017/programme/) est affiché sur notre site, nous vous laissons le découvrir par vous-mêmes.
 
+Nous pensons qu'il peut faire émerger de belles choses cette année encore. Ce programme se veut aussi inclusif que possible, vous serez donc à votre place, quoi qu'il advienne. Sud Web est designé pour cela.
+
 Maintenant il ne nous reste plus qu'à vous inviter à venir vivre cette nouvelle *Aix-périence* sous le soleil provencal avec nous. [Il reste encore des places](https://sudweb.fr/2017/inscription/) [^1].
 
 Nous sommes impatients de vous retrouver les 19 et 20 mai prochain [à Aix-en-Provence](https://sudweb.fr/2017/lieux/) et nous espérons qu’une fois encore cette édition vous interrogera, vous enrichira, vous fera sourire et vous donnera la force d’expérimenter de nouvelles choses de votre côté dès le lundi suivant. En un mot que ce moment soit pour vous un moment convivial et épanouissant, c'est notre souhait le plus cher.
 
 ---
 
-[^1]: Pour être totalement transparent avec vous, sachez que près de 40% des places ont déjà été vendues avant même que nous n'annoncions le programme. L'année dernière toutes les places se sont vendues en moins de deux semaines après la publication du programme.
+[^1]: Pour être totalement transparent avec vous, sachez que plus de 50% des places sont déjà parties, une semaine à peine après la publication du programme.

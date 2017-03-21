@@ -54,29 +54,27 @@ Nous avons continué à faire de la curation de conférences après [le départ 
 
 La plupart des membres de l’équipe d’organisation se sont naturellement impliqués à ce niveau, en essayant d'aller chercher des sujets dont on ne parle pas assez ailleurs et des personnes qu'on ne connaît pas forcément.
 
-Résultat, cette année aucune des personnes qui sera sur scène le vendredi n’était venu parler auparavant à Sud Web et pour certaines c’est la première fois qu’elles s'exprimeront lors d’une conférence Web.
+Résultat, cette année toutes les personnes à monter sur scène le vendredi 19 mai 2017 sont de nouvelles têtes et pour certaines, c’est la première fois qu’elles s'exprimeront lors d’une conférence Web.
 
-À côté de cela nous avons lancé un appel à sujets de conférences courtes en proposant cette année un nouveau format : le Pecha Kucha. Enfin quand je dis nous c’est surtout Alexandra, fraîchement arrivée dans l’équipe. Preuve que c’est important d’avoir du sang neuf chaque année si vous souhaitez évoluer. D'ailleurs on en [parlait lors de Sud Web 2013](https://vimeo.com/70067975)…
+À côté de cela nous avons lancé un appel à sujets de **conférences courtes** en proposant cette année un **nouveau format** : le Pecha Kucha. Enfin quand je dis nous c’est surtout Alexandra, fraîchement arrivée dans l’équipe. Preuve que c’est important d’avoir du sang neuf chaque année si vous souhaitez évoluer. D'ailleurs on en [parlait lors de Sud Web 2013](https://vimeo.com/70067975)…
 
 ## Les votes
 
-Du fait de l’implication collective, nous nous sommes retrouvés avec plus de sujets qu’il n’y avait de slots, de la même manière que chaque année nous devons sélectionner seulement huit sujets de conférences courtes parmi les dizaines de propositions que nous recevons.
+Une des particularités de Sud Web est d'être une conférence itinérante dont l’organisation est distribuée. Nous habitons presque tous dans des villes différentes. Pour l’élaboration du programme nous faisons le choix de nous retrouver en face à face, pour échanger, débattre et voter. Cela donne un côté plus humain aux échanges et nous permet de débattre plus rapidement : en quelques heures le programme émerge.
 
-Une des particularités de Sud Web est que c’est une conférence itinérante dont l’organisation se fait à distance car nous habitons presque tous dans des villes différentes. Mais pour l’élaboration du programme nous préférons nous retrouver face à face, pour échanger, débattre et voter. Cela donne un côté plus humain aux échanges et nous permet de débattre plus rapidement, en quelques heures c'est réglé.
+Nous préparons cette journée en amont. Nous collectons dans un board Trello les différents sujets de conférences que nous souhaiterions aborder et stockons dans une feuille de calcul Google Spreadsheet les propositions reçues pendant l'appel à sujets.
 
-Nous préparons au mieux cette journée en amont. Nous collectons dans un board Trello les différents sujets de conférences que nous souhaiterions aborder et stockons dans une feuille de calcul Google Spreadsheet les propositions reçues.
-
-Comme ce n’est pas vraiment pratique de passer les sujets en revue dans une feuille de calcul et que nous avons des compétences en développement dans l’équipe, nous avons pu bénéficier grâce à Alexandra d’une application chargée à la fois de nous afficher de manière lisible tous les sujets, de nous permettre de voter et de classer les sujets.  Pour les curieux, [le code source est dispo sur GitHub](https://github.com/sudweb/talks).
+Alexandra s'est attelée à créer une application React interfacée avec Google Spreadsheets. L'objectif de cette application est de visualiser les sujets de manière lisible que dans Google Spreadsheets _et_ de recueillir les votes de l'équipe organisatrice. Pour les curieux, [le code source est dispo sur GitHub](https://github.com/sudweb/talks).
 
 {% include figure.html name="2017/talks_app.png" caption="L'application de sélection des sujets de conférences développée par Alexandra" %}
 
-Avant de procéder au vote, nous avons commencé par afficher au mur les valeurs et la vision que nous avions de Sud Web. Cela nous a permis de définir le cadre qui allait ensuite nous servir de référence lors des débats incontournables inhérents à toute prise de décision. Autant vous dire que ça nous a bien servi :)
+Avant de procéder au vote, **nous affichons au mur les valeurs et la vision** que nous avions de Sud Web. Cela nous permet de définir le cadre qui allait ensuite nous servir de référence lors des débats incontournables inhérents à toute prise de décision. Autant vous dire que ça nous a bien servi :)
 
 {% include figure.html name="2017/oratorgate.jpg" caption="L'équipe en pleine conception de la journée de conférences" %}
 
-Une fois tous les sujets passés en revue, certains se sont détachés mais pour beaucoup, nos différentes sensibilités et notre subjectivité a fait que nous avons eu du mal à nous mettre d’accord. Pas facile de lâcher prise. C’est frustrant lorsqu’un membre de l’équipe pousse un sujet mais que la majorité ne partage pas son sentiment mais cela fait partie du jeu.
+Une fois tous les sujets passés en revue, certains se détachent mais pour beaucoup, nos différentes sensibilités et notre subjectivité a fait que nous avons eu du mal à nous mettre d’accord. Pas facile de lâcher prise. C’est frustrant lorsqu’un membre de l’équipe pousse un sujet mais que la majorité ne partage pas son sentiment mais cela fait partie du jeu.
 
-Nous avons donc non sans mal fini par arriver à sélectionner seize conférences. Le programme de cette année est le fruit de tout ce travail. Un grand merci à celles et ceux dont nous n’avons pas pu retenir les sujets, nous espérons qu’ils trouveront un écho plus favorable ailleurs, ce serait mérité.
+Nous avons donc non sans mal fini par arriver à **sélectionner seize conférences**. Le programme de cette année est le fruit de tout ce travail. Un grand merci à celles et ceux dont nous n’avons pas pu retenir les sujets, nous espérons qu’ils trouveront un écho favorable l'année prochaine ou à une autre conférence, ce serait mérité. Raphaël nous en parlait dans le [le syndrôme de l'anti-imposteur](https://vimeo.com/172225267)—une illustration même de quatre années de candidatures d'affilé à Sud Web.
 
 Nous espérons surtout que cette première journée donnera envie de faire des choses constructives pendant la journée de forum ouvert du lendemain. Un exercice que les participant·e·s apprécient tout particulièrement et qui donnent souvent des choses surprenantes. Vive l'intelligence collective.
 
@@ -84,7 +82,7 @@ Nous espérons surtout que cette première journée donnera envie de faire des c
 
 [Le programme](https://sudweb.fr/2017/programme/) est affiché sur notre site, nous vous laissons le découvrir par vous-mêmes.
 
-Nous pensons qu'il peut faire émerger de belles choses cette année encore. Ce programme se veut aussi inclusif que possible, vous serez donc à votre place, quoi qu'il advienne. Sud Web est designé pour cela.
+Nous pensons qu'il fera émerger de belles choses cette année encore. Ce programme se veut aussi inclusif que possible, vous serez donc à votre place, quoi qu'il advienne. Sud Web est designé pour cela.
 
 Maintenant il ne nous reste plus qu'à vous inviter à venir vivre cette nouvelle *Aix-périence* sous le soleil provencal avec nous. [Il reste encore des places](https://sudweb.fr/2017/inscription/) [^1].
 

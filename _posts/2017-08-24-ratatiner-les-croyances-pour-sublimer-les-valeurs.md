@@ -4,9 +4,7 @@ date: 2017-08-24 15:00:50 +01:00
 categories:
 - '2018'
 layout: post
-description: Afin d'obtenir un programme à la fois original, inclusif et cohérent,
-  nous procédons à une curation collective en amont puis à une sélection parmi les
-  sujets reçus.
+description: Retours sur la création et le déroulement des interviews menées par une partie de la Thym
 author: Julia Barbelane et Erick Gardin
 ---
 

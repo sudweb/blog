@@ -12,6 +12,8 @@ Fin septembre, toute la Thym s'est retrouvée à Toulouse. Pour moi qui suis nou
 
 <!-- more -->
 
+![la thym 2018](https://github.com/sudweb/blog/blob/gh-pages/assets/images/2018/la-thym.jpg)
+
 ## Vendredi 29/09
  
 **15h30**
@@ -42,7 +44,9 @@ D’ailleurs c’est l’heure. On quitte notre donjon pour rejoindre notre lieu
 C’est la panse bien pleine qu’on rejoint l’espace de coworking Etincelle qui nous accueille gracieusement, comme l'année dernière. On a une grande salle rien que pour nous. La grande classe&nbsp;!
  
 ### Temps #1 – les valeurs
- 
+
+![Atelier sur les valeurs](https://github.com/sudweb/blog/blob/gh-pages/assets/images/2018/post-it-atelier-valeurs.jpg)
+
 On attaque l’atelier sur les valeurs. L’intention&nbsp;: plus que de reconnecter&#8239;/&#8239;faire ré-émerger les valeurs qu’on souhaite promouvoir dans Sud Web, il s’agit de s’entendre sur le sens qu’on leur donne et trouver notre commun. Rien de tel pour s’aligner, apprendre à se connaître et comprendre «&nbsp;là où l’autre en est&nbsp;».
  
 _Comment ça se passe&nbsp;?_  

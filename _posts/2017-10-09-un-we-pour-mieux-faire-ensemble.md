@@ -33,7 +33,7 @@ J’ai la sensation qu’on a déjà fait ce type d’exo mais, durant l'été, 
  
 Assez vite, les échanges s’échauffent. Je ne sais pas si c’est la pression ou l’enthousiasme mais c’est difficile de structurer le dialogue. Malgré l’utilisation d’une «&nbsp;banane de parole&nbsp;» on se coupe, on a du mal à s’écouter, on s’agace un peu. Ça coince et ça gratouille. Étonnant&nbsp;!
  
-On aborde plusieurs sujets très pratiques (Qui participe&nbsp;? Quelles conférences&nbsp;? Comment on communique&nbsp;?...) mais on a du mal à s’aligner et l’échange manque de structure à mon goût. Ça me ramène à cette conviction de l’importance de parler d’abord du fond (de l’intention globale) avant d’aborder la forme (ce qu’on met concrètement en pratique). Je propose à l’équipe quelque chose. La proposition fait l’unanimité&nbsp;: cet aprèm, on fait un atelier sur les valeurs. 
+On aborde plusieurs sujets très pratiques (Qui participe&nbsp;? Quelles conférences&nbsp;? Comment on communique&nbsp;?...) mais on a du mal à s’aligner et l’échange manque de structure à mon goût. Ça me ramène à cette conviction de l’importance de parler d’abord du fond (de l’intention globale) avant d’aborder la forme (ce qu’on met concrètement en pratique). Je propose qu'on fasse un ateliers sur les valeurs. La proposition fait l’unanimité&nbsp;: cet aprèm, on bosse le fond. 
  
 D’ailleurs c’est l’heure. On quitte notre donjon pour rejoindre notre lieu de déjeuner. 
  
@@ -82,7 +82,7 @@ Résultat, on en a retenu et visité deux.
  
 La deuxième partie de l’après-midi est donc consacrée à la sélection d’un des deux. On a comparé les pour et les contres. Celles et ceux qui les ont visité ont répondu aux questions des autres. Et finalement on a choisi. Et on est contents&nbsp;!
  
-Petit·e·s curieux·ses, je suis désolée mais pour l’instant les détails vont encore rester secrets&nbsp;! La seule chose qu'on vous concède est que nous serons **à Anduze** (entre Nîmes et Montpellier) et que ce sera **les 25 et 26 mai 2018**. Un billet sera prochainement écrit pour vous raconter le pourquoi du comment… (Haha&nbsp;!)
+Petit·e·s curieux·ses, je suis désolée mais pour l’instant les détails vont encore rester secrets&nbsp;! La seule chose qu'on concède à dire pour l'instant est que nous serons **à Anduze** (entre Nîmes et Montpellier) et que ce sera **les 25 et 26 mai 2018**. Un billet sera prochainement écrit pour vous raconter le pourquoi du comment… (Haha&nbsp;!)
  
 **19h**
 
@@ -92,9 +92,9 @@ Je me sens à la fois hyper satisfaite d’avoir réglé la question de lieu et 
  
 **9h30**
 
-Petit déjeuner commun. On reprend l’atelier des valeurs. On a isolé et sélectionné unanimement la valeur de **Bienveillance**. J’en profite pour parler de mes impressions de la veille. J'ai trouvé que la collaboration est compliquée, grinçante et la bienveillance parfois bancale (majoritairement plus centrée sur l'expression d'une tension personnelle que dirigée contre les personnes ou l'exercice). On se rejoint tous là-dessus&nbsp;: 
+Petit déjeuner commun. On reprend l’atelier des valeurs. On a isolé et sélectionné unanimement la valeur de **Bienveillance**. J’en profite pour parler de mes impressions de la veille. J'ai trouvé la collaboration compliquée, grinçante et la bienveillance parfois bancale (ce qui traduisait plus l'expression d'une tension personnelle qu'une mauvaise intention envers les personnes ou l'exercice). On se rejoint tous là-dessus&nbsp;: 
 
-- On a écouté pour répondre et on s’est accroché respectivement à nos cultures respectives. On n'est pas aller «&nbsp;sur la colline de l’autre&nbsp;». Résultat&nbsp;: on s'est coupé la parole, chacun·e a du mal à s’exprimer et à être entendu·e, du coup on a avancé difficilement dans les réflexions.
+- On a écouté pour répondre et on s’est accroché respectivement à nos cultures respectives. On n'est pas allé «&nbsp;sur la colline de l’autre&nbsp;». Résultat&nbsp;: on s'est coupé la parole, chacun·e a du mal à s’exprimer et à être entendu·e, du coup on a avancé difficilement dans les réflexions.
 - On n’a pas accordé le même crédit à toutes les personnes&nbsp;: il y a eu une sorte de hiérarchisation des avis qui s’est opérée, ce qui a rendue implicitement la parole de certain·e·s plus légitime que d’autres.
 - Notre sémantique a été «&nbsp;violente&nbsp;»&nbsp;: «&nbsp;il faut, tu dois, le problème c’est que…&nbsp;» tout un tas de petits mots qui ont eu pour résultante l’instauration de postures hautes des uns sur les autres et la non réelle considération des avis de chacun. 
 

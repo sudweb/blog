@@ -25,7 +25,7 @@ Beaucoup d’idées ont émergé de toute part, donnant lieu à beaucoup de
 discussions alors que nous nous devions d’avancer et d’être efficaces.
 Il n’est pas toujours évident de trouver sa place dans ce genre de contexte, et tout le monde n’a pas pu suivre le mouvement. Mais grâce à l’implication, parfois trop forte, de [**Loïc**](http://loic.mathaud.fr/ "Loïc Mathaud") et de [**Marie**](http://marie-alhomme.com/ "Marie Alhomme") nous avons quand même réussi notre pari en tant qu'équipe. Déjà, nous nous sommes interrogés sur notre organisation, sur la façon d'avancer ensemble et de prendre des décisions. Cette caractéristique n'allait plus nous quitter. Sans le savoir nous commencions à créer notre propre culture.
 
-{% include figure.html name="2011-marie.jpg" caption="Marie" %}
+{% include figure.html name="2011/2011-marie.jpg" caption="Marie" %}
 
 L’association était née, nous avions un premier président désigné d’office et nous avons réuni près d’une centaine de personnes lors de notre première édition, et pas des moindres, puisqu’outre les fidèles de Paris-Web, nous avons eu l’honneur d’accueillir des gens comme Bert Bos, co-auteur de la spécification CSS pour le W3C. Le rêve était devenu réalité.
 
@@ -67,7 +67,7 @@ Nous avions petit à petit bâti une culture commune, qui nous permettait d’av
 
 Notre volonté de continuer à nous déplacer de ville en ville, nous obligeait néanmoins à recruter des locaux, qui connaissent mieux que quiconque les meilleurs plans de leur ville et sont très précieux pour construire une expérience unique. Il est aussi préférable que ces personnes aient aussi vécu au moins un Sud Web en tant que participant, partagent nos valeurs et notre culture, afin que tout se fasse de manière naturelle.
 
-{% include figure.html name="2011-amanda.jpg" caption="Amanda" %}
+{% include figure.html name="2011/2011-amanda.jpg" caption="Amanda" %}
 
 [**Amanda**](https://twitter.com/MartinezAmandaa "Amanda Martinez"), encore étudiante lors de la première édition à Nîmes, répondait parfaitement à tous ces critères et son implication fut déterminante pour l’organisation de la cinquième édition à Montpellier. Elle y aura laissé tous ses R.T.T et pas mal d’énergie mais son arrivée nous a terriblement fait du bien, nous avons réalisé l’importance d’intégrer petit à petit du sang neuf.
 

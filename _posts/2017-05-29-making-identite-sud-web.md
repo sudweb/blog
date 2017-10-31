@@ -8,7 +8,7 @@ description: "Alors que la Thym se réunit pour parler de Sud Web 2018, prenons 
 author: Enza Chaffron
 ---
 
-[_Sud Web_](https://sudweb.fr/) est _la_ conférence itinérante des travailleurs et travailleuses du web pour apprendre, comprendre et partager nos expériences. J’ai eu le plaisir de rejoindre la joyeuse Thym en 2015 et l’occasion de proposer une refonte de toute l’identité et de la charte existante.
+Sud Web est _la_ conférence itinérante des travailleurs et travailleuses du web pour apprendre, comprendre et partager nos expériences. J’ai eu le plaisir de rejoindre la joyeuse Thym en 2015 et l’occasion de proposer une refonte de toute l’identité et de la charte existante.
 
 _Voici son histoire ;)_
 

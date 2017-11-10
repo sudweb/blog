@@ -14,8 +14,7 @@ C'est comme ça qu'on a décidé, contrairement aux autres années, de chercher 
 
 ## Privilégier le fond sur la forme
 
-Les interviews et le travail sur les valeurs l'ont confirmé, le truc de Sud Web c'est le lien humain.   
-Alors on s'est dit : 
+Les interviews et le travail sur les valeurs l'ont confirmé, le truc de Sud Web c'est le lien humain. Alors on s'est demandé : 
 
 *Qu'est-ce qui, dans la choix pragmatique du lieu, se mettrait au service de ce lien humain ? Qu'est-ce qu'on pourrait faire pour le renforcer ? Ben un lieu dans lequel on pourrait vivre tous ensemble, en immersion pendant 2 jours pardi !*
 

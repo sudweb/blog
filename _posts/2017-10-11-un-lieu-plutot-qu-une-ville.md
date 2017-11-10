@@ -10,28 +10,27 @@ author: Julia Barbelane
 ---
 {% include figure.html name="2018/paysage.jpeg" caption="Un lieu plutôt qu'un ville" %}
 
-Cette année, on a choisi de s'appuyer un peu plus sur les valeurs pour faire nos choix.   
-C'est comme ça qu'on a décidé, contrairement aux autres années, de chercher un lieu plutôt qu'un ville... Retour sur la procédure !
+Vous commencez à le comprends, cette année, ce sont nos valeurs qui déterminent nos choix. Donc, en toute logiqe, pour 2018, on a décidé, non pas de chercher une ville mais un lieu... Retour sur la procédure !
 
 ## Privilégier le fond sur la forme
 
-Les interviews et le travail sur les valeurs l'ont confirmé, le truc de Sud Web c'est le lien humain. Alors on s'est demandé : 
+Les interviews et le travail sur les valeurs l'ont confirmé, **le truc de Sud Web c'est le lien humain**. Alors on s'est demandé : 
 
-*Qu'est-ce qui, dans la choix pragmatique du lieu, se mettrait au service de ce lien humain ? Qu'est-ce qu'on pourrait faire pour le renforcer ? Ben un lieu dans lequel on pourrait vivre tous ensemble, en immersion pendant 2 jours pardi !*
+*Qu'est-ce qui, dans la choix pragmatique du lieu, se mettrait au service de ce lien humain ? Qu'est-ce qu'on pourrait faire pour le renforcer ? 
 
-On a du s'aligner rapidement, et comme pour toutes les discussions de ce type, [ça a gratté] !(https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/). Ben oui ! Opter pour un endroit nous correspondant mieux, c'était aussi reconnaître que SudWeb est aujourd'hui davantage un évènement convivial qu'un évènement urbain. On a donc dû s'ouvrir à l'idée de s'éloigner un peu des villes...  
+Ce à quoi on a répondu ***"Ben un lieu dans lequel on pourrait vivre tous ensemble, en immersion pendant 2 jours pardi !"***
 
-Résultat : la Thym a creusé le Web pour trouver des lieux atypiques, au service des valeurs de Sud Web et qui étaient en phase avec les [retours collectés](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/).  
+Bon, comme pour toutes les discussions de ce type, [ça a gratté](https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/). Ben oui, opter pour un endroit nous correspondant mieux, c'était aussi reconnaître que SudWeb est aujourd'hui davantage un évènement convivial qu'un évènement urbain. On a donc dû s'ouvrir à l'idée de s'éloigner un peu des villes...  
 
-Une vingtaine de gîtes, campings, hameaux plus tard, trois lieux avaient tiré leur épingle du jeu… Après une première prise de contact, il n'en restait que deux* pas trop loin de Montpellier. Erick et moi étant les plus près, on a été retenu pour la mission des visites. Et là, coup de cœur ! 
+C'est comme ça qu'une vingtaine de gîtes, campings, hameaux plus tard, Erick et moi avons atteris en pleine cambrousse aux portes d'Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N)un petite ville installée à l'entrée du Parc National des Cévennes...
 
 ## Un centre de vacances à Anduze
-On a rendez-vous à [Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N)(petite ville installée à l'entrée du Parc National des Cévennes) avec Aurélie pour visiter [le val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php).  
-On est accueilli·e·s comme si on était des potes : avec un grand sourire et beaucoup de simplicité. Aurélie est contente de nous rencontrer et s'enthousiasme d'emblée pour le projet.
+15h. On est accueilli·e·s par Aurélie pour visiter [le val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php)  
+Direct, j'adore ! On est reçu comme des potes : avec un grand sourire et beaucoup de simplicité. Aurélie est contente de nous rencontrer et s'enthousiasme d'emblée pour le projet.
 
 {% include figure.html name="2018/jardin.jpeg" caption="Le jardin pour des informels délicieux !" %}
 
-La Val de l'Hort est un centre de vacances qui reçoit habituellement des colos. On découvre un grand jardin dans lequel plusieurs petits espaces se dessinent. Tables de ping-pong, coin pique-nique, parcelle d'herbe, terrain de basket...On s'y voit déjà *« Oh là, ici ce sera parfait pour introduire le forum ouvert ! »*. On découvre aussi l'existence d'un chemin qui rejoint le centre ville en 15min à pied seulement. Trop chouette !
+On découvre un grand jardin dans lequel plusieurs petits espaces se dessinent. Tables de ping-pong, coin pique-nique, parcelle d'herbe, terrain de basket...On s'y voit déjà *« Oh là, ici ce sera parfait pour introduire le forum ouvert ! »*. On découvre aussi l'existence d'un chemin qui rejoint le centre ville en 15min à pied seulement. Trop chouette !
 
 {% include figure.html name="2018/chambres.jpeg" caption="Le deuxième bâtiment" %}
 

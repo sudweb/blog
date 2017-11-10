@@ -18,23 +18,21 @@ Les interviews et le travail sur les valeurs l'ont confirmé, le truc de Sud Web
 
 *Qu'est-ce qui, dans la choix pragmatique du lieu, se mettrait au service de ce lien humain ? Qu'est-ce qu'on pourrait faire pour le renforcer ? Ben un lieu dans lequel on pourrait vivre tous ensemble, en immersion pendant 2 jours pardi !*
 
-Et c'était parti ! Pendant l'été, toute la Thym a creusé le Web pour trouver des lieux atypiques, au service des valeurs de Sud Web et qui étaient en phase avec les [retours collectés](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/).  
-Rapidement, il a fallu nous aligner (et comme pour toutes les discussions de ce type, [ça a gratté](https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/) : opter pour un endroit nous correspondant mieux, c'était aussi reconnaitre que Sud Web est aujourd'hui davantage un évènement convivial qu'un évènement urbain et que pour permettre la meilleure expérience, il fallait s'éloigner un peu des villes.  
+On a du s'aligner rapidement, et comme pour toutes les discussions de ce type, [ça a gratté] !(https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/). Ben oui ! Opter pour un endroit nous correspondant mieux, c'était aussi reconnaître que SudWeb est aujourd'hui davantage un évènement convivial qu'un évènement urbain. On a donc dû s'ouvrir à l'idée de s'éloigner un peu des villes...  
 
-Une vingtaine de gîtes, campings, hameaux plus tard, trois lieux avaient tiré leur épingle du jeu… Après une première prise de contact, il n'en restait que deux [^1]: on a bien été aidés par le site [GrandGites.com](https://www.grandsgites.com/), top ! Erick et moi étions les plus près, donc nous sommes allés visiter. Et là, coup de cœur ! 
+Résultat : la Thym a creusé le Web pour trouver des lieux atypiques, au service des valeurs de Sud Web et qui étaient en phase avec les [retours collectés](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/).  
 
+Une vingtaine de gîtes, campings, hameaux plus tard, trois lieux avaient tiré leur épingle du jeu… Après une première prise de contact, il n'en restait que deux* pas trop loin de Montpellier. Erick et moi étant les plus près, on a été retenu pour la mission des visites. Et là, coup de cœur ! 
 
 ## Un centre de vacances à Anduze
+On a rendez-vous à [Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N)(petite ville installée à l'entrée du Parc National des Cévennes) avec Aurélie pour visiter [le val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php).  
+On est accueilli·e·s comme si on était des potes : avec un grand sourire et beaucoup de simplicité. Aurélie est contente de nous rencontrer et s'enthousiasme d'emblée pour le projet.
 
-Erick et moi quittons Montpellier en direction d'[Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N), une petite ville installée à l'entrée du Parc National des Cévennes.  
-On a rendez-vous avec Aurélie pour visiter [le val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php).  
-On est accueilli·e·s comme si on était des potes : avec un grand sourire et de la simplicité. Aurélie est contente de nous rencontrer et s'enthousiasme d'emblée pour le projet.
+La Val de l'Hort est un centre de vacances qui reçoit habituellement des colos. On découvre un grand jardin dans lequel plusieurs petits espaces se dessinent. Tables de ping-pong, coin pique-nique, parcelle d'herbe, terrain de basket...On s'y voit déjà *« Oh là, ici ce sera parfait pour introduire le forum ouvert ! »*. On découvre aussi l'existence d'un chemin qui rejoint le centre ville en 15min à pied seulement. Trop chouette !
 
-La Val de l'Hort est un centre de vacances qui reçoit habituellement des colos. On découvre un grand jardin dans lequel plusieurs petits espaces se dessinent. Tables de ping-pong, coin pique-nique, parcelle d'herbe, terrain de basket...On s'y voit déjà « Oh là, ici ce sera parfait pour introduire le forum ouvert ! ». On découvre aussi l'existence d'un chemin qui rejoint le centre ville en 15min à pied seulement. Trop chouette !
+## RDV avec la simplicité et la convivialité
 
-## L'intérieur est un peu plus surprenant
-
-L'ambiance est vraiment celle des colonies de vacances, c'est simple et familial. Le standing n'est pas très élevé mais c'est ce qui fait qu'on se sent direct « comme à la maison ». Le lieu est « circulant » : il y a plusieurs espaces différents qui communiquent plutôt bien entre eux. Il y a comme **une invitation à se l'approprier**.  
+L'ambiance est vraiment celle des colonies de vacances, c'est sobre et familial. Le standing n'est pas très élevé et c'est ce qui fait qu'on se sent direct « comme à la maison ». Le lieu est « circulant » : il y a plusieurs espaces différents qui communiquent plutôt bien entre eux. Il y a comme **une invitation à se l'approprier**.  
 
 Il n'y a pas de chambres individuelles. Ce sont des dortoirs de 2 à 8 lits. Les sanitaires (douches et WC) sont collectifs.  
 
@@ -63,11 +61,11 @@ En discussion avec le reste de la Thym, des petites inquiétudes pointent le bou
 
 Et en même temps, on s'accroche au travail qu'on a fait en amont : ces choix ont du sens puisqu'ils se mettent au service des valeurs de l'évènement et des retours des participant·e·s pendant les interviews et les rétrospectives.   
 
-Du coup, pour prendre soin de la communauté et la préparer au mieux, on choisit d'être entièrement transparents sur ces changements, on décide de faire tout notre possible pour pallier aux problématiques logistiques (on va réfléchir à des bus, fournir des itinéraires, inciter au covoiturage)… Et puis si on se pose les bonnes questions dans le bon sens, on itère et on continue à être créatifs. On arrivera à gérer… **ensemble**.
+Du coup, pour prendre soin de la communauté et la préparer au mieux, on choisit d'être entièrement transparents sur ces changements, on décide de faire tout notre possible pour pallier aux problématiques logistiques (on va réfléchir à des bus, fournir des itinéraires, inciter au covoiturage)… Et puis on se dit que si on se pose les bonnes questions dans le bon sens, qu'on itère et qu'on continue à être créatifs. On arrivera à gérer… **ensemble**.
 
 En conclusion les ami·e·s, tenez-vous prêt·e·s, cette édition 2018 sera inédite !
 
-
+* on a bien été aidés par le site [GrandGites.com](https://www.grandsgites.com/), top ! 
 
 
 

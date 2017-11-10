@@ -8,6 +8,7 @@ Cette année, on a choisi de s'appuyer un peu plus sur les valeurs pour faire no
 C'est comme ça qu'on a décidé, contrairement aux autres années, de chercher un lieu plutôt qu'un ville... Retour sur la procédure !"
 author: Julia Barbelane
 ---
+{% include figure.html name="2018/salon.jpg" caption="Atelier sur les valeurs" %}
 
 Cette année, on a choisi de s'appuyer un peu plus sur les valeurs pour faire nos choix.   
 C'est comme ça qu'on a décidé, contrairement aux autres années, de chercher un lieu plutôt qu'un ville... Retour sur la procédure !

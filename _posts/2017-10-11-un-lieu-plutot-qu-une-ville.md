@@ -1,5 +1,5 @@
 ---
-title: Un lieu plutôt qu'une ville
+title: Choisir un lieu plutôt qu'une ville...
 categories:
 - '2018'
 layout: post
@@ -10,7 +10,7 @@ author: Julia Barbelane
 ---
 {% include figure.html name="2018/paysage.jpeg" caption="Un lieu plutôt qu'un ville" %}
 
-Vous commencez à le comprends, cette année, ce sont nos valeurs qui déterminent nos choix. Donc, en toute logiqe, pour 2018, on a décidé, non pas de chercher une ville mais un lieu... Retour sur la procédure !
+Vous commencez à le comprendre, cette année, ce sont nos valeurs qui déterminent nos choix. Donc, en toute logiqe, pour 2018, on a décidé, non pas de chercher une ville mais un lieu... Retour sur la procédure !
 
 ## Privilégier le fond sur la forme
 

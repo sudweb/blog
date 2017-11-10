@@ -25,7 +25,7 @@ Bon, comme pour toutes les discussions de ce type, [ça a gratté](https://sudwe
 C'est comme ça qu'une vingtaine de gîtes, campings, hameaux plus tard, Erick et moi avons atteris en pleine cambrousse aux portes d'[Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N) un petite ville installée à l'entrée du Parc National des Cévennes...
 
 ## De la cambrousse et un centre de vacances
-On est accueilli·e·s par Aurélie pour visiter [le val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php).  
+On est accueilli·e·s par Aurélie pour visiter [le Val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php).  
 J'adore tout de suite ! On est reçu comme des potes : avec un grand sourire et beaucoup de simplicité. Aurélie est contente de nous rencontrer et s'enthousiasme d'emblée pour le projet.
 
 {% include figure.html name="2018/jardin.jpeg" caption="Le jardin pour des informels délicieux !" %}

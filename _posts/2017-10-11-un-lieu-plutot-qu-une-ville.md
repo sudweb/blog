@@ -22,7 +22,9 @@ Ce à quoi on a répondu ***"Ben un lieu dans lequel on pourrait vivre tous ense
 
 Bon, comme pour toutes les discussions de ce type, [ça a gratté](https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/). Ben oui, opter pour un endroit nous correspondant mieux, c'était aussi reconnaître que SudWeb est aujourd'hui davantage un évènement convivial qu'un évènement urbain. On a donc dû s'ouvrir à l'idée de s'éloigner un peu des villes...
 
-C'est comme ça qu'une vingtaine de gîtes, campings, hameaux plus tard, Erick et moi avons atteris en pleine cambrousse aux portes d'[Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N) un petite ville installée à l'entrée du Parc National des Cévennes...
+C'est comme ça qu'une vingtaine de gîtes, campings, hameaux plus tard[^1], Erick et moi avons atteris en pleine cambrousse aux portes d'[Anduze](http://www.openstreetmap.org/search?query=anduze#map=14/44.0540/3.9768&layers=N) un petite ville installée à l'entrée du Parc National des Cévennes...
+
+[^1]: On a bien été aidés par le site [GrandGites.com](https://www.grandsgites.com/).
 
 ## De la cambrousse et un centre de vacances
 On est accueilli·e·s par Aurélie pour visiter [le Val de l'Hort](http://valdelhort.com/galeries.de.photos-39.php).

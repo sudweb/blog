@@ -68,13 +68,13 @@ Bingo ! On avait notre solution : louer la salle polyvalente du village situé �
 
 ## Le parti pris du changement
 
-On le savait, changer la façon dont on allait co-construire cette édition 2018 allait forcément faire bouger les lignes… mais là, cette immersion au Val de l'Hort, c'est un sacré parti-pris !
+On le savait, changer la façon dont on allait construire cette édition 2018 allait forcément faire bouger les lignes… mais là, cette immersion au Val de l'Hort, c'est un sacré parti-pris !
 
 En discussion avec le reste de la Thym, des petites inquiétudes pointent le bout de leur nez : *"Et si la communauté n'adhére pas à ce changement ? Et si la localisation du lieu décourage les participants à venir ? Et si ce n'est pas assez confortable ?"*
 
 Et en même temps, on s'accroche au travail qu'on a fait en amont : ces choix ont du sens puisqu'ils se mettent au service des valeurs de l'évènement et des retours des participant·e·s pendant les interviews et les rétrospectives.
 
-Du coup, pour prendre soin de la communauté et la préparer au mieux, on choisit d'être entièrement transparents sur ces changements. On décide de faire tout notre possible pour pallier aux problématiques logistiques (on va réfléchir à des bus, fournir des itinéraires, inciter au covoiturage)…  
+Du coup, pour prendre soin de la communauté et la préparer au mieux, on choisit d'être entièrement transparents sur ces changements. On décide de faire tout notre possible pour pallier les problématiques logistiques (on va réfléchir à des bus, fournir des itinéraires, inciter au covoiturage)…  
 
 Et puis on se dit que si on se pose les bonnes questions dans le bon sens, qu'on itère et qu'on continue à être créatifs. On devrait arriver à gérer… **ensemble**.
 

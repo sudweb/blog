@@ -42,8 +42,8 @@ L'ambiance est vraiment celle des colonies de vacances, c'est sobre et familial.
 
 Il n'y a pas de chambres individuelles. Ce sont des chambres de 2 à 8 lits. Les sanitaires (douches et WC) sont collectifs.
 
-{% include figure.html name="2018/chambre.jpeg" caption="Le deuxième bâtiment" %}
-{% include figure.html name="2018/dortoirs.jpeg" caption="Le grand dortoir !" %}
+{% include figure.html name="2018/chambre.jpeg" caption="15 chambres de 2 à 4 lits" %}
+{% include figure.html name="2018/dortoirs.jpeg" caption="2 dortoirs de 8 et 9 lits" %}
 
 D'un côté on trouve ça génial, c'est simple et fun *« ça va être trop bon de vivre tous ensemble !»* et en même temps on se rend bien compte que c'est plutôt minime en terme de confort et d'intimité *« Comment faire pour celles et ceux qui ont besoin de solitude et d'espace ? »*.
 

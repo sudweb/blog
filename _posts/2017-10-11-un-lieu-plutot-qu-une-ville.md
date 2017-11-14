@@ -34,7 +34,6 @@ J'adore tout de suite ! On est reçu comme des potes : avec un grand sourire et 
 
 On découvre un grand jardin dans lequel plusieurs petits espaces se dessinent. Tables de ping-pong, coin pique-nique, parcelles d'herbe, terrain de basket...On s'y voit déjà *« Oh là ce sera parfait pour introduire le forum ouvert ! »*. On découvre aussi l'existence d'un chemin qui rejoint le centre ville en 15min à pied seulement. Trop chouette !
 
-{% include figure.html name="2018/chambre.jpeg" caption="Le deuxième bâtiment" %}
 {% include figure.html name="2018/chambres.jpeg" caption="Le deuxième bâtiment" %}
 
 ## RDV avec la simplicité et la convivialité
@@ -43,8 +42,8 @@ L'ambiance est vraiment celle des colonies de vacances, c'est sobre et familial.
 
 Il n'y a pas de chambres individuelles. Ce sont des chambres de 2 à 8 lits. Les sanitaires (douches et WC) sont collectifs.
 
+{% include figure.html name="2018/chambre.jpeg" caption="Le deuxième bâtiment" %}
 {% include figure.html name="2018/dortoirs.jpeg" caption="Le grand dortoir !" %}
-
 
 D'un côté on trouve ça génial, c'est simple et fun *« ça va être trop bon de vivre tous ensemble !»* et en même temps on se rend bien compte que c'est plutôt minime en terme de confort et d'intimité *« Comment faire pour celles et ceux qui ont besoin de solitude et d'espace ? »*.
 

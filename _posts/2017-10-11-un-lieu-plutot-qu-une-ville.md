@@ -47,7 +47,7 @@ Il n'y a pas de chambres individuelles. Ce sont des chambres de 2 à 8 lits. Les
 
 D'un côté on trouve ça génial, c'est simple et fun *« ça va être trop bon de vivre tous ensemble !»* et en même temps on se rend bien compte que c'est plutôt minime en terme de confort et d'intimité *« Comment faire pour celles et ceux qui ont besoin de solitude et d'espace ? »*.
 
-Deux-trois questions et un remuage de méninges plus tard, on avait déjà les premières solutions : **plantage de tentes, AirBnb, hôtels, création d'une interface qui permet de poser des options et des critères pour sa chambre (que des femmes, que des couche-tôt, entre potes)... étaient des propositions largement envisageables pour permettre à chaque participant·e·s de vivre Sud Web dans les meilleures conditions possibles pour lui ou elle.**
+Deux-trois questions et un remuage de méninges plus tard, on avait déjà les premières solutions : **plantage de tentes, AirBnb, hôtels, création d'une interface qui permet de poser des options et des critères pour sa chambre** (que des femmes, que des couche-tôt, entre potes)... étaient des propositions largement envisageables pour permettre à chaque participant·e·s de vivre Sud Web dans les meilleures conditions possibles pour lui ou elle.
 
 Ouf ! On allait pouvoir prendre soin de tout le monde !
 

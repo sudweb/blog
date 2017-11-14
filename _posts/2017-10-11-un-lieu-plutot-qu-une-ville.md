@@ -34,20 +34,21 @@ J'adore tout de suite ! On est reçu comme des potes : avec un grand sourire et 
 
 On découvre un grand jardin dans lequel plusieurs petits espaces se dessinent. Tables de ping-pong, coin pique-nique, parcelles d'herbe, terrain de basket...On s'y voit déjà *« Oh là ce sera parfait pour introduire le forum ouvert ! »*. On découvre aussi l'existence d'un chemin qui rejoint le centre ville en 15min à pied seulement. Trop chouette !
 
+{% include figure.html name="2018/chambre.jpeg" caption="Le deuxième bâtiment" %}
 {% include figure.html name="2018/chambres.jpeg" caption="Le deuxième bâtiment" %}
 
 ## RDV avec la simplicité et la convivialité
 
 L'ambiance est vraiment celle des colonies de vacances, c'est sobre et familial. Le standing n'est pas très élevé et c'est ce qui fait qu'on se sent direct « comme à la maison ». Le lieu est « circulant » : il y a plusieurs espaces différents qui communiquent plutôt bien entre eux. Il y a comme **une invitation à se l'approprier**.
 
-Il n'y a pas de chambres individuelles. Ce sont des dortoirs de 2 à 8 lits. Les sanitaires (douches et WC) sont collectifs.
+Il n'y a pas de chambres individuelles. Ce sont des chambres de 2 à 8 lits. Les sanitaires (douches et WC) sont collectifs.
 
 {% include figure.html name="2018/dortoirs.jpeg" caption="Le grand dortoir !" %}
 
 
 D'un côté on trouve ça génial, c'est simple et fun *« ça va être trop bon de vivre tous ensemble !»* et en même temps on se rend bien compte que c'est plutôt minime en terme de confort et d'intimité *« Comment faire pour celles et ceux qui ont besoin de solitude et d'espace ? »*.
 
-Deux-trois questions et un remuage de méninges plus tard, on avait déjà les premières solutions : plantage de tentes, AirBnb, hôtels, création d'une interface qui permet de poser des options et des critères pour sa chambre (que des femmes, que des couche-tôt, entre potes)... étaient des propositions largement envisageables pour permettre à chaque participant·e·s de vivre Sud Web dans les meilleures conditions possibles pour lui ou elle.
+Deux-trois questions et un remuage de méninges plus tard, on avait déjà les premières solutions : **plantage de tentes, AirBnb, hôtels, création d'une interface qui permet de poser des options et des critères pour sa chambre (que des femmes, que des couche-tôt, entre potes)... étaient des propositions largement envisageables pour permettre à chaque participant·e·s de vivre Sud Web dans les meilleures conditions possibles pour lui ou elle.**
 
 Ouf ! On allait pouvoir prendre soin de tout le monde !
 

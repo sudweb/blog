@@ -46,10 +46,10 @@ C’est la panse bien pleine qu’on rejoint l’espace de coworking Etincelle q
 
 {% include figure.html name="2018/post-it-atelier-valeurs.jpg" caption="Atelier sur les valeurs" %}
 
-On attaque l’atelier sur les valeurs. L’intention : plus que de reconnecter&#8239;/&#8239;faire ré-émerger les valeurs qu’on souhaite promouvoir dans Sud Web, il s’agit de s’entendre sur le sens qu’on leur donne et trouver notre commun. Rien de tel pour s’aligner, apprendre à se connaître et comprendre "là où l’autre en est".
+On attaque l’atelier sur les valeurs. L’intention : plus que de reconnecter&#8239;/&#8239;faire ré-émerger les valeurs qu’on souhaite promouvoir dans Sud Web, il s’agit de s’entendre sur le sens qu’on leur donne et trouver notre commun. Rien de tel pour s’aligner, apprendre à se connaître et comprendre "là où l’autre en est". 
 
 _Comment ça se passe ?_  
-Munis de post-it et de feutres chacun·e note les valeurs qui lui semblent importantes pour Sud Web. Ensuite chacun·e son tour, on explique ce qu’elles signifient pour nous. Dans un troisième temps, on en vire une première moitié, puis une seconde et ainsi de suite jusqu’à n’en garder que quatre.
+Munis de post-it et de feutres chacun·e note les valeurs qui lui semblent importantes pour Sud Web. Ensuite chacun·e son tour, on explique ce qu’elles signifient pour nous. Dans un troisième temps, on en vire une première moitié, puis une seconde et ainsi de suite jusqu’à n’en garder que quatre. En savoir plus sur l'[Arbrifest](https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/m%C3%A9thode.md)
 
 _Pourquoi quatre ?_  
 Parce que sinon ça fait trop. Et s’il y en a trop, c’est difficile d’en prendre vraiment soin.

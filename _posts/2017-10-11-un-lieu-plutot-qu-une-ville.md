@@ -8,9 +8,12 @@ Cette année, on a choisi de s'appuyer un peu plus sur les valeurs pour faire no
 C'est comme ça qu'on a décidé, contrairement aux autres années, de chercher un lieu plutôt qu'un ville... Retour sur la procédure !"
 author: Julia Barbelane
 ---
-{% include figure.html name="2018/paysage.jpeg" caption="Un lieu plutôt qu'un ville" %}
 
 Vous commencez à le comprendre, cette année, ce sont nos valeurs qui déterminent nos choix. Donc, en toute logique, pour 2018, on a décidé, non pas de chercher une ville mais un lieu... Retour sur la procédure !
+
+<!-- more -->
+
+{% include figure.html name="2018/paysage.jpeg" caption="Un lieu plutôt qu'un ville" %}
 
 ## Privilégier le fond sur la forme
 

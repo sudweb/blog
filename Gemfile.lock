@@ -129,6 +129,8 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-microtypo (0.1.2)
+      jekyll (>= 3.0, < 4.0)
     jekyll-optional-front-matter (0.1.2)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
@@ -258,9 +260,10 @@ DEPENDENCIES
   html-proofer
   jekyll-admin
   jekyll-livereload
+  jekyll-microtypo
   jekyll-redirect-from
   mdl (~> 0.3.1)
   therubyracer
 
 BUNDLED WITH
-   1.14.6
+   1.16.1

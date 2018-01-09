@@ -17,9 +17,9 @@ layout: microtypo
                   <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span> {% if page.categories %} • {% for category in page.categories %}
                   <a href="{{ site.baseurl }}/{{ category }}" rel="tag">Sud Web {{ category }}</a> {% endfor %} {% endif %}
                 </div>
-                <h2 class="post-title entry-title">
-                      {{ page.title }}
-                  </h2>
+                <h1 class="post-title entry-title">
+                    {{ page.title }}
+                </h1>
               </div>
 
             </div>

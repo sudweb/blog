@@ -5,12 +5,11 @@ categories:
 layout: post
 description: "Nous avons parlé valeurs. Désormais, parlons argent ! Et si nous alignions notre financement avec nos objectifs ?"
 author: Boris Schapira
-published: false
 ---
 
 Qu’on le veuille ou non, le prix d’une place est une composante importante d’un événement. Sud Web essaie bien souvent de sortir des considérations pécuniaires mais nous n’avions pas encore trouvé comment aligner notre financement avec nos idéaux et ce que nous nous voulions partager avec les participant·e·s.
 
-Cette année, cependant, nous avons décidé de tout remettre à plat. Nous avions déjà interrogé [nos valeurs](/blog/2018/un-we-pour-mieux-faire-ensemble/), pourquoi ne pas faire de même avec notre financement ?
+Cette année, cependant, nous avons décidé de tout remettre à plat. Nous avons déjà interrogé [nos valeurs](/blog/2018/un-we-pour-mieux-faire-ensemble/), pourquoi ne pas faire de même avec notre financement ? À l'heure de l'ouverture de [l'appel à sujets](https://sudweb.fr/2018/appel-a-sujets/) et quelques jours avant l'ouverture des inscriptions, il nous semblait important de faire un point.
 
 Pas le temps de lire ? Il y a [un résumé à la fin](#tldr).
 

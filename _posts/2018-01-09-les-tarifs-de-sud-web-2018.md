@@ -69,7 +69,7 @@ Qu’on soit particulier ou entreprise, la contrepartie de ce financement collab
 
 ## Pourquoi ne pas réserver des places pour la diversité
 
-Au sein de la Thym, les discussions autour de l’inclusivité et de la diversité ont été nombreuses. L’expérience de [financement de la diversité de DTC Innovation](https://dtc-innovation.org/writings/2017/sponsoring-diversite) faisait vraiment vibrer l’équipe mais personne ne se sentait à l’aise avec l’étape de sélection des postulant·e·s.
+Au sein de la Thym, les discussions autour de l’inclusivité et de la diversité ont été nombreuses. L’expérience de [financement de la diversité de _dtc innovation_](https://dtc-innovation.org/writings/2017/sponsoring-diversite) faisait vraiment vibrer l’équipe mais personne ne se sentait à l’aise avec l’étape de sélection des postulant·e·s.
 
 Nous avons donc décidé d’encourager la diversité en proposant aux donateurs d’un don supérieur à 200 € de nous dire ce qu’elles ou ils souhaitent que nous fassions de la place à tarif réduit ainsi débloquée.
 

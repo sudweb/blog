@@ -3,6 +3,7 @@ title: Retrouver nos vidéos sur Vimeo
 date: 2012-04-19 00:00:00 +02:00
 categories:
 - '2012'
+locale: fr_FR
 author: Sud Web
 ---
 

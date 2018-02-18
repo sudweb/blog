@@ -3,6 +3,7 @@ title: Choix éditoriaux et sélection des sujets
 date: 2013-03-23 00:00:00 +01:00
 categories:
 - '2013'
+locale: fr_FR
 author: Loïc Mathaud
 ---
 

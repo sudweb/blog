@@ -3,6 +3,7 @@ title: Soirée communautaire à Avignon
 date: 2013-04-30 00:00:00 +02:00
 categories:
 - '2013'
+locale: fr_FR
 author: Loïc Mathaud
 ---
 

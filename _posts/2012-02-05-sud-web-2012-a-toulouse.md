@@ -3,6 +3,7 @@ title: Sud Web en 2012 c’est à Toulouse !
 date: 2012-02-05 00:00:00 +01:00
 categories:
 - '2012'
+locale: fr_FR
 author: Sud Web
 ---
 

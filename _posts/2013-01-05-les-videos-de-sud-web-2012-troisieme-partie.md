@@ -3,6 +3,7 @@ title: 'Les vidéos de Sud Web 2012 : troisième partie'
 date: 2013-01-05 00:00:00 +01:00
 categories:
 - '2012'
+locale: fr_FR
 author: Frank Taillandier
 ---
 

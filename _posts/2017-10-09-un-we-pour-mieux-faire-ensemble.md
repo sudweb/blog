@@ -3,7 +3,7 @@ title: Un week-end pour se jauger et mieux faire ensemble
 date: 2017-10-09 22:00:00 +01:00
 categories:
 - '2018'
-layout: post
+locale: fr_FR
 description: "Fin septembre, toute la Thym s'est retrouvée à Toulouse. Pour moi qui suis nouvelle c'était un moment important. Est-ce que ça allait matcher aussi dans la vraie vie ?"
 author: Julia Barbelane
 ---

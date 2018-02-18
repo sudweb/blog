@@ -3,6 +3,7 @@ title: Bénéficier du DIF
 date: 2014-02-20 00:00:00 +01:00
 categories:
 - '2014'
+locale: fr_FR
 author: Nathalie Rosenberg
 ---
 
@@ -32,4 +33,4 @@ SIRET : 50365420400034.
 
  [1]: http://www.smartview.fr
  [2]: http://sudweb.fr/2014/inscription.html
- [3]: http://sudweb.fr/blog/contact/ "Contact"
+ [3]: {{ site.contact }} "Contact"

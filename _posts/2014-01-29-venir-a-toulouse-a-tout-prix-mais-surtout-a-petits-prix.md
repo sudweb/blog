@@ -3,6 +3,7 @@ title: Venir à Toulouse à petits prix
 date: 2014-01-29 00:00:00 +01:00
 categories:
 - '2014'
+locale: fr_FR
 author: Nathalie Rosenberg
 ---
 

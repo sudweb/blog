@@ -3,6 +3,7 @@ title: Venir à Avignon
 date: 2013-03-01 00:00:00 +01:00
 categories:
 - '2013'
+locale: fr_FR
 author: Nathalie Rosenberg
 ---
 

@@ -2,24 +2,14 @@
 layout: microtypo
 ---
 
-{% include head.html %}
-
-<body class="ltr fr_FR home blog paged">
-  {% include header.html %}
-  <div id="container">
-    <div class="wrap">
-
-      <div id="main">
-        {{ content }}
-      </div>
-
-    </div>
-  </div>
+{% assign locale = page.locale | default: site.locale %}{% assign lang = locale | slice: 0,2 %}{% assign thym = site.data.thym_members | sort: "slug" %}{% include head.html %}
+<body>
+  {% include header-page.html %}
+  {% include navigation.html %}
+  {{ content }}
   {% include footer.html %}
-  <script src="{{ site.baseurl }}/assets/js/instantclick.min.js" data-no-instant></script>
-  <script data-no-instant>
-    InstantClick.init();
-  </script>
+  {% include scripts.html %}
+  {% include schema.html %}
+  {% include serviceworkers.html %}
 </body>
-
 </html>

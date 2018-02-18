@@ -3,6 +3,7 @@ title: Entretien avec Anthony Ricaud
 date: 2012-05-09 00:00:00 +02:00
 categories:
 - '2012'
+locale: fr_FR
 author: Frank Taillandier
 ---
 

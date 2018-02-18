@@ -1,60 +1,91 @@
----
+# Site configuration
+
 title: Le blog de Sud Web
 timezone: Europe/Paris
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    comments: true
-description: Blog de Sud Web, la conférence super-humaine
+
 url: https://sudweb.fr
 repository: sudweb/blog
-baseurl: "/blog"
-port: 4000
+baseurl: /blog
+destination: _site/blog
+locale: fr_FR
+contact: https://sudweb.fr/2018/contact
+logo: https://sudweb.fr/blog/assets/images/social/sudweb-logo.jpg
+lazyload:
+  placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+compress_html:
+  ignore:
+    envs:
+      - 'development'
+
+## SEO
+
+robots: index,follow
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+defaults:
+  -
+    scope:
+      path: "pages"
+      type: pages
+    values:
+      locale: fr_FR
+      layout: default
+  -
+    scope:
+      path: "pages/en"
+      type: pages
+    values:
+      baseurl: "/blog/en"
+      locale: en_US
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: post
+
 permalink: "/:categories/:title/"
-paginate_path: "/page/:num/"
-paginate: 5
-kramdown:
-  auto_ids: true
-  toc_levels: 1..6
-  entity_output: as_char
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  input: GFM
-  hard_wrap: false
-  footnote_nr: 1
-logo: assets/images/logo-sudweb.png
-twitter:
-  username: sudweb
-analytics:
-  google:
-    tracking_id: UA-22076213-1
-prose:
-  rooturl: 2017/_posts
-  siteurl: https://sudweb.fr/blog/
-  relativeLinks: https://sudweb.fr/blog/links.jsonp
-  media: assets/images
-gems:
-- jekyll-feed
-- jekyll-github-metadata
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
-- jemoji
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+logo: /assets/images/twittercard.png
+
+microtypo:
+  median: true
+
+include:
+  - _headers
+
 exclude:
-- Gemfile
-- Gemfile.lock
-- Procfile
-- README.md
-- script
-- vendor
+  - .editorconfig
+  - .gitattributes
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - autoprefixer.yml
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - gems
+  - tmp
+  - LICENSE
+  - README.md
+  - notes-integration.md
+  - script
+  - vendor
+  - "Rakefile"
+  - "gulpfile.js"
+  - "node_modules"
+  - "package.json"
+  - "package-lock.json"

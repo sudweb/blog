@@ -1,40 +1,19 @@
 ---
-layout: microtypo
+layout: default
 ---
+{% if page.category %}
+    {% assign cats_eyes = page.category|size %}
+    {% if cats_eyes > 0 %}{% assign has_cat = true %}{% else %}{% assign has_cat = false %}{% endif %}
+{% endif %}{% if page.locale %}
+    {% assign locale_size = page.locale|size %}
+    {% if locale_size > 0 %}{% assign has_locale = true %}{% else %}{% assign has_locale = false %}{% endif %}
+{% endif %}{% if page.url %}
+    {% assign the_url = page.url %}
+{% else %}
+    {% assign the_url = site.url %}
+{% endif %}<section class="posts" aria-label="{% t Tous les articles %}" >
 
-{% include head.html %}
+    {% include post.html post=page %}
 
-<body class="singular singular-post page-template-fullwidth">
-  {% include header.html %}
-  <div id="container">
-    <div class="wrap">
-      <div id="main">
-        <div id="content">
-          <div class="hfeed">
-            <div id="post-" class="hentry post publish">
-              <div class="sticky-header">
-                <div class="byline">
-                  <time class="published">{% include fr_date.html date=page.date %}</time> par <span class="author vcard">{{ page.author }}</span> {% if page.categories %} • {% for category in page.categories %}
-                  <a href="{{ site.baseurl }}/{{ category }}" rel="tag">Sud Web {{ category }}</a> {% endfor %} {% endif %}
-                </div>
-                <h1 class="post-title entry-title">
-                    {{ page.title }}
-                </h1>
-              </div>
-
-            </div>
-            <div class="entry-content">
-              {{ content }}
-            </div>
-          </div>
-          {% if page.comments %} {% include comments.html %} {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-  {% include footer.html %}
-
-  <script id="dsq-count-scr" src="//sudweb.disqus.com/count.js" async></script>
-</body>
-
-</html>
+    {% include pagination.html %}
+</section>

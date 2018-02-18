@@ -3,6 +3,7 @@ title: Sud Web 2014 à Toulouse
 date: 2013-12-09 00:00:00 +01:00
 categories:
 - '2014'
+locale: fr_FR
 author: Loïc Mathaud
 ---
 

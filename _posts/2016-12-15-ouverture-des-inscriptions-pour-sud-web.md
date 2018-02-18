@@ -3,7 +3,7 @@ title: Ouverture des inscriptions pour Sud Web
 date: 2016-12-15 10:21:30 +01:00
 categories:
 - '2017'
-layout: post
+locale: fr_FR
 description: Les inscriptions pour Sud Web, les 19 et 20 mai 2017 à Aix-en-Provence
   sont ouvertes.
 author: Frank Taillandier

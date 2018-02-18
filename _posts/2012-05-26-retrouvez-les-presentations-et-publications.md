@@ -3,6 +3,7 @@ title: Retrouvez les présentations et publications
 date: 2012-05-26 00:00:00 +02:00
 categories:
 - '2012'
+locale: fr_FR
 author: Sud Web
 ---
 

@@ -3,6 +3,7 @@ title: Les hérauts de Sud Web
 date: 2013-05-09 00:00:00 +02:00
 categories:
 - '2013'
+locale: fr_FR
 author: Frank Taillandier
 ---
 

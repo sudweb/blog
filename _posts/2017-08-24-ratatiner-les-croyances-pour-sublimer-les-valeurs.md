@@ -3,7 +3,7 @@ title: Ratatiner les croyances pour sublimer les valeurs
 date: 2017-08-24 15:00:50 +01:00
 categories:
 - '2018'
-layout: post
+locale: fr_FR
 description: Retours sur la création et le déroulement des interviews menées par une partie de la Thym
 author: Julia Barbelane (avec Erick Gardin)
 ---

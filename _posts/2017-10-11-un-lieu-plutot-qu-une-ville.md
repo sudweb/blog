@@ -2,7 +2,7 @@
 title: Choisir un lieu plutôt qu'une ville...
 categories:
 - '2018'
-layout: post
+locale: fr_FR
 description: "
 Cette année, on a choisi de s'appuyer un peu plus sur les valeurs pour faire nos choix.   
 C'est comme ça qu'on a décidé, contrairement aux autres années, de chercher un lieu plutôt qu'un ville... Retour sur la procédure !"

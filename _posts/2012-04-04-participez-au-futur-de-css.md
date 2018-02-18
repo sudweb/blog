@@ -3,6 +3,7 @@ title: Participez au futur de CSS
 date: 2012-04-04 00:00:00 +02:00
 categories:
 - '2012'
+locale: fr_FR
 author: Frank Taillandier
 ---
 

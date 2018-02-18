@@ -3,6 +3,7 @@ title: 69 mois de Sud Web
 date: 2016-06-20 00:00:00 +02:00
 categories:
 - '2016'
+locale: fr_FR
 description: Thomas revient sur ce qu'il a appris et réussi à accomplir en près de
   six années d'organisation bénévole de Sud Web.
 author: Thomas Parisot

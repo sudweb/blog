@@ -3,6 +3,7 @@ title: Sud Web 2013 c'est fini
 date: 2013-05-21 00:00:00 +02:00
 categories:
 - '2013'
+locale: fr_FR
 author: Nathalie Rosenberg
 ---
 

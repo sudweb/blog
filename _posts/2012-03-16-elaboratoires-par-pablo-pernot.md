@@ -3,6 +3,7 @@ title: Les élaboratoires vus par Pablo Pernot
 date: 2012-03-16 00:00:00 +01:00
 categories:
 - '2012'
+locale: fr_FR
 author: Sud Web
 ---
 

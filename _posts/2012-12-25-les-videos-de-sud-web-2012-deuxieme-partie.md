@@ -3,6 +3,7 @@ title: 'Les vidéos de Sud Web 2012 : deuxième partie'
 date: 2012-12-25 00:00:00 +01:00
 categories:
 - '2012'
+locale: fr_FR
 author: Frank Taillandier
 ---
 

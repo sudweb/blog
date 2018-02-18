@@ -1,89 +1,98 @@
-# sudweb.fr/blog [![Build Status](https://travis-ci.org/sudweb/blog.svg)](https://travis-ci.org/sudweb/blog)
+# Le blog de Sud Web
 
-Les actualités de Sud Web… et toutes les contributions que vous auriez envie
-de mettre à la vue de toutes et tous !
+[![Build Status](https://travis-ci.org/sudweb/2018.svg?branch=master)](https://travis-ci.org/sudweb/2018)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sud-web/sud-web)
 
-## Installer
+Site internet du cycle de conférences annuel Sud Web, dont la 7e édition aura lieu à Anduze les 25 et 26 mai 2018.
 
-Vous devez avoir Ruby sur votre machine — idéalement [rbenv](http://rbenv.org/)
+[https://sudweb.fr/](https://sudweb.fr/)
+
+## Pré-requis
+
+Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.4.0 (voir `.ruby-version`)
+
+Nous vous recommandons de gérer l'installation de Ruby via [rbenv](http://rbenv.org/).
+
+Sous Mac OS X, vous pouvez utiliser [Homebrew](http://brew.sh/) pour cela
+```bash
+$ brew install rbenv ruby-build
+```
+
+Sous GNU/Linux, certaines librairies sont nécessaires (à adapter à votre gestionnaire de paquets) :
+```bash
+sudo apt-get install -y libreadline-dev build-essential
+```
+Puis pour rbenv et ruby-build, préférer une installation par git :
+```bash
+$ git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+$ cd ~/.rbenv && src/configure && make -C src
+$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+$ git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+```
+
+## Installation
+
+Si vous n'avez pas déjà cloné le dépot :
+```bash
+$ git clone https://github.com/sudweb/2018.git && cd 2018
+```
+Si bundler n'est pas installé
+```bash
+$ gem install bundler
+```
+Pour installer toutes les dépendances du projet :
+```bash
+$ bundle install;
+$ bundle exec rake prebuild:install;
+```
+Pour installer la bonne version de Ruby avec rbenv :
+```bash
+$ rbenv install
+```
+
+## Travailler en local
+
+Pour travailler sur le site et surveiller les modifications :
 
 ```bash
-git clone https://github.com/sudweb/blog.git sudweb-blog
-cd sudweb-blog
-
-# installe la version Ruby adéquate
-rbenv install
-
-# installe les dépendances du projet
-rbenv exec bundle install
+$ bundle exec rake build:serve
 ```
 
-## Développer localement
-
-Lancez Jekyll en local :
+Pour builder pour le Dév
 
 ```bash
-rbenv exec foreman start
+$ bundle exec rake build:dev
 ```
 
-Vous pouvez maintenant prévisualiser le site à l'adresse  [localhost:4000/blog](http://localhost:4000/blog/).
-
-## Publier des modifications
-
-Créer une branche de travail, enregistrez vos modifications et [ouvrez une pull request](https://github.com/sudweb/blog/pulls)
-
-## Rédiger un billet
-
-Créer un nouveau fichier markdown dans un dossier du type `/2016/_posts/`
-en respectant la nomenclature suivante : `YYYY-MM-DD-titre-fr-mon-billet.md`
-
-Si vous le souhaitez, vous pouvez renseigner les entêtes YAML suivantes :
-
-```yaml
----
-title: Titre du billet
-description: Description en moins de 150 caractères du contenu du billet.
-author: Prénom Nom
-categories:
-# Affecter le billet à la catégorie correspondante à l'année de l'édition
-- 'YYYY'
-# Image pour les partages sur les réseaux sociaux
-image: /assets/images/image-opengraph-billet.jpg
----
-```
-
-Par défaut les commentaires Disqus sont ouverts, mais peuvent-être désactivés
- en ajoutant une entête YAML `comments: false`.
-
-Vous pouvez ensuite rédiger votre billet dans votre éditeur Markdown favori.
-Si vous n'êtes pas encore familarisé avec cette syntaxe, [reportez vous à la documentation](https://guides.github.com/features/mastering-markdown/).
-
-Pour ajouter une image dans un billet, déposez votre image dans le
-répertoire `/assets/images/` et faites appel à l'include `figure.html`
-dans le fichier Markdown :
-
-```liquid
-{% include figure.html name="sudweb-2012-bruce-lawson.jpg"
-caption="Bruce Lawson à Toulouse" %}
-```
-
-## Lancer les tests
-
-Des tests basiques sont là pour vous aider à vérifier que les fichiers
-respectent bien les [régles](https://github.com/mivok/markdownlint/blob/master/docs/RULES.md)
-définies dans le fichier de configuration du linter et qu'il n'y a aucun lien mort.
-
-Pour lancer les tests il suffit de lancer la commande suivante :
+Pour builder pour la Production
 
 ```bash
-script/cibuild
+$ bundle exec rake build:prod
 ```
 
-Quand les tests sont OK, vous pouvez ouvrir une PR, c'est à dire demander
-à fusionner votre brancge sur la branche `gh-pages`. Vous pouvez ainsi demander
- à un autre membre de l'équipe de relire vos modifications avant de les fusionner.
+Si vous modifiez le fichier `_config.yml`, il faut couper et relancer.
 
-## Déploiement
+Le site est maintenant accessible en local à l'adresse http://127.0.0.1:4000/ (dev).
 
-Le site est hébergé par Github Pages, et sera donc mis à jour automatiquement
-à chaque PR fusionnée sur la branche `gh-pages`.
+Pour plus d'information sur l'utilisation de Jekyll, reportez-vous à la [documentation officielle](http://jekyllrb.com/docs/home/).
+
+
+## Contribution
+
+Pour toute demande, merci de [créer une issue](https://github.com/sudweb/2018/issues/new) sur GitHub.
+
+Si vous souhaitez nous aider, vous pouvez [copier](https://help.github.com/articles/fork-a-repo/) le dépôt, faire vos modifications dans une nouvelle branche et [faire une demande de fusion](https://github.com/sudweb/2018/pulls).
+
+Toute modification doit faire l'objet d'une [pull request](https://github.com/sudweb/2018/pulls) et doit passer les tests avant de pouvoir être fusionnée.
+
+## Tests
+
+Avant de soumettre votre pull-request, vérifiez que les tests passent :
+
+```bash
+$ bundle exec rake postbuild:test:kiss
+```
+
+## Licence
+
+Ce code est publié sous licence MIT.

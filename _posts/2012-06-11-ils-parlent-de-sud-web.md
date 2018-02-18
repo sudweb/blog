@@ -3,6 +3,7 @@ title: Ils parlent de Sud Web 2012
 date: 2012-06-11 00:00:00 +02:00
 categories:
 - '2012'
+locale: fr_FR
 author: Sud Web
 ---
 

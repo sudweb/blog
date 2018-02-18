@@ -3,7 +3,7 @@ title: Designer une journée de conférences
 date: 2017-02-20 03:50:50 +01:00
 categories:
 - '2017'
-layout: post
+locale: fr_FR
 description: Afin d'obtenir un programme à la fois original, inclusif et cohérent,
   nous procédons à une curation collective en amont puis à une sélection parmi les
   sujets reçus.
@@ -50,7 +50,7 @@ Nous gardons les pieds sur terre et si nous privilégions les expériences vécu
 
 ## Une curation collective
 
-Nous avons continué à faire de la curation de conférences après [le départ de Thomas]({% post_url 2016-06-20-69-mois-de-sud-web %}). Ainsi c'est chaque membre de l’équipe propose des opportunités de sujets et d'orateurs, avec des sensibilités des domaines de prédilection qui leur sont propre. Cela ne pouvait que contribuer qu’à construire une journée de conférences transversale et enrichissante à plus d'un titre.
+Nous avons continué à faire de la curation de conférences après [le départ de Thomas]({{ "/2016/69-mois-de-sud-web/" | relative_url }}). Ainsi c'est chaque membre de l’équipe propose des opportunités de sujets et d'orateurs, avec des sensibilités des domaines de prédilection qui leur sont propre. Cela ne pouvait que contribuer qu’à construire une journée de conférences transversale et enrichissante à plus d'un titre.
 
 La plupart des membres de l’équipe d’organisation se sont naturellement impliqués à ce niveau, en essayant d'aller chercher des sujets dont on ne parle pas assez ailleurs et des personnes qu'on ne connaît pas forcément.
 

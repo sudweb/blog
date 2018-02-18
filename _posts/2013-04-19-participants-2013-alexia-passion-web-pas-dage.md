@@ -3,6 +3,7 @@ title: Alexia, la passion du web n'a pas d'âge
 date: 2013-04-19 00:00:00 +02:00
 categories:
 - '2013'
+locale: fr_FR
 author: Loïc Mathaud
 ---
 

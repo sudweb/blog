@@ -3,6 +3,7 @@ title: Ouverture des inscriptions
 date: 2016-01-08 00:00:00 +01:00
 categories:
 - '2016'
+locale: fr_FR
 description: Les inscriptions pour Sud Web 2016 à Bordeaux sont ouvertes.
 author: Sud Web
 ---

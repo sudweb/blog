@@ -3,6 +3,7 @@ title: Les questions à l&rsquo;ombre du vendredi (#main:after)
 date: 2012-03-29 00:00:00 +02:00
 categories:
 - '2012'
+locale: fr_FR
 author: Frank Taillandier
 ---
 

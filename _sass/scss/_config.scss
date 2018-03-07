@@ -64,6 +64,7 @@ $main-title-font-style      : normal;
 $title-font-family          : "Roboto", arial, sans-serif;
 $title-font-weight          : $font-weight-light;
 $title-font-style           : normal;
+$title-line-height          : 1.2;
 
 $nav-font-family            : "Roboto", arial, sans-serif;
 $nav-font-weight            : $font-weight-light;
@@ -100,7 +101,7 @@ $font-sizes                 : ((
 
 $label-font-size            : .875em;
 
-$input-vmargin              : 0;
+$input-vmargin              : .125em;
 $input-hmargin              : 0;
 $input-vpadding             : .25em;
 $input-hpadding             : .5em;
@@ -116,3 +117,8 @@ $default-timing-function    : ceaser(easeInOutQuart);
 
 $nav-toggle-duration        : .5s;
 $nav-toggle-timing-function : ceaser(easeOutCubic);
+
+
+// Banners slugs
+
+$banners                  : ('bambouseraie', 'forum', 'chemin', 'station', 'conference', 'informelle', 'along', 'hands', 'rocher', 'tornac', 'train');

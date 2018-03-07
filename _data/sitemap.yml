@@ -8,7 +8,7 @@
   value: https://sudweb.fr/2018/
   in_nav: true
   in_footer: true
-- name: Témoignages des participant·e·s
+- name: Témoignages
   type: page
   value: temoignages
   in_nav: true
@@ -19,8 +19,8 @@
   in_nav: false
   in_footer: true
 - name: Contact
-  type: url
-  value: https://sudweb.fr/2018/contact
+  type: page
+  value: contact
   in_nav: true
   in_footer: true
 - name: Mentions légales

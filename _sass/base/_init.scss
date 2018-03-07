@@ -27,6 +27,10 @@ audio, canvas, iframe, img, video {
 	vertical-align: middle;
 }
 
+ul {
+  list-style-type: circle;
+}
+
 fieldset {
 	margin: 0; padding: 0;
 	border: 0;
@@ -50,12 +54,17 @@ abbr[title] {
 	text-decoration: none;
 }
 
-blockquote {
+blockquote,
+address {
   padding: $global-gutters/2 0 $global-gutters/2 $global-gutters;
   border-left: .25em solid $blockquote-border-color;
   font-style: italic;
   p {
     margin: 0;
+  }
+
+  &.other-lang {
+    border-left-color: lighten($blockquote-border-color, 20);
   }
 }
 

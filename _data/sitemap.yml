@@ -1,11 +1,16 @@
-- name: Accueil du blog
+- name: Notre blog
   type: root_anchor
   value: ""
   in_nav: true
   in_footer: false
-- name: Site de l'édition
+- name: Site de l'édition 2018
   type: url
   value: https://sudweb.fr/2018/
+  in_nav: true
+  in_footer: true
+- name: Témoignages des participant·e·s
+  type: page
+  value: temoignages
   in_nav: true
   in_footer: true
 - name: Aider Sud Web

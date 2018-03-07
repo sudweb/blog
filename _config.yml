@@ -48,7 +48,7 @@ defaults:
     values:
       layout: post
 
-permalink: "/:category/:title/"
+permalink: "/:categories/:title/"
 
 pagination:
   enabled: true

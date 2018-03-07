@@ -54,7 +54,7 @@ Nous sommes parfaitement conscients que ce fonctionnement de type "village-vacan
 
 Nous voulons que chacun·e se sente à son aise, c’est pourquoi la Thym s’est assurée qu’une offre alternative et diverse existait. De la tente plantée dans le terrain aux locations alentours (nous avons listé quelques références sur notre page d’accueil), nous pensons sincèrement qu’il existe des solutions pour tout le monde.
 
-## Un cagnotte pour financer des places à tarif réduit
+## Une cagnotte pour financer des places à tarif réduit
 
 Fini le partenariat limité aux entreprises : cette année, vous pourrez tou·te·s être partenaires de Sud Web. Qui que vous soyez, vous pourrez contribuer à une cagnotte globale permettant à l’événement d’atteindre son seuil de rentabilité. Mais pas que.
 

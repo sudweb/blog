@@ -6,6 +6,7 @@ require 'json'
 require 'yaml'
 
 namespace :prebuild do
+  task npm: ['npm:install', 'npm:build']
   task test: ['test:doctor', 'test:pages']
 
   namespace :test do
@@ -33,9 +34,19 @@ namespace :prebuild do
     end
   end
 
+  desc 'Install node dependencies'
+  task :install do
+    npm('install')
+  end
+
 
   # launch jekyll
   def jekyll(directives = '')
     sh 'jekyll ' + directives
+  end
+
+  # launch npm
+  def npm(directives = '')
+    sh 'npm ' + directives
   end
 end

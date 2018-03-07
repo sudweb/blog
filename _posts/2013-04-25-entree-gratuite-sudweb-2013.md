@@ -1,8 +1,7 @@
 ---
 title: Gagnez une place gratuite pour Sud Web 2013 !
 date: 2013-04-25 00:00:00 +02:00
-categories:
-- '2013'
+category: '2013'
 locale: fr_FR
 author: Rudy Rigot
 ---

@@ -1,8 +1,7 @@
 ---
 title: 'Les vidéos de Sud Web 2012 : quatrième partie'
 date: 2013-01-13 00:00:00 +01:00
-categories:
-- '2012'
+category: '2012'
 locale: fr_FR
 author: Frank Taillandier
 ---

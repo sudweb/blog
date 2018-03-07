@@ -1,8 +1,7 @@
 ---
 title: Ils parlent de Sud Web 2011
 date: 2011-05-30 00:00:00 +02:00
-categories:
-- '2011'
+category: '2011'
 locale: fr_FR
 author: Sud Web
 ---

@@ -1,8 +1,7 @@
 ---
 title: Un bus depuis Toulouse ?
 date: 2013-02-07 00:00:00 +01:00
-categories:
-- '2013'
+category: '2013'
 locale: fr_FR
 author: Nathalie Rosenberg
 ---

@@ -1,8 +1,7 @@
 ---
 title: Pourquoi WS Interactive soutient Sud Web
 date: 2013-04-17 00:00:00 +02:00
-categories:
-- '2013'
+category: '2013'
 locale: fr_FR
 author: Frank Taillandier
 ---

@@ -1,8 +1,7 @@
 ---
 title: Appel à orateurs
 date: 2015-12-08 00:00:00 +01:00
-categories:
-- '2016'
+category: '2016'
 locale: fr_FR
 description: L'appel à orateurs pour Sud Web 2016 à Bordeaux est ouvert jusqu'au 5
   février

@@ -1,8 +1,7 @@
 ---
 title: Programme et ouverture des inscriptions
 date: 2013-01-31 00:00:00 +01:00
-categories:
-- '2013'
+category: '2013'
 locale: fr_FR
 author: Loïc Mathaud
 ---

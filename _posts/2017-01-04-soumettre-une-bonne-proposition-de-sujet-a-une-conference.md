@@ -1,8 +1,7 @@
 ---
 title: Soumettre une bonne proposition de sujet à une conférence
 date: 2017-01-04 14:54:50 +01:00
-categories:
-- '2017'
+category: '2017'
 locale: fr_FR
 description: Les questions à se poser et tous les conseils pour bien préparer sa proposition
   afin qu'elle ait toutes les chances d'être acceptée.

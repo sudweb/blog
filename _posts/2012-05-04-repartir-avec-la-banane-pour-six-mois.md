@@ -1,8 +1,7 @@
 ---
 title: Repartir avec la banane pour six mois
 date: 2012-05-04 00:00:00 +02:00
-categories:
-- '2012'
+category: '2012'
 locale: fr_FR
 author: Sud Web
 ---

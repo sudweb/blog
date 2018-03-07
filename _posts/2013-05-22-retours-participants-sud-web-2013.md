@@ -1,8 +1,7 @@
 ---
 title: Les retours de Sud Web 2013
 date: 2013-05-22 00:00:00 +02:00
-categories:
-- '2013'
+category: '2013'
 locale: fr_FR
 author: Nathalie Rosenberg
 ---

@@ -1,8 +1,7 @@
 ---
 title: Le programme de Sud Web 2014
 date: 2014-03-10 00:00:00 +01:00
-categories:
-- '2014'
+category: '2014'
 locale: fr_FR
 author: Frank Taillandier
 ---

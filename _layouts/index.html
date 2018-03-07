@@ -12,10 +12,24 @@ layout: default
 {% else %}
     {% assign the_url = site.url %}
 {% endif %}<section class="posts" aria-label="{% t Tous les articles %}" >
-
+    {% assign current_edition = '' %}
     {% for post in paginator.posts %}
+      {% if current_edition == '' %}
+        {% assign current_edition = post.category %}
+      {% else %}
+        {% if post.category == current_edition %}
+        <div class="wrapper">
+          <hr>
+        </div>
+        {% else %}
+          {% assign current_edition = post.category %}
+          {% include banners/bambouseraie.html locale=page.locale %}
+        {% endif %}
+      {% endif %}
       {% include post-summary.html post=post %}
     {% endfor %}
-
+    <div class="wrapper">
+        <hr>
+      </div>
     {% include pagination.html %}
 </section>

@@ -1,8 +1,7 @@
 ---
 title: Sud Web 2015 à Montpellier
 date: 2015-02-02 00:00:00 +01:00
-categories:
-- '2015'
+category: '2015'
 locale: fr_FR
 author: Nathalie Rosenberg
 ---

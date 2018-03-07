@@ -1,8 +1,7 @@
 ---
 title: Designer une journée de conférences
 date: 2017-02-20 03:50:50 +01:00
-categories:
-- '2017'
+category: '2017'
 locale: fr_FR
 description: Afin d'obtenir un programme à la fois original, inclusif et cohérent,
   nous procédons à une curation collective en amont puis à une sélection parmi les

@@ -1,7 +1,6 @@
 ---
 title: Les tarifs de Sud Web 2018
-categories:
-- '2018'
+category: '2018'
 locale: fr_FR
 description: "Nous avons parlé valeurs. Désormais, parlons argent ! Et si nous alignions notre financement avec nos objectifs ?"
 author: Boris Schapira

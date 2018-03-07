@@ -1,8 +1,7 @@
 ---
 title: Making of de l'identité de Sud Web
 date: 2017-05-29 20:00:00 +01:00
-categories:
-- '2017'
+category: '2017'
 locale: fr_FR
 description: "Alors que la Thym se réunit pour parler de Sud Web 2018, prenons un moment pour apprécier l'identité visuelle qui nous accompagne depuis plusieurs années"
 author: Enza Chaffron

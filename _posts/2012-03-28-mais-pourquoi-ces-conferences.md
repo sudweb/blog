@@ -1,8 +1,7 @@
 ---
 title: Mais pourquoi ces conférences ?
 date: 2012-03-28 00:00:00 +02:00
-categories:
-- '2012'
+category: '2012'
 locale: fr_FR
 author: Sud Web
 ---

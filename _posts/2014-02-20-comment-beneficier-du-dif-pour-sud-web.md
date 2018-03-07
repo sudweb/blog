@@ -1,8 +1,7 @@
 ---
 title: Bénéficier du DIF
 date: 2014-02-20 00:00:00 +01:00
-categories:
-- '2014'
+category: '2014'
 locale: fr_FR
 author: Nathalie Rosenberg
 ---

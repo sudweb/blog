@@ -4,7 +4,7 @@ date: 2017-08-24 15:00:50 +01:00
 category: '2018'
 locale: fr_FR
 description: Retours sur la création et le déroulement des interviews menées par une partie de la Thym
-author: Julia Barbelane (avec Erick Gardin)
+author: Julia Barbelane et Erick Gardin
 ---
 
 Quoi ? La thym de Sud Web recrute ? Sud Web ? The Sud Web, le truc focus sur l'Humain, le sens et les valeurs ? Erick ! Je ramène ma fraise et on fonce. J'ai trop hâte de travailler avec eux et me mettre au service d'un truc qui fait sens. Deux mails et deux coups de cuillères à pots plus tard nous voilà embarqué·e·s dans l'aventure qui ne sera pas sans surprises…

@@ -1,5 +1,5 @@
 ---
-title: [Révelations] Changement de tête au programme de Sud Web !
+title: "[Révelations] Changement de tête au programme de Sud Web !"
 locale: fr_FR
 description: “Militer pour une presse libre” sera présenté par Stéphane Alliès
 author: Boris Schapira et Alexandra Janin

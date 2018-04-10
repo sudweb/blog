@@ -1,13 +1,13 @@
 ---
 title: "[Révelations] Changement de tête au programme de Sud Web !"
 locale: fr_FR
-description: “Militer pour une presse libre” sera présenté par Stéphane Alliès
+description: '"L’information reconfigurée par le numérique" sera présenté par Stéphane Alliès'
 author: Boris Schapira et Alexandra Janin
 ---
 
 Comme chaque année, il arrive que des orateurs soient contraints d’annuler leur venue, c’est le cas aujourd’hui pour Edwy Plenel. Nous en sommes sincèrement désolés et nous tenions à vous informer des circonstances de ce changement de programme.
 
-## “Militer pour une presse libre” sera présenté par Stéphane Alliès
+## "L’information reconfigurée par le numérique" sera présenté par Stéphane Alliès
 
 La présence d’Edwy nous permettait de faire des ponts entre les métiers, en représentant une personne qui a lancé un site web auquel on prédisait un échec et pour finalement réussir en présentant un modèle alternatif à celui de la presse traditionnelle. Mais Mediapart, ce n’est pas Edwy Plenel, c’est toute une équipe qui s’anime chaque jour pour que ce modèle survive. Une équipe qui a parfois connu autre chose et continue à étudier le modèle de Mediapart pour qu’il reste pérenne. Nous aurons l’honneur d’accueillir une autre personne digne d’incarner cette expérience hors-norme : Stéphane Alliès.
 

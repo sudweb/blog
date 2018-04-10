@@ -19,4 +19,4 @@ Edwy Plenel avait plusieurs engagements au mois de mai, notamment un colloque à
 
 Cet autre événement concerne l’immigration en Europe et nous comprenons que dans la hiérarchie de l’utilité des conférences, certaines sont plus importantes que d’autres. Nous n’avons donc pas discuté et sommes ravis d’accueillir Stéphane qui nous apportera un autre regard sur ce sujet qui nous tenait à cœur.
 
-[Retrouvez le programme complet ici](https://sudweb.fr/2018/programme/)
+<p class="text-center"> <a class="button" data-text="consulter le programme de Sud Web" href="https://sudweb.fr/2018/programme/" title="consulter le programme de Sud Web"> <span class="button-inner">consulter le programme de Sud Web</span> </a> </p>

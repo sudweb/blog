@@ -5,8 +5,6 @@ description: “Militer pour une presse libre” sera présenté par Stéphane A
 author: Boris Schapira et Alexandra Janin
 ---
 
-## Annulation d’Edwy Plenel
-
 Comme chaque année, il arrive que des orateurs soient contraints d’annuler leur venue, c’est le cas aujourd’hui pour Edwy Plenel. Nous en sommes sincèrement désolés et nous tenions à vous informer des circonstances de ce changement de programme.
 
 ## “Militer pour une presse libre” sera présenté par Stéphane Alliès

@@ -529,3 +529,7 @@
     extract: >-
       SudWeb est un cadre d'échange qui fait du bien. Il s'y mèle bienveillance et bientraitance. Chacun est libre de faire les choses à son rythme et c'est libérateur.<br/>
       Si vous vous doutez qu'il y a un peu plus que les choix techniques dans nos métiers, peut être que c'est fait pour vous.
+  - url: https://userland.fr/2018/05/27/notes-sud-web-2018/
+    title: "Notes Sud Web 2018"
+    locale: fr_FR
+    authors: [Goulven Champenois]

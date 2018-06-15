@@ -516,10 +516,16 @@
     locale: fr_FR
     authors: ["Mathieu Dartigues"]
     extract: >-
-      SudWeb, édition 2018.<br/>
-      Ça faisait un petit moment que je n'y avais pas mis les pieds.
+      [Sud Web] Ça faisait un petit moment que je n'y avais pas mis les pieds.<br/>
 
-      Depuis l'édition 2014 je crois, du temps où je travaillais encore à l'ORU-MiP.
+      Depuis l'édition 2014 je crois, du temps où je travaillais encore à l'ORU-MiP.<br/>
 
       Et je dois dire que j'ai apprécié.<br/>
-      Beaucoup."
+      Beaucoup.
+  - url: https://www.julienpradet.fr/autres/sud-web-2018/
+    title: "SudWeb 2018"
+    locale: fr_FR
+    authors: ["Julien Pradet"]
+    extract: >-
+      SudWeb est un cadre d'échange qui fait du bien. Il s'y mèle bienveillance et bientraitance. Chacun est libre de faire les choses à son rythme et c'est libérateur.<br/>
+      Si vous vous doutez qu'il y a un peu plus que les choix techniques dans nos métiers, peut être que c'est fait pour vous.

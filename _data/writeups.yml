@@ -511,6 +511,9 @@
     authors: ["Clément Billiot", "Sébastien Isorez"]
     extract: >-
       Sud Web est une conférence/forum complètement orientée autour de l’humain, qui fait écho à ce besoin de sens que beaucoup d’entre nous recherchons dans notre travail au quotidien.
+    from:
+      name: Backelite
+      url: https://www.backelite.com/
   - url: http://madz.fr/blog/2018-05-28-sudweb-anduze.html
     title: "Retours de SudWeb 2018 à Anduze"
     locale: fr_FR
@@ -533,3 +536,10 @@
     title: "Notes Sud Web 2018"
     locale: fr_FR
     authors: [Goulven Champenois]
+  - url : https://makina-corpus.com/blog/societe/retour-sudweb-2018
+    title: "Retour Sud Web 2018"
+    locale: fr_FR
+    authors: ["Alexandra Janin", "Amel Penant", "Florian Sommariva", "Bastien Alvez", "Benjamin Marguin", "Mathieu Dartigues"]
+    from:
+      name: Makina Corpus
+      url: https://makina-corpus.com/

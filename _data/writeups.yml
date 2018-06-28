@@ -543,3 +543,9 @@
     from:
       name: Makina Corpus
       url: https://makina-corpus.com/
+  - url: http://romy.tetue.net/sudweb-2018
+    title: "Sud Web 2018"
+    locale: fr_FR
+    authors: [Romy Duhem-Verdière]
+    extract: >-
+      Sud Web reste une rencontre très inspirante et j’aime sa capacité à continuer d’infuser au delà de l’événement.

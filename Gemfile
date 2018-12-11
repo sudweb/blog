@@ -3,7 +3,9 @@
 source 'https://rubygems.org'
 ruby '2.4.0'
 
-gem 'jekyll', '~>3.6.2'
+gem 'jekyll', '~>3.8.5'
+gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
+gem 'sassc'
 
 group :jekyll_plugins do
   gem 'jekyll-github-metadata'
@@ -13,6 +15,7 @@ group :jekyll_plugins do
   gem 'liquid-md5'
   gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
   gem 'octopress-autoprefixer'
+  gem 'jekyll-include-cache'
 end
 
 group :development do

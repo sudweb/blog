@@ -8,8 +8,8 @@ $black                            : #000000;
 $softgrey                         : #ABB4BE;
 $softwhite                        : #FCFEFD;
 $white                            : #FFFFFF;
-$green                            : #6A7C2C;
-$darkgreen                        : #192112;
+$green                            : #d15757;
+$darkgreen                        : #371b1c;
 
 $blue                             : #12A6C6;
 $orange                           : #F39C12;
@@ -40,7 +40,7 @@ $selection-bg                     : $green;
 
 $hr-color                         : lighten($softgrey, 20%);
 
-$blockquote-border-color          : lighten($green, 35%);
+$blockquote-border-color          : mix(white, $green, 55%);
 
 
 // Forms
@@ -49,7 +49,7 @@ $label-color                      : $focus-color;
 
 $input-color                      : $default-color;
 $input-bg                         : transparent;
-$input-border-color               : lighten($green, 35%);
+$input-border-color               : mix(white, $green, 55%);
 $input-focus-color                : $black;
 $input-focus-bg                   : transparent;
 $input-focus-border-color         : $black;
@@ -57,7 +57,7 @@ $input-focus-border-color         : $black;
 
 // Buttons:
 
-$btn-bg                           : lighten($green, 35%);
+$btn-bg                           : mix(white, $green, 55%);
 $btn-color                        : $darkgreen;
 $btn-hover-bg                     : $green;
 $btn-hover-color                  : $white;

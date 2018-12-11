@@ -4,10 +4,10 @@ layout: microtypo
 
 {% assign locale = page.locale | default: site.locale %}{% assign lang = locale | slice: 0,2 %}{% include head.html %}
 <body>
-  {% include header-page.html %}
-  {% include navigation.html %}
+  {% include_cached header-page.html %}
+  {% include_cached navigation.html %}
   {{ content }}
-  {% include footer.html %}
-  {% include scripts.html %}
+  {% include_cached footer.html %}
+  {% include_cached scripts.html %}
 </body>
 </html>

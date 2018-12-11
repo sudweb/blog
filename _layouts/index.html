@@ -17,14 +17,9 @@ layout: default
       {% if current_edition == '' %}
         {% assign current_edition = post.category %}
       {% else %}
-        {% if post.category == current_edition %}
         <div class="wrapper">
           <hr>
         </div>
-        {% else %}
-          {% assign current_edition = post.category %}
-          {% include banners/bambouseraie.html locale=page.locale %}
-        {% endif %}
       {% endif %}
       {% include post-summary.html post=post %}
     {% endfor %}

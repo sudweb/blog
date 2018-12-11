@@ -3,9 +3,9 @@
   value: ""
   in_nav: true
   in_footer: false
-- name: Site de l'édition 2018
+- name: Site de sudweb
   type: url
-  value: https://sudweb.fr/2018/
+  value: https://sudweb.fr/
   in_nav: true
   in_footer: true
 - name: Témoignages

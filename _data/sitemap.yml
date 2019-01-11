@@ -17,7 +17,7 @@
   type: url
   value: https://sudweb.fr/2018/financer
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Contact
   type: page
   value: contact

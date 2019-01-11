@@ -20,7 +20,7 @@ deploy:
   skip_cleanup: true
   script: rsync -r --delete-after --quiet --exclude '.ssh' $TRAVIS_BUILD_DIR/_site/blog/ sudweb_blog@ssh-sudweb.alwaysdata.net:/home/sudweb/www/blog/
   on:
-    branch: green
+    branch: red
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

@@ -1,5 +1,6 @@
 ---
 title: "[J-18] Tarifs réduits, diversité : un point sur nos places financées"
+category: '2018'
 locale: fr_FR
 description: '"L’information reconfigurée par le numérique" sera présenté par Stéphane Alliès'
 author: Boris Schapira

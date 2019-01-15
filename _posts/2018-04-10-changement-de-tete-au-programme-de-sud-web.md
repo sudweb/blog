@@ -1,5 +1,6 @@
 ---
 title: "[Révelations] Changement de tête au programme de Sud Web !"
+category: '2018'
 locale: fr_FR
 description: '"L’information reconfigurée par le numérique" sera présenté par Stéphane Alliès'
 author: Boris Schapira et Alexandra Janin

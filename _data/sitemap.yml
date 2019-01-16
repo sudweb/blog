@@ -15,7 +15,7 @@
   in_footer: true
 - name: Aider Sud Web
   type: url
-  value: https://sudweb.fr/2018/financer
+  value: https://sudweb.fr/2019/financer
   in_nav: false
   in_footer: false
 - name: Contact
@@ -25,11 +25,11 @@
   in_footer: false
 - name: Mentions légales
   type: url
-  value: https://sudweb.fr/2018/mentions-legales
+  value: https://sudweb.fr/2019/mentions-legales
   in_nav: false
   in_footer: true
 - name: Témoignages
   type: url
-  value: https://sudweb.fr/2018/temoignages
+  value: https://sudweb.fr/2019/temoignages
   in_nav: false
   in_footer: true

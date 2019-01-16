@@ -22,7 +22,7 @@
   type: page
   value: contact
   in_nav: true
-  in_footer: true
+  in_footer: false
 - name: Mentions légales
   type: url
   value: https://sudweb.fr/2018/mentions-legales

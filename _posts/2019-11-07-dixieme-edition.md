@@ -1,5 +1,5 @@
 ---
-title : En route vers une 10ème édition ? État des lieux
+title : En route vers une dixième édition ? État des lieux
 category: '2020'
 locale: fr_FR
 description: 'Vous attendez des nouvelles sur l’organisation de l’édition de Sud Web ? Vous êtes impatientes de savoir comment ? Où cela va se passer ?'
@@ -8,7 +8,7 @@ author: Sud Web
 
 Vous attendez des nouvelles sur l’organisation de l’édition de Sud Web ? Vous êtes impatient·es de savoir comment ? Où cela va se passer ?
 
-Et bien, l’équipe ne sait pas. Elle n’est pas sure qu’il y aura une nouvelle édition. Pourtant elle continue de discuter pour continuer de faire vivre l’esprit Sud Web. Trouver le moyen de se retrouver et de mettre dans un même lieu des personnes d’horizons différents.
+Eh bien, l’équipe ne sait pas. Elle n’est pas sure qu’il y aura une nouvelle édition. Pourtant elle continue de discuter pour continuer de faire vivre l’esprit Sud Web. Trouver le moyen de se retrouver et de mettre dans un même lieu des personnes d’horizons différents.
 
 ## Évolution de l’équipe
 
@@ -20,7 +20,7 @@ Et bien, l’équipe ne sait pas. Elle n’est pas sure qu’il y aura une nouve
 
 S'il y a eu une certaine stabilité durant plusieurs années, pendant laquelle l'équipe était tenue par les fondateurs, il y a eu ensuite un renouvellement important en 2018. 
 
-En 2019, sur 7 personnes, 5 sont parties ; 2 personnes qui n'avaient jamais organisées de conférence sont arrivées.
+En 2019, sur 7 personnes, 5 sont parties ; 2 personnes qui n'avaient jamais organisé de conférence sont arrivées.
 
 L'équipe a donc vu en 3 ans son capital __années d’expérience__ fondre.
 
@@ -34,7 +34,7 @@ Nous avons bien fait quelques appels, mais il n’est pas évident de faire rent
 
 ## Le bilan de l’édition 2019
 
-Beaucoup de choses ont été tentées en 2019. Nous avons essayé de revoir le format avec plus d’interactions de groupe dans la journée ; essayé de se rapprocher de la société civile avec un forum ouvert dans une jardin partagé…
+Beaucoup de choses ont été tentées en 2019. Nous avons essayé de revoir le format avec plus d’interactions de groupe dans la journée ; essayé de se rapprocher de la société civile avec un forum ouvert dans un jardin partagé…
 
 Beaucoup de pépins nous sont tombés dessus : suite à des mauvais choix de ville, de salle, de stratégie… ?
 
@@ -74,7 +74,7 @@ Pour cela, nous voulons inverser l’ordre :
 4. Choisir une ville (une salle)
 5. Choisir une date, un moment
 
-Pourquoi l‘inverser ?
+Pourquoi l’inverser ?
 
 Parce que ce qui compte ce n’est finalement pas d’organiser une conférence, mais plutôt pourquoi organiser une conférence, avec qui organiser une conférence, pour qui organiser une conférence…
 
@@ -118,8 +118,8 @@ Peut-être que certains ne comprennent pas cette démarche. Pour l'équipe, Sud 
 
 La question du sens (plus que du résultat) a toujours été centrale au sein des équipes. 
 
-Étant donnés nos moyens pour continuer à faire vivre Sud Web, nous avons choisi de mettre en place une logique de résilience. Une logique qui pourrait se baser encore plus sur de l’auto-gestion ou de l'auto-organisation.
+Étant donné nos moyens pour continuer à faire vivre Sud Web, nous avons choisi de mettre en place une logique de résilience. Une logique qui pourrait se baser encore plus sur de l’auto-gestion ou de l'auto-organisation.
 
 Nous ne voulons pas prendre de risques qui mettraient à mal la santé des membres de l'équipe ou encore la trésorerie de l’association. 
 
-Nous voulons rester raisonnable et garder ce qui est profitable humainement pour tous.
+Nous voulons rester raisonnables et garder ce qui est profitable humainement pour tous.

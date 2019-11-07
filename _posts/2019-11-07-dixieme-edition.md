@@ -2,9 +2,11 @@
 title : En route vers une 10ème édition ? État des lieux
 category: '2020'
 locale: fr_FR
-description: 'Vous attendez des nouvelles sur l’organisation de l’édition de Sud Web ? Vous êtes impatient·es de savoir comment ? Où cela va se passer ?'
+description: 'Vous attendez des nouvelles sur l’organisation de l’édition de Sud Web ? Vous êtes impatientes de savoir comment ? Où cela va se passer ?'
 author: Sud Web
 ---
+
+Vous attendez des nouvelles sur l’organisation de l’édition de Sud Web ? Vous êtes impatient·es de savoir comment ? Où cela va se passer ?
 
 Et bien, l’équipe ne sait pas. Elle n’est pas sure qu’il y aura une nouvelle édition. Pourtant elle continue de discuter pour continuer de faire vivre l’esprit Sud Web. Trouver le moyen de se retrouver et de mettre dans un même lieu des personnes d’horizons différents.
 

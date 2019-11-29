@@ -12,11 +12,16 @@ Eh bien, l’équipe ne sait pas. Elle n’est pas sure qu’il y aura une nouve
 
 ## Évolution de l’équipe
 
- * En **2016**, l’équipe comportait 8 personnes, 5 anciens, 3 nouveaux.
- * En **2017**, l’équipe comportait 8 personnes, 6 anciens, 2 nouveaux.
- * En **2018**, l’équipe comportait 7 personnes, 4 anciens, 3 nouveaux.
- * En **2019**, l’équipe comportait 4 personnes, 2 anciens, 2 nouveaux.
- * En **2020**, l’équipe comporte 3 personnes, 3 anciens
+ * En **2011**, l’équipe comportait 15 personnes, 15 nouvelles.
+ * En **2012**, l’équipe comportait 12 personnes, 12 anciennes.
+ * En **2013**, l’équipe comportait 9 personnes, 9 anciennes.
+ * En **2014**, l’équipe comportait 3 personnes et demi, 4 anciennes.
+ * En **2015**, l’équipe comportait 5 personnes, 3 anciennes, 2 nouvelles.
+ * En **2016**, l’équipe comportait 8 personnes, 5 anciennes, 3 nouvelles.
+ * En **2017**, l’équipe comportait 8 personnes, 6 anciennes, 2 nouvelles.
+ * En **2018**, l’équipe comportait 7 personnes, 4 anciennes, 3 nouvelles.
+ * En **2019**, l’équipe comportait 4 personnes, 2 anciennes, 2 nouvelles.
+ * En **2020**, l’équipe comporte 3 personnes, 3 anciennes
 
 S'il y a eu une certaine stabilité durant plusieurs années, pendant laquelle l'équipe était tenue par les fondateurs, il y a eu ensuite un renouvellement important en 2018. 
 

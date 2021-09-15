@@ -76,6 +76,26 @@ Le site est maintenant accessible en local à l'adresse http://127.0.0.1:4000/ (
 
 Pour plus d'information sur l'utilisation de Jekyll, reportez-vous à la [documentation officielle](http://jekyllrb.com/docs/home/).
 
+## Production
+
+Le blog est déployé sur un serveur [AlwaysData](https://www.alwaysdata.com/) par le biais de GitHub Actions.
+
+Le script de déploiement se trouve dans le fichier [`.github/workflows/deploy.yml`](/.github/workflows/deploy.yml). Pour fonctionner, il a besoin d’une clé <abbr>SSH</abbr> privée valide.
+
+Pour générer et autoriser une nouvelle clé <abbr>SSH</abbr>, **à exécuter sur votre machine locale** :
+
+```console
+$ # Génère la clé SSH elle-même (lorsqu’il vous sera demandé, ne précisez pas de mot de passe)
+$ ssh-keygen -o -a 100 -t ed25519 -f ./deploykey -C "github-actions@sudweb.fr"
+$
+$ # Autorise la clé à être utilisée pour se connecter au serveur (il vous sera demandé le mot de passe de l’utilisateur sudweb_blog)
+$ ssh-copy-id -i deploykey.pub sudweb_blog@ssh-sudweb.alwaysdata.net
+$
+$ # Copie la clé privée dans votre presse-papier
+$ cat deploykey | xsel --clipboard
+```
+
+Il ne reste plus qu’à coller la valeur copiée en valeur de la variable d’environnement `SSH_PRIVATE_KEY` pour [l’environnement `production-alwaysdata`](https://github.com/sudweb/blog/settings/environments).
 
 ## Contribution
 

@@ -1,0 +1,32 @@
+name: Deploy blog on AlwaysData
+
+on:
+  push:
+    branches:
+      - red
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-20.04
+    environment: production-alwaysdata
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    - name: Build the blog
+      run: |
+        bundle exec rake build:prod
+        bundle exec rake postbuild:test
+
+    - name: Deploy the blog to AlwaysData
+      run: |
+        eval "$(ssh-agent -s)"
+        mkdir ~/.ssh
+        ssh-keyscan ssh-sudweb.alwaysdata.net,185.31.40.87 >> ~/.ssh/known_hosts
+        ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
+        rsync -r --delete-after --quiet ./_site/blog/ sudweb_blog@ssh-sudweb.alwaysdata.net:/home/sudweb/www/blog/
+        ssh-agent -k

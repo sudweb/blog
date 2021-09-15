@@ -97,6 +97,12 @@ $ cat deploykey | xsel --clipboard
 
 Il ne reste plus qu’à coller la valeur copiée en valeur de la variable d’environnement `SSH_PRIVATE_KEY` pour [l’environnement `production-alwaysdata`](https://github.com/sudweb/blog/settings/environments).
 
+Le script a également besoin d’une variable d’environnement `SSH_KNOWN_HOSTS` dont vous pouvez générer la valeur avec la commande suivante :
+
+```console
+$ ssh-keyscan ssh-sudweb.alwaysdata.net
+```
+
 ## Contribution
 
 Pour toute demande, merci de [créer une issue](https://github.com/sudweb/2018/issues/new) sur GitHub.

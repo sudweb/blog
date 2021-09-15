@@ -13,20 +13,28 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - uses: ruby/setup-ruby@v1
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
       with:
         bundler-cache: true
+
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        name: id_ed25519
+        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
+        config: |
+          Host alwaysdata
+            HostName ssh-sudweb.alwaysdata.net
+            User sudweb_blog
+            IdentityFile ~/.ssh/id_ed25519
+            IdentitiesOnly yes
 
     - name: Build the blog
       run: |
         bundle exec rake build:prod
         bundle exec rake postbuild:test
 
-    - name: Deploy the blog to AlwaysData
-      run: |
-        eval "$(ssh-agent -s)"
-        mkdir ~/.ssh
-        ssh-keyscan ssh-sudweb.alwaysdata.net,185.31.40.87 >> ~/.ssh/known_hosts
-        ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
-        rsync -r --delete-after --quiet ./_site/blog/ sudweb_blog@ssh-sudweb.alwaysdata.net:/home/sudweb/www/blog/
-        ssh-agent -k
+    - name: Deploy the blog on AlwaysData
+      run: rsync -r --delete-after --quiet --exclude '.ssh' ./_site/blog/ alwaysdata:/home/sudweb/www/blog/

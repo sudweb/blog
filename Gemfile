@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby '2.4.0'
+ruby '2.6.3'
 
 gem 'jekyll', '~>3.8.5'
 gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'

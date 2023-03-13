@@ -1,6 +1,9 @@
 - name: facebook
   title: Sud Web sur Facebook
   url: https://www.facebook.com/SudWeb
+- name: mastodon
+  title: Sud Web sur le Fediverse
+  url: https://piaille.fr/@sudweb
 - name: twitter
   title: Sud Web sur Twitter
   url: https://twitter.com/sudweb
@@ -12,4 +15,4 @@
   url: https://www.flickr.com/people/sudweb/
 - name: slack
   title: Sud Web sur Slack
-  url: http://sudweb.herokuapp.com/
+  url: http://slack.sudweb.fr/

@@ -3,7 +3,7 @@
   value: ""
   in_nav: true
   in_footer: false
-- name: Site de sudweb
+- name: Sud Web 2023
   type: url
   value: https://sudweb.fr/
   in_nav: true
@@ -13,11 +13,6 @@
   value: temoignages
   in_nav: true
   in_footer: true
-- name: Aider Sud Web
-  type: url
-  value: https://sudweb.fr/2019/financer
-  in_nav: false
-  in_footer: false
 - name: Contact
   type: page
   value: contact
@@ -25,11 +20,11 @@
   in_footer: false
 - name: Mentions légales
   type: url
-  value: https://sudweb.fr/2019/mentions-legales
+  value: https://sudweb.fr/2023/mentions-legales/
   in_nav: false
   in_footer: true
 - name: Témoignages
   type: url
-  value: https://sudweb.fr/2019/temoignages
+  value: https://sudweb.fr/blog/temoignages/
   in_nav: false
   in_footer: true

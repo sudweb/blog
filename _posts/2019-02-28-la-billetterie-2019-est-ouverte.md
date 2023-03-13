@@ -32,4 +32,4 @@ On a conscience que certain·es d’entre vous ne peuvent pas se permettre de d�
 
 ## Plus d’informations bientôt
 
-Si on n’a pas été très causant ces derniers temps, on va essayer de rattraper ça. L’organisation avance, et si vous êtes curieuses ou curieux, si vous avez des questions, on vous rappelle que vous pouvez nous contacter [par mail](mailto:contact@sudweb.fr), sur [Twitter](https://twitter.com/sudweb) ou nous rejoindre sur [Slack](http://sudweb.herokuapp.com/).
+Si on n’a pas été très causant ces derniers temps, on va essayer de rattraper ça. L’organisation avance, et si vous êtes curieuses ou curieux, si vous avez des questions, on vous rappelle que vous pouvez nous contacter [par mail](mailto:contact@sudweb.fr), sur [Twitter](https://twitter.com/sudweb) ou nous rejoindre sur [Slack](http://slack.sudweb.fr/).

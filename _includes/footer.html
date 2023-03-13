@@ -17,7 +17,7 @@
         </nav>
       </section>
       <section>
-        <h3 id="footerTitle2" class="text-lg">Sud Web 2018</h3>
+        <h3 id="footerTitle2" class="text-lg">Site de Sud Web</h3>
         <nav aria-labelledby="footerTitle2">
           <ul>
             {% assign footer_links = site.data.sitemap | where: 'in_footer', true %}
@@ -29,6 +29,7 @@
       </section>
       <section>
         <h3 class="text-lg">{% t On reste en contact ? %}</h3>
+        {% comment %}
         <form action="//sudweb.us2.list-manage.com/subscribe/post?u=af19b58cf514c01eca3f7652e&amp;id=b579f5b507"
           method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
           class="newsletter-form validate" target="_blank" rel="noopener noreferrer" novalidate="">
@@ -42,6 +43,7 @@
             <button class="button-reset" type="submit" name="subscribe" id="mc-embedded-subscribe">ok</button>
           </div>
         </form>
+        {% endcomment %}
         <ul class="social-links">
           {% for social in site.data.social %}
             <li>

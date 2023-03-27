@@ -1,5 +1,5 @@
 ---
-title : "Les inscriptions sont ouverte pour Sud Web 2023"
+title : "Les inscriptions sont ouvertes pour Sud Web 2023"
 category: '2023'
 locale: fr_FR
 description: "Après plusieurs années d'absence, Sud Web revient les 2 et 3 juin, à Toulouse. Les inscriptions sont désormais ouvertes."

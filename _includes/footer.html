@@ -29,21 +29,46 @@
       </section>
       <section>
         <h3 class="text-lg">{% t On reste en contact ? %}</h3>
-        {% comment %}
-        <form action="//sudweb.us2.list-manage.com/subscribe/post?u=af19b58cf514c01eca3f7652e&amp;id=b579f5b507"
-          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-          class="newsletter-form validate" target="_blank" rel="noopener noreferrer" novalidate="">
+        <form
+          action="https://sudweb.us10.list-manage.com/subscribe/post"
+          method="post"
+          id="mc-embedded-subscribe-form"
+          name="mc-embedded-subscribe-form"
+          class="newsletter-form validate"
+          target="_blank"
+          rel="noopener noreferrer"
+          novalidate=""
+        >
+          <input type="hidden" name="u" value="97ca8fd39c2ce2d39c235b3a2">
+          <input type="hidden" name="id" value="e528f83f39">
+
           <label for="mce-EMAIL">{% t Recevez la Sud Web letter %}</label>
           <div class="form-row">
-            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="{% t Votre email %}" required="">
+            <input
+              autocapitalize="none"
+              autocorrect="off"
+              class="email"
+              id="MERGE0"
+              name="MERGE0"
+              placeholder="{% t Votre email %}"
+              required=""
+              type="email"
+              value=""
+            >
+
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
-              <input type="text" name="b_af19b58cf514c01eca3f7652e_b579f5b507" tabindex="-1" value="">
+              <label for="b_name">Name: </label>
+              <input type="text" name="b_name" tabindex="-1" placeholder="Bob" id="b_name" value="">
+              <label for="b_email">Email: </label>
+              <input type="email" name="b_email" tabindex="-1" placeholder="votreadresse@gmail.com" id="b_email" value="">
+              <label for="b_comment">Comment: </label>
+              <textarea name="b_comment" tabindex="-1" placeholder="Please comment" id="b_comment"></textarea>
             </div>
             <button class="button-reset" type="submit" name="subscribe" id="mc-embedded-subscribe">ok</button>
           </div>
         </form>
-        {% endcomment %}
+
         <ul class="social-links">
           {% for social in site.data.social %}
             <li>

@@ -20,4 +20,4 @@ Nous avons alors pensé que c’était le bon moment pour relancer la machine Su
 La nouvelle équipe comprend des anciens de la première heure et des participants enthousiastes. Nous avons à cœur de renouer avec l’esprit Sud Web : une conférence humaine, de longues pauses pour échanger et un samedi atelier pour construire ensemble.
 
 La Thym 2023   
-Ancelin, Benjamin, Carine, Christophe, Loïc, Nathalie, Nicolas et Thanh
+[Ancelin](https://www.linkedin.com/in/ancelin-tran-609a6144/), [Benjamin](https://mastodon.xyz/@mab), [Carine](https://piaille.fr/@CarineSobisiak), [Loïc](https://loic.mathaud.fr/), [Nathalie](https://www.linkedin.com/in/nathalie-rosenberg-086408193/), Nicolas et [Thanh](https://mamot.fr/@thanh)

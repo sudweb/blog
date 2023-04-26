@@ -5,7 +5,7 @@ locale: fr_FR
 description: "Si vous voulez que la 10e édition de Sud Web ait lieu, les inscriptions c’est MAINTENANT ou jamais."
 author: Sud Web
 ---
-Si cela ne s'était pas reflété dans notre communication que nous avons voulue à l’image de Sud Web, soit positive et fondamentalement humaine, comme dirait l’autre… il faut que nous parlions.
+Si cela ne s’était pas reflété dans notre communication que nous avons voulue à l’image de Sud Web, soit positive et fondamentalement humaine, comme dirait l’autre… il faut que nous parlions.
 
 Nous avons construit un programme qui se veut **original, paritaire, avec autant de nouvelles voix que des plus expérimentées**, et également **des voix que l’on n’entend pas assez**. 
 

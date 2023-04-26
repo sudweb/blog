@@ -7,7 +7,7 @@ author: Sud Web
 ---
 Si cela ne s’était pas reflété dans notre communication que nous avons voulue à l’image de Sud Web, soit positive et fondamentalement humaine, comme dirait l’autre… il faut que nous parlions.
 
-Nous avons construit un programme qui se veut **original, paritaire, avec autant de nouvelles voix que des plus expérimentées**, et également **des voix que l’on n’entend pas assez**. 
+Nous avons construit [un programme](https://sudweb.fr/2023/) qui se veut **original, paritaire, avec autant de nouvelles voix que des plus expérimentées**, et également **des voix que l’on n’entend pas assez**. 
 
 Nous remercions toutes celles et ceux qui ont proposé et aidé à construire ce programme, dont nous sommes objectivement fiers et contents. Au vu des réactions sur les réseaux sociaux, il nous semble que le programme vous intéresse aussi.
 

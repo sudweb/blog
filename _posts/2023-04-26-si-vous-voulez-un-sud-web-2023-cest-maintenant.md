@@ -32,3 +32,5 @@ En prenant votre place, non seulement vous montrerez que les événements **cent
 Vous avez encore **le choix de nous envoyer ce signal, et de l’envoyer plus globalement à tout le métier**. Nous nous en remettons à vous.
 
 <p class="text-center"> <a class="button" data-text="Je prends ma place MAINTENANT" href="https://sudweb.fr/2023/billetterie/"> <span class="button-inner">Je prends ma place MAINTENANT</span> </a> </p>
+
+*Précision : Si vous vous inscrivez et si nous devons malgré tout annuler l'événement, le ticket vous sera intégralement remboursé.*

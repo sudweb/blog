@@ -33,6 +33,6 @@ Vous avez encore **le choix de nous envoyer ce signal, et de l’envoyer plus gl
 
 <p class="text-center"> <a class="button" data-text="Je prends ma place MAINTENANT" href="https://sudweb.fr/2023/billetterie/"> <span class="button-inner">Je prends ma place MAINTENANT</span> </a> </p>
 
-*Précision :* 
+*Précisions :* 
 * *Si vous vous inscrivez et si nous devons malgré tout annuler l'événement, le ticket vous sera remboursé.*
 * *Les dates et lieux de l'événement n'étant pas affichés sur le blog, nous précisons ici que c'est prévu les 2 et 3 juin 2023 à [Toulouse](https://sudweb.fr/2023/les-lieux/).*
